@@ -1,0 +1,6 @@
+subtask,model,n,appeals_to_world_pct,acc_when_appeals,acc_otherwise
+1,llama3.1-8b,191,1.0,100.0,71.4
+1,llama3.2-3b,191,0.0,,62.3
+1,qwen3-8b,191,0.5,100.0,84.2
+2,llama3.1-8b,190,0.5,0.0,61.9
+2,qwen3-8b,190,3.7,100.0,83.6

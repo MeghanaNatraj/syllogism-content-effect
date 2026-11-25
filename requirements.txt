@@ -1,0 +1,7 @@
+torch
+transformers>=4.51
+accelerate
+bitsandbytes>=0.46.1
+huggingface_hub
+pandas
+matplotlib

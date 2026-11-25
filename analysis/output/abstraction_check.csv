@@ -1,0 +1,6 @@
+subtask,model,n,rewrites_with_3_letters_pct,acc_when_3_letters,acc_otherwise,n_otherwise
+1,llama3.1-8b,191,44.0,77.4,65.4,107
+1,llama3.2-3b,191,77.0,61.2,59.1,44
+1,qwen3-8b,191,83.8,69.4,64.5,31
+2,llama3.1-8b,190,,,,
+2,qwen3-8b,190,,,,

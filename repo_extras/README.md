@@ -1,6 +1,5 @@
 # Content Effects in LLM Syllogistic Reasoning (SemEval-2026 Task 11)
 
-CS 421 (NLP) course project, University of Illinois Chicago.
 
 The task: decide whether a syllogism is **logically valid**, regardless of whether its conclusion sounds true. This project measures how strongly three open LLMs are swayed by believable content (the *content effect*), tests two low-cost prompting fixes, and checks what irrelevant premises do.
 

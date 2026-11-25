@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "34ccf2ca-3f48-4493-bd28-afa6da0c45ce",
+    "validity": false,
+    "p_yes": 0.0474,
+    "abstract": "Some A enjoy chasing B. Any C that is a D is a E. Everything that is a F is a G. There are no H that lay eggs like I. It is a known fact that all J roar loudly. Every single K is a L. Any and all M are also N. This implies that all M are O.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "37190acf-8bb4-4c0b-995a-05937430dfad",
+    "validity": false,
+    "p_yes": 0.0011,
+    "abstract": "Every A is B. Some C are B. There are many D that are B. Any E is B. It is a fact that all F are B. It is a fact that every G is B. It is also true that all H are B. Therefore, it is concluded that a few B are H.",
+    "relevant_premises": [
+      6
+    ]
+  },
+  {
+    "id": "94ea0032-e8dd-47bf-9a0b-49359335c390",
+    "validity": false,
+    "p_yes": 0.0276,
+    "abstract": "Some A are B. All C are D. All E are F. No G are H. All I are J. All K are L. All M are N. Some O are not P.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "b0508840-0a8f-4a1f-8931-2146e18b07db",
+    "validity": false,
+    "p_yes": 0.2282,
+    "abstract": "Every A has B. Some C are D. All E transport F. Any G is H. Some I are J. Everything that can be classified as D has K. Therefore, some things with K are C.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "9ee4c131-6dbe-436b-a116-04010e3071d1",
+    "validity": false,
+    "p_yes": 0.1778,
+    "abstract": "Any A that B is a C. There are no D that are E. It is a fact that all F are G. Every single H is a I. Every single D is a J. Anything that is a K is also a J. It's the case that some K fail to be D.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "416857a7-75fa-47d3-919f-fd5a61602550",
+    "validity": false,
+    "p_yes": 0.0851,
+    "abstract": "Every A is B. Some C are D. Any E that is F is G. There are no H that are not I. It is a known fact that all J are K. Anything that is L is M. Anything that is L is N. Consequently, some N are M.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "10fee120-c4d6-498a-8c42-0851d1984507",
+    "validity": false,
+    "p_yes": 0.3416,
+    "abstract": "Some A that are B are not C. All D can E. No F are not G. Any H is a I. Every J is K. Anything that is A is L. Therefore, there are some L that are not C.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "a825c9f6-44fa-47dc-9e90-c3751b1b40c3",
+    "validity": false,
+    "p_yes": 0.0034,
+    "abstract": "All A are B. No C are not D. Some E are F. Any G is H. Every I is J. Among the K that are L, some are M. A portion of the N that are O are P. It must be the case that some N are not L.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "f760a398-4e5f-4269-9ae8-1208bdafd53e",
+    "validity": false,
+    "p_yes": 0.0396,
+    "abstract": "Every A is B. Some C is D. Nothing in E is F. Any G is F. It is a known fact that all H is I. Among the items that are J, some are F. It follows that there are some J which are not E.",
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "03083605-e360-4009-92cb-01962a521a79",
+    "validity": false,
+    "p_yes": 0.0012,
+    "abstract": "There are no A who are not B. It is a known fact that all C have D. Every E is a C. Any E is a F. Anyone who is a G is also an E. This means that some G are not B.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "b6444591-91bd-4197-ad2c-9a51d202d1ed",
+    "validity": true,
+    "p_yes": 0.8991,
+    "abstract": "All A are B. Every C is D. No E are not F. Any G is H. All I that are J are K. There is not a single K which is L. It is necessarily true that no L is I.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "cb375b46-e5a9-438e-979f-e9fb13eba109",
+    "validity": false,
+    "p_yes": 0.3775,
+    "abstract": "Every A is B. There are no C that are not B. It is a fact that all D are B. There is no overlap between E and B. F and B have no members in common. F and E are the same group.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "46e32fc2-d62c-4a07-8475-9c8ccb546415",
+    "validity": false,
+    "p_yes": 0.0014,
+    "abstract": "Every A is a B. There are many C that are B. Any D is a B. There are no E that can be described as B. Some F are B. It is undeniable that all G are B. All H are defined as B. Therefore, we can say that a portion of H are not E.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "4fc99c76-6256-4bf2-b038-acb5bc92cde8",
+    "validity": true,
+    "p_yes": 0.6077,
+    "abstract": "Any A has a B of C and D. Some E orbit around F. A G is never a H. Every single I is a J of K. There are no L without M. It is a fact that some N are O. It must be true that some O are not H.",
+    "relevant_premises": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "a0ab48c1-16d8-4f59-ba17-77ce528fa107",
+    "validity": false,
+    "p_yes": 0.0016,
+    "abstract": "Some A are B. There is at least a C that is D. Every single E is F. It is a known fact that all G are H. There are no I that are not J. Among the group of things that are K, some are B. It follows that there are K which are not C.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "c0a6099e-c843-4681-a34d-6505513c182b",
+    "validity": false,
+    "p_yes": 0.0023,
+    "abstract": "All A are B. All C are D. No E are F. All G are H. Some I are J. All K are L. All K are M. Some M are not L.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "9d899c7b-cbe5-4afa-8d53-b255dfdfc420",
+    "validity": false,
+    "p_yes": 0.0447,
+    "abstract": "There are no A that are not B. Any C that D is a E. Every F is a G. Every single H barks at I. A portion of J are G. It is the case that some J are F.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "7a45e6d1-8e5d-4bc2-8fe4-dab2e9d77722",
+    "validity": true,
+    "p_yes": 0.8267,
+    "abstract": "Some A walk around on two legs. It is true that all B have beating hearts. There are some C that are D. Any E is actually a F. All of those who are F are G. Therefore, it can be said that some G are C.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "d6d14b49-6576-48f8-be78-08c8b3595fdd",
+    "validity": false,
+    "p_yes": 0.0003,
+    "abstract": "Some A are B. It is a fact that all C are D. Every single E is F. Anything that is a G is a H. Every single I is a H. It follows that every I is a G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "97e7f113-cb74-4c7c-99d2-60112ca353dd",
+    "validity": false,
+    "p_yes": 0.363,
+    "abstract": "All A are B. No C are not D. Some E are F. Every G is H. Any I is J. There exist no K who also are L. Everything that is M is N. M and K are mutually exclusive.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "65f9a20c-6380-45e2-b633-24c90d718e36",
+    "validity": true,
+    "p_yes": 0.6993,
+    "abstract": "Every A is a B. There are no C who are not D. Every single E is a F. Some G are actually H. It is a fact that all I are J. None of the K are L. This means that no L is an A.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "b9da97df-d784-4ce8-ac02-5c3d45c7a36b",
+    "validity": false,
+    "p_yes": 0.0029,
+    "abstract": "Every A is B. There are no C that touch D. Any E is F. There are no G that are H. It is true that all I are J. Some K are L. Among the M, a few are N. Not all O are P.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "f2781c09-004d-42bb-91c4-1a8a5bde2e10",
+    "validity": true,
+    "p_yes": 0.9659,
+    "abstract": "Every A is B. Any C is B. It is true that all D are E. Every single F is G. A few H are F. This leads to the conclusion that some H are G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "345712f6-065c-4a46-9d2b-58721658a4af",
+    "validity": false,
+    "p_yes": 0.0045,
+    "abstract": "All A is B. Some C is B. All D is B. All E is B. All F is B. Some F is not D.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "0681c777-9c5a-413e-9215-73c46d34456c",
+    "validity": false,
+    "p_yes": 0.3007,
+    "abstract": "A is a B that is C. All D are E. Some F are B that are G. Every H is an I that is J. Every K is A. It can be necessarily concluded that every K is C.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "2223cd9a-39b5-4cd8-aef9-ce81b21d2555",
+    "validity": false,
+    "p_yes": 0.023,
+    "abstract": "Every single A will eventually die. It is a known fact that all B were C. Everything that is a D is E. Any F was a G. A portion of G are E. It follows from this that some G are D.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b4d784e1-99f0-4ca5-b6c0-4a94b0ae5f42",
+    "validity": false,
+    "p_yes": 0.0034,
+    "abstract": "All A are B. All C are B. All D are B. Some E are B. All F are B. All G are B. There exist G who are not D.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "b238b4d0-c6db-4bdc-880c-7d2de8299118",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "Any A is B. Every C is B. Every D is B. There are many E that are B. It is true that all F are B. All things which are G are also B. It follows that every G is D.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "4b3bfb6a-a206-4d72-88e2-ac865e66cf69",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "All A are B. Every C is B. Some D are B. All E are B. Any F is B. Some G are B. No H are I. Therefore, some I are not E.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "ed463032-9ed6-43a3-a0a2-87bb7e1ebc69",
+    "validity": false,
+    "p_yes": 0.0174,
+    "abstract": "Not one single A is a B. Every C is a B. It is true that all D is a B. Some E are B. There are many F that are B. There are some G which are H that are I. This implies that some G are B.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "baeb1173-94db-4cae-aeee-f63127a89008",
+    "validity": false,
+    "p_yes": 0.0284,
+    "abstract": "Any A is a B. There are no C that are not B. Every single D is a B. It is a fact that all E are B. The group of F is a not part of the group of B. Every single thing that is a G is a B. All B are G.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "283a4c72-c0ce-4eb2-adc9-61605461b885",
+    "validity": false,
+    "p_yes": 0.0385,
+    "abstract": "Some A are B. Any C is D. There are no E that are not F. Every G is H. It is a fact that all I are J. Every K is L. It is the case that every single M is L. It follows that a few M are K.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "9863354b-3eaf-424e-a888-1b2dc93ae1c7",
+    "validity": false,
+    "p_yes": 0.0001,
+    "abstract": "Every A has B. There are many C that have B. It is a fact that all D have B. Every E has B. Any F has B. Anything that is a G has B. It is necessarily concluded that every G is an A.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "6a02fe69-e502-46f5-afbe-9ae1f126f5ed",
+    "validity": true,
+    "p_yes": 0.5234,
+    "abstract": "There are many A that are B. Every C is B. Anything that is B is not D. It is undeniable that all E are B. It is a fact that all F are B. It can be deduced that some F are not D.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "9d5d0576-5e6d-4957-99f3-f0fb5878efe8",
+    "validity": true,
+    "p_yes": 0.9996,
+    "abstract": "All A are B. Any C that is a D is a E. Every F is an organism that is B. There are no G that are F. Anything that is an E is an F. Therefore, it must be the case that all E are B.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "7e1a3e91-5093-4b62-997a-6c930dcb2f9f",
+    "validity": false,
+    "p_yes": 0.0567,
+    "abstract": "A is B. No C is not D. All E are F. Some G are H. Any I is J. Every K is B. Every K is A.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "ba29ca42-047d-43a1-8321-dd5deee3581d",
+    "validity": false,
+    "p_yes": 0.0009,
+    "abstract": "All A are B. All C are D. Some E are F. No G overlaps with H. All I are J. No K are L. All M are N. Therefore, some N are not G.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "b06bfd62-c8dd-4fd8-9b8a-0fdacd3fcf7e",
+    "validity": false,
+    "p_yes": 0.2018,
+    "abstract": "Every A grows B in C. It is true that all D have E in F. There are no G that do not blossom H. Every I is a J. A few K are J. It is the case that some K are I.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "b2e22a14-bb54-4ca0-9081-89d9471b088f",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "Every B is a C that can fly. It is true that all D are C that can fly. There are many E that are C that can fly. Any F is a C that can fly. There is at least one G that is a C that can fly. Some H are C that can fly. Anything that is an I is a C that can fly. For this reason, every I is a J.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "2d6f10e9-83ef-4172-a81e-0c29cf0e441b",
+    "validity": false,
+    "p_yes": 0.0065,
+    "abstract": "Every A is B. Some C are D. Every A is E. It is a fact that all F are G. The set of H contains no E. Some A can be found that are not H.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "050728df-9afd-40ed-87de-5bd21ca03795",
+    "validity": false,
+    "p_yes": 0.0421,
+    "abstract": "Every A is B. Some C which are D are E. There are no F that are D. It is a known fact that all G have H. Some I are capable of D. A certain number of J are C that are D. Consequently, some J are not E.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "702427c3-0307-4d1b-b0ea-68b237307283",
+    "validity": false,
+    "p_yes": 0.0014,
+    "abstract": "Some B have C. It is true that all D have E. There are no F spun by G. H are never I. Every single J pollinates K. A few I are, in fact, L. There exist L that are not H.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "e22846fe-111a-4c7a-b054-2560de0a1ccb",
+    "validity": true,
+    "p_yes": 0.9724,
+    "abstract": "Among the buildings, there are some that are A. It is a fact that all B are made of C. There are no D that are not made of E. Every single F has G and H. Any I is actually a J. All A are K. Therefore, it must be the case that some K are buildings.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "17de795f-fb84-4a8e-a28f-0298145a6bff",
+    "validity": false,
+    "p_yes": 0.3007,
+    "abstract": "There are no A which are B. It is a fact that all C are A. There are many D that are A. Any E is A. Some F are A. All of the G in the world are A. Therefore, some G are not B.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "9bf8097e-67e3-449c-a7ce-dd9b94991d3d",
+    "validity": false,
+    "p_yes": 0.1366,
+    "abstract": "A certain number of B are considered C. Any D is an E of F. Some G work in H. It is true that all I interpret J. There are no K who do not design L. Every single M performs N. Everyone who is a C is an O. Thus, a portion of O are B.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "a1d86de3-2c3d-4cf1-89b6-eaeb2d120886",
+    "validity": true,
+    "p_yes": 0.9659,
+    "abstract": "Every A is B. Every C is D. Any E is F. It is true that all G are H. Anything that can be called I is, without exception, J. All A are I.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4cc1c47b-bda5-4334-b166-e378306fbbda",
+    "validity": false,
+    "p_yes": 0.01,
+    "abstract": "All A require B. All C is involved in B. All D is E. All F has G. Some H are I. No J is without K. All L is E. Some L are not D.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "6fb7afae-d60c-4257-9316-e5a4f49c3795",
+    "validity": true,
+    "p_yes": 0.9669,
+    "abstract": "There are a few B that are played with sticks. Some C are A made of D. Anything which is a E is also a F. Every single G is a F. Any H who plays the I is a J. All F are K. We can infer that some K are E.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "1178f61d-a224-4952-8907-cbae46aaecda",
+    "validity": false,
+    "p_yes": 0.0004,
+    "abstract": "Some B are C. It is a fact that all D are E. Every single F is G. There are a few H who are G. Every I is G. It is the case that every J is F. A certain number of J are G.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "5779c3fd-14e4-476b-9268-362ccab68878",
+    "validity": false,
+    "p_yes": 0.0083,
+    "abstract": "Every A has a B. Some C are D. It is the case that no E is an F. There are no G that are H. It is true that all I are J. Any K has two L. There are no M that are N. It must be the case that a portion of N are not E.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "0648c97c-3b0f-4737-8af3-c07b9fcb637d",
+    "validity": false,
+    "p_yes": 0.2337,
+    "abstract": "Every A is B. There are no C that are not D. It is true that all E are F. Any G is H. Every I is J. Some K are L. Every M is B. As such, all M are A.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "e0350e22-a81a-4de9-8fc6-446c5495ef5f",
+    "validity": false,
+    "p_yes": 0.0103,
+    "abstract": "There are no B that are not C. Any D that is E is likely F. It is true that all G are H. Some I are J. All of the things that are K are J. All of the things that are L are J. It can be deduced that there are L that are K.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "21850811-aeba-469a-9c44-7bc5abaf1cf7",
+    "validity": false,
+    "p_yes": 0.0004,
+    "abstract": "Every A is B. Some C are B. A few B are D. Any E is B. It is a fact that all F are B. Every G is B. All H are B. It is logically concluded that some H are not G.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "fe289ca8-c6d8-439a-be0a-4d2afbafb3ad",
+    "validity": false,
+    "p_yes": 0.1689,
+    "abstract": "All A are B. Every C is B. Some D are B. There are many E that are B. Every F is B. There is not a single G that is B. From this, no G can be C.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "4fa47cee-4a33-4102-9efe-6672f74d577b",
+    "validity": false,
+    "p_yes": 0.0373,
+    "abstract": "Any A that is a B is a C. Every single D is a E. Every creature that is a F is a G. A few C are creatures that cannot fly. There are some H that hunt at night. Every G is a C. It is logically necessary that some C are F.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "ed135793-1968-4cdf-80a7-b09c5bdf2a73",
+    "validity": true,
+    "p_yes": 0.9906,
+    "abstract": "There are no A that do not have B. Every single C has B. It is true that all D have B. Any E has B. Everything that is a F has B. Some G have B. Every single H has B. It's impossible for any H not to be a F.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "1fbacc14-d08b-4bf4-b16a-7764760a7bc5",
+    "validity": false,
+    "p_yes": 0.0027,
+    "abstract": "Every single A is a B. There are no C that are not D. It is true that all E are F. Every single G is a B. Anything that is a H is a B. Consequently, it is possible to conclude that some H are A.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "50ce5d53-d023-4d60-bf38-9d9c8ddca417",
+    "validity": true,
+    "p_yes": 0.9466,
+    "abstract": "Every A is a B. Any C is actually a D. It is true that all E are F. Any G is a H. Any G is a I. Consequently, some I are H.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d78523b8-c354-40a1-8833-bbc0e63c7339",
+    "validity": false,
+    "p_yes": 0.1067,
+    "abstract": "Some A are B that C. Any D who is E is F. Every G is H. There are no I that are not J. Everything that is K is H. Everything that is L is H. This implies that some L are K.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "046e38a6-5b7e-4087-b1f7-b50d104f53aa",
+    "validity": false,
+    "p_yes": 0.0136,
+    "abstract": "Every A is a B. There are no C that are not D. It is a fact that all E are D. Every single F that is a G is a H. Any I is a J. It is also the case that every creature that is a K is a H. From this, it follows that all K are F.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "7065c3a6-25ba-4d5b-bad8-5693b350bb8d",
+    "validity": false,
+    "p_yes": 0.3558,
+    "abstract": "Any A is a B. Some C are actually D. It is a fact that all E are made of F. There are no G that are not made of H. Every single I is a J. Every single K can L. Every single M can L. It follows that all M are K.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "4041417c-a54c-455b-a7ca-193d65f22598",
+    "validity": false,
+    "p_yes": 0.0159,
+    "abstract": "Some A are B. There is no C who is D. Any E is F. There are no G with H. Among the people that are C, a certain amount are I. It must be true that some I are not D.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "a26621c5-459c-486c-9259-3fb7ff9272ca",
+    "validity": false,
+    "p_yes": 0.0164,
+    "abstract": "Of the creatures that are A, some of them are B. There are no collars made for C. Every single D is a E. Some animals live in F. Any creature with G needs H. The group of I includes some creatures that are B. The result of this is that some I are not A.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "eee75091-95f2-4c95-a894-401df567d4b3",
+    "validity": false,
+    "p_yes": 0.0737,
+    "abstract": "Any A is a B. Every C is a D. There are no E that are not F. Every single G is a H. Some I are made of J. Every single K is a D. It follows that all K are C.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "34cb920c-43c0-4d95-a5b4-8fdcbb68a062",
+    "validity": false,
+    "p_yes": 0.0421,
+    "abstract": "All A are B. All C are D. All E are F. No G are not H. All I are J. Some K are not F. Therefore, some K are not E.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "dbe4a7bc-a59b-496b-8ae1-c389d6e1e484",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A are B. All C are B. Some D are B. All E are B. All F that are G are B. All H that are I are B. Therefore, some H are F.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "cb51d42c-9b7e-461c-8b85-1199dec34bff",
+    "validity": false,
+    "p_yes": 0.0001,
+    "abstract": "There is no such thing as a B that is a C. There are no D that are not made of E. Every single F is a G. It is true that all H are I. It is true that every single J is a K. This proves that all K are B.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "15ef7186-4830-4273-9481-2d79a111f644",
+    "validity": false,
+    "p_yes": 0.0408,
+    "abstract": "Any A is a B. It is the case that no C is a B. Some D are B. Every E is a B. Every F that is a G is also a B. No F are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "4d5e76ad-6390-425b-b0bf-c4da3f999cf1",
+    "validity": false,
+    "p_yes": 0.148,
+    "abstract": "All A are B. Some C are B. It is true that all D are B. Any E is B. Anything that is F is B. Every single G is B. At least one G is F.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "a9b244da-9304-44f3-a111-45a06269dd62",
+    "validity": false,
+    "p_yes": 0.1128,
+    "abstract": "Any A is a B composed of C. Some D are made entirely of E. Every F is a G that breathes H. Every single I is a J. It is undeniable that all K are L. There are no M that are not made of N. There are no J that are not made of O. Therefore, some things made of O are I.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "45776160-7294-4841-8a24-e1a6e04ed094",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A are B. Some C are B. All D are B. All E are B. Some F are B. All G are B. Therefore, all G are D.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "f3b19acd-2753-49cc-9a13-57bde562b941",
+    "validity": false,
+    "p_yes": 0.0025,
+    "abstract": "Some A are B. Any C is D. Every E is F. Every single G is H. Anything that is I is H. It is necessarily concluded that every I is G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "4ac5d77c-5ccc-4798-9b28-2eb04d8c76a1",
+    "validity": true,
+    "p_yes": 0.8267,
+    "abstract": "Any A is B. There are no C made of D. Every single E is F. It is a fact that all G float in the air. Not a single thing that is a H is a I. A small quantity of H are J. The conclusion that some J are not I is inescapable.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "4aa07758-d614-4fef-b297-fe9e06d37de3",
+    "validity": false,
+    "p_yes": 0.0003,
+    "abstract": "There are many A that are B. Some C are B. Every D is B. It is true that all E are B. Every single F is B. Any G is B. Everything that is H is B. This leads us to conclude that nothing that is H is F.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "b0e587d0-c3cb-470b-982d-0aa726812ade",
+    "validity": true,
+    "p_yes": 0.9979,
+    "abstract": "There are no A that have B. It is true that all C have no B. It is not true that any D has B. Any E walks on its F. Every single G has H. Every I is a type of D. Therefore, no I can be said to have B.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "dfe58145-f4d3-43be-b422-d06c91b3ee80",
+    "validity": true,
+    "p_yes": 0.8311,
+    "abstract": "Every A is B. Any C that is B is also D. Any E that is D is a D. There are no F that are not G. Some H are I. There are some I that are J and are also B. Consequently, some J are D.",
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "3289db62-657e-42f9-bfc1-c4565021af81",
+    "validity": false,
+    "p_yes": 0.0124,
+    "abstract": "There are no creatures that are both cold-blooded and animals. Every single A is a B. Any C is a D that swims. There are no E that breathe air. It is true that all F are G. It is the case that no H is a I. Consequently, a portion of H are not A.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "f9b55f8e-7db4-4097-b8af-17f9ef829243",
+    "validity": false,
+    "p_yes": 0.2689,
+    "abstract": "Some B have C. All D have E. Any F is E. Any G has H. Some G are E. Therefore, some E have H.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "a6edf3a3-a107-432d-9cc0-79f151a9d1d2",
+    "validity": false,
+    "p_yes": 0.0113,
+    "abstract": "A is B. Some C are B. There are a few D that are not B. It is true that all E are B. Any F is B. There are some G that are not B. It must follow that some G are not A.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "ee148adc-e7a2-4bae-90a3-0572ef4833d0",
+    "validity": false,
+    "p_yes": 0.0035,
+    "abstract": "Some A are B like C. Every single D is actually E. Anything that is F is a G. There are no H that are not I. Every single thing that is J is a G. It is therefore true that every single thing that is J is a F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "0f897c7f-ae9c-46e2-86ac-aa1ff570c76f",
+    "validity": false,
+    "p_yes": 0.018,
+    "abstract": "Some A are B. There are no C that are not B. It is true that all D are B. There are no E that are B. All F are B. Consequently, it can be said that some F are not E.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "629a9065-98ec-4465-8457-549829947797",
+    "validity": false,
+    "p_yes": 0.0037,
+    "abstract": "Any A is B. It is a fact that all C is D. There are no E that are F. Some G is H. All I is J. All K are J. Therefore, all K must be I.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "ba75f995-6ab0-4abc-83f7-718ee86d60bb",
+    "validity": true,
+    "p_yes": 0.9659,
+    "abstract": "Every A is B. Any C is B. There are many D that are B. Every E is B. It is undeniable that all F are B. Some G are B. H is in no way a B. It follows from this that H is not an E.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "8a1a7f10-2c47-48f0-9e26-41303b895a6e",
+    "validity": true,
+    "p_yes": 0.8808,
+    "abstract": "Nothing that is A is B. Every single C is D. It is true that all E are F. Any G is H. Every single I is B. The set of I and the set of A have no members in common.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "f80e3732-269a-40f4-b6cc-107d8d3d66a6",
+    "validity": false,
+    "p_yes": 0.0503,
+    "abstract": "Some A are B. Any C is D. There are no E that are not F. Every single G is H. Every single I is J. Anything that is K is J. It is necessarily concluded that every K is I.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "24f0682f-6b31-4adb-976f-6029410c6715",
+    "validity": false,
+    "p_yes": 0.3702,
+    "abstract": "All A are B. No C have D. Some E lay F on G. Every H is I. All J are I. It therefore follows that some J are H.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "8dbac007-0dcf-4ecd-ad9b-e4acb659c655",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "Every A is a B. All C are also D. Some E are F. No G are H. A few C are also I. It must follow that a certain number of I are J.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "56c26e55-e93d-4faa-8e39-f045c4f3aaab",
+    "validity": false,
+    "p_yes": 0.0003,
+    "abstract": "All A are B. Some C are B. Some D are not E. Some F are B. All G are B. Therefore, some B are not E.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "03b0cd8d-5983-41c5-8821-d182a899eb41",
+    "validity": false,
+    "p_yes": 0.0107,
+    "abstract": "Every A uses B. Some C are D. Among E, some are F. Any G is made by H. It is true that all I create J. There are no K who do not L. There exist some M who are N. It is suggested that some N are F.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "6d7b1256-a518-47f2-9bcd-3714dd9632c6",
+    "validity": true,
+    "p_yes": 0.9433,
+    "abstract": "Some A are B. There are no C who do not use D. Any E that is a F is a G. It is true that all H have I. It is the case that some J are K. Anything that is a J is also a G. It must follow that some G are K.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "4957177b-62d0-49a3-8c47-f5e00154bb9c",
+    "validity": false,
+    "p_yes": 0.2282,
+    "abstract": "Some A are B. Any C that has D is a E. Every F is a G. There is no H that is a I. It is true that all J are K. There are no L that are capable of M. There are no N that fly that are O. It can be deduced that there are no N that fly that are P.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "9f9646cf-fd04-4199-a0b9-dc98ce41e054",
+    "validity": true,
+    "p_yes": 0.9955,
+    "abstract": "Some A have B and C. Every single D eats E. Any F that grows is a G. Anything which is H is I. There are some J which are H. Therefore, a portion of J are I.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "307a4763-885c-4fbf-b65a-210cf45826b9",
+    "validity": false,
+    "p_yes": 0.2451,
+    "abstract": "Some A flow into B. Any C borders D. Nothing that is B is E. It is true that all F are smaller than E. There are no G that can live without H. A few things named D are B. It is therefore the case that some D are not E.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "0d774391-b91a-497b-9e7d-8235af362146",
+    "validity": false,
+    "p_yes": 0.0021,
+    "abstract": "There are no A which are B. Any C is a D. Some E are made of F. It is true that all G are H. Every single I is a J. This means that all J are A.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "47e2b96a-1104-49d6-9d11-9966ab53f012",
+    "validity": false,
+    "p_yes": 0.2628,
+    "abstract": "Some A are B and C. Any D has E for growing. It is true that all F are G. There are no H without I. Anything that is a J is a K. There are L, and all of them are K. Based on this, it must be the case that every L is a J.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "f6ef80af-ed8d-4d48-926a-973e275667c4",
+    "validity": false,
+    "p_yes": 0.0252,
+    "abstract": "All A are B. No C are D. Any E is F. A G that is H is never I. Some J live in K. Every L has M. A subset of N are O. It follows directly that at least some O are not I.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "2ad7dc35-74d6-4793-b723-26846cf691ee",
+    "validity": false,
+    "p_yes": 0.0009,
+    "abstract": "There are no A that make B. All C is D. All E has F. All G is H. Some I are larger than J. All K chirp L. All M are N. Based on this, it must be the case that all M is C.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "8393ac24-24ad-4394-ae8e-8cbc8c61f96b",
+    "validity": false,
+    "p_yes": 0.2878,
+    "abstract": "A are in no way B. Every single C is a D. It is a known fact that all E contain D. Some F are G. Every single A is a H. There are H that are not B.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "8cd03e24-ef06-4f1b-b735-d94e05d1eb1c",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "Some B are C in the sky. It is true that all D are E. Every single F is a G. Every single H is a I. Anything that is a J is also a G. Some J fail to be F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "61c9d8f8-07b6-4ec1-9f1b-835dea2a10fe",
+    "validity": false,
+    "p_yes": 0.363,
+    "abstract": "All A are B. Some C are D. All E are F. All G that are H are I. All J are K. No L are not M. All E are N. Therefore, at least one N is F.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "d890d599-1a8f-473b-9c38-0fb186678aef",
+    "validity": false,
+    "p_yes": 0.0489,
+    "abstract": "Any A is a B. It is a fact that all C are D. Some E are F that fly. Every single G is a H. Every I is a J. There are no K that are not made of L. Anything that is a M is a H. At least one M is a G.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "a716d470-e44c-421b-a35e-91d8f3ca8aae",
+    "validity": true,
+    "p_yes": 0.5622,
+    "abstract": "Every A is a B. It is undeniable that all C are D. There are many E who are F. Anything that's a G is a F. H are, without exception, G. At least one H is a F.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d987cc99-1b33-4afa-aae1-fbbe56c6476d",
+    "validity": true,
+    "p_yes": 0.982,
+    "abstract": "Any A has B. A C possessing B is not a D. It is a fact that all E have B. Every F has B. There are many G that have B. Every H is, by definition, a vehicle with B. It is therefore true that a H is not a D.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "769f1a2c-ebed-44a0-814e-9c198804261c",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A are B. All C are D. No E is F. All G are H. Some I are J. Therefore, some J are not E.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "d0b8b914-a230-44d4-b696-e2106bd3f063",
+    "validity": false,
+    "p_yes": 0.2689,
+    "abstract": "All A are B. No C are D. No E are F. Some G are H. Not a single I is J. Therefore, not all I are F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "63220c9d-68b9-4c91-b13a-944dc5786b3a",
+    "validity": false,
+    "p_yes": 0.0012,
+    "abstract": "All A are B. All C are D. No E are F. All G are H. Some I are J. Some K are H. Some K are G.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "39583f48-9dae-4d73-815c-468168859509",
+    "validity": false,
+    "p_yes": 0.0876,
+    "abstract": "Every A is B. Any C that is D is B. There are a few E that are B. Every F is B. It is true that all G are B. Anything that is H is B. From this, it is stated that some H are F.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "6c546b15-947e-4209-b54d-1dab3dcfb147",
+    "validity": false,
+    "p_yes": 0.4073,
+    "abstract": "There are no A that are also B. Some C are B. It is a fact that all D are B. Every E is B. All F that are G are, of course, B. G are not F.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4905adeb-9120-46bf-8878-da647116bf0d",
+    "validity": false,
+    "p_yes": 0.0067,
+    "abstract": "No A is a B. Every C presides in D. Some E care for F. It is true that all G fix H. There are no I who are not J. The entire group of B is a subset of K. A certain number of K are not A.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "46271fc1-e60a-4a89-b4b2-a7547b26cc6c",
+    "validity": true,
+    "p_yes": 0.9999,
+    "abstract": "All A are B. All C are D. No E is F. All G are H. No I are F. All J are E. Therefore, no J are F.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "7588387a-645b-46e3-84e9-8038670b8d9d",
+    "validity": false,
+    "p_yes": 0.0056,
+    "abstract": "Some A are B. Every C is D. Every E is F. Any G is H. Any and all E are also D. This implies that all E are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "3f02b060-8993-42aa-964d-6c2be3b89266",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "Any A is B. Every C is B. Every single thing which is D is B. Some E are B. It is true that all F are B. There are many G that are B. It is also the case that every H is B. From this, it follows that no H are D.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "a9ea6af8-921f-46ee-b844-b64aac19b160",
+    "validity": false,
+    "p_yes": 0.0107,
+    "abstract": "All A are B. Every C is B. It is true that all D are B. There are many E that are B. No B are F. Therefore, it follows that some F are not D.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "a599804f-3f16-4459-a572-3c34058e05e7",
+    "validity": false,
+    "p_yes": 0.0007,
+    "abstract": "Every A is B. Some C are D. No E are F. All G are H. Some I are D. Therefore, some I are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "da2de9fe-09a9-4356-86ac-6ecc909ddf79",
+    "validity": false,
+    "p_yes": 0.0013,
+    "abstract": "Every A is B. Every C is D. Some E are F. It is a fact that all G are H. Any I is J. It is also the case that every K is D. This leads to the conclusion that all K are C.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "6fe5e92f-6e10-4b10-81a7-252f25b059a9",
+    "validity": true,
+    "p_yes": 0.9669,
+    "abstract": "There are no A that B. All C is D. Any E can F. It is a fact that all G have H and I. Any and all J are also K. This implies that all J are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "1d41bd45-1f67-4aa5-9f7c-049ff2ffdc59",
+    "validity": false,
+    "p_yes": 0.0351,
+    "abstract": "Some A are B with C. There are no D that are E. There are no F that are G. Every single H is a type of I. Every single D is a J. Some J fail to be E.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "9086173e-68ed-4a6e-a7a6-c1520f002c9e",
+    "validity": false,
+    "p_yes": 0.0094,
+    "abstract": "Some A are B who are C. There are no D that are E. There are some F who are not G. Every single H is I. Any J who is K is L. A number of M are N. This means that some M are L.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "ad8147bf-ced8-424f-91d7-faad66b510ca",
+    "validity": true,
+    "p_yes": 0.7549,
+    "abstract": "Some A are B. Every C is D. Any and all E are F. There are no G that are not H. There are some E which are I. Consequently, some I are F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "88a5de98-bf10-4fdb-a20f-a9b45cee699b",
+    "validity": false,
+    "p_yes": 0.0004,
+    "abstract": "Some A are B. It is true that all C are D. Any E is F. It is a fact that every single G is H. Likewise, it is true that all I are H. Therefore, it has been asserted that every G is I.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "93337dcc-6bc5-4a63-a96e-61d304affa9c",
+    "validity": true,
+    "p_yes": 0.9987,
+    "abstract": "All A are B. All C are B. All D are C. All E are C. Some F are G. All H are C. Therefore, all H are B.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "16946699-e10d-47a5-9b36-613f655c1a90",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A are B. All C are B. All D are B. Some E are B. Some F are B. All G are B. Therefore, some G are not E.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "6a64ecf4-3ea4-4606-8f40-49e2f1ea1f4b",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "There are a few B that are C. It is true that all D are C. Every single thing which is E is a C. Every F is a C. It is also the case that some things which are G are C. From this, it follows that all G are E.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "c21b8df2-75bf-4fa1-bc23-cdd41dbef0df",
+    "validity": false,
+    "p_yes": 0.0103,
+    "abstract": "Some A are B. Every C is D. It is true that all E are F. Things that are G are in no way H. There are no I that are J. Any K found on the beach is a L. Anything that is a M is also a N. There exist N that are not H.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "a79ac151-6d38-472a-ae67-c084c6f7577f",
+    "validity": false,
+    "p_yes": 0.0052,
+    "abstract": "A is true that some B are C. There are no D in E. Every single F has G corners. Any H is a I object. A few of the things that are E are also B. From this, we can state that some E are not C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "995cbc73-39fd-4cfe-8e1c-d8bdd1e6adab",
+    "validity": false,
+    "p_yes": 0.0097,
+    "abstract": "Any A is a B. There are no C that are D. Every single E is a F. All G are a type of H. All I are also H. Therefore, all I must be G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "09c2a594-6f95-43ef-9cc7-694c7a0bc54e",
+    "validity": false,
+    "p_yes": 0.1009,
+    "abstract": "All A are B. All C are D. No E exists without F. All G are H. Some I are J. The set of K does not intersect with the set of L. All M are N. A portion of the group of N consists of individuals who are not K.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "612f04e8-f1e4-47a1-96e7-f5ebbfd53d29",
+    "validity": true,
+    "p_yes": 0.8355,
+    "abstract": "Some A are B of C. All of the things that are D are E. There are no F that are not G. It is true that all H are I of J. Any K that is L is actually M. All of the things that are N are E. It can be deduced that there are N that are E.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "4569d355-f05e-4b78-b0f2-e60bf59c5db8",
+    "validity": false,
+    "p_yes": 0.0981,
+    "abstract": "Any A has four sides like a B. It is true that no C is an A. It is true that all D are E. There are no corners on any C. A few F are not A. This leads to the conclusion that all C are E.",
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "5d54d5d6-084b-479c-b56e-057e10aed387",
+    "validity": false,
+    "p_yes": 0.0001,
+    "abstract": "All A are B. Every C is a B. Every D is a B. Any E is a B. Some F are B. Every G is a B. Consequently, all G are D.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "eb3441c7-818a-4cd3-9718-8f1147d580ff",
+    "validity": false,
+    "p_yes": 0.2751,
+    "abstract": "All A are B. All C are D. All E are F. No G are not H. Some I are J. No K are both L and M. Some N are not O.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "945054aa-0df3-49fd-bb30-f64fd683e3cd",
+    "validity": false,
+    "p_yes": 0.1689,
+    "abstract": "There are no A that are B. Every single C is a D. Some E are F. No single thing that is a G is a H. There are some I that are also G. This proves that some I are not H.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "437735e3-2c12-43a2-807d-831ba994ebb8",
+    "validity": true,
+    "p_yes": 0.985,
+    "abstract": "There are no A that are B. Every single C is a D. It is a known fact that all E are F. There is no G that is a H. There are no I that are J. It can be deduced that there are no I that are G.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "63554179-36e4-47cf-819e-6cadd9817e87",
+    "validity": false,
+    "p_yes": 0.0067,
+    "abstract": "Any A is B. Some C are D and E. There are no F that are not G. There are some H which are B. Every single I is a J. It is true that all K are L. Anything that is a M is also a N. It's the case that some M fail to be H.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "b1a1eae3-a52c-49d3-8d0b-a1d48d67e98e",
+    "validity": false,
+    "p_yes": 0.0362,
+    "abstract": "A are never B. Some C are B. All D are B. Some E are B. All F are B. All G are B. It follows from this that some G are not A.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "91b7af6b-c5d4-4d6e-b60a-8e21a76fccd2",
+    "validity": false,
+    "p_yes": 0.0518,
+    "abstract": "Any A is a type of B. Not a single thing that is a C is a D. Some E are made of F. It is a fact that all G are H. Every single I is a J. There are no K that are L. Some things that are M are considered N. Thus, some M are not D.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "1475cc9d-8754-463d-9243-bc3e967ea214",
+    "validity": false,
+    "p_yes": 0.0037,
+    "abstract": "Any A is a B with C. It is true that all D are B with C. Every single E is a B with C. Nothing that is a F is a B with C. Some G are B with C. There exists no H that is also a B with C. The group of H and the group of F are the same.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "91df55b5-dbf0-48b9-90a5-c81c400aa335",
+    "validity": false,
+    "p_yes": 0.0534,
+    "abstract": "There are many A that are B. Any C is a collection of B. Every D is a B. There are some E known as F which do not possess the qualities of G. It is true that all H are B. Every single I is a B. One can thus conclude that some B are not G.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "ee0b38f6-82ac-4257-8922-21ea50eb0273",
+    "validity": false,
+    "p_yes": 0.0781,
+    "abstract": "Every A is a B. Some C are D. There are no E that are F. It is a fact that all G are H. Any I is a J. There are no K which are L. Every single K is a M. Some M fail to be L.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "77e383b5-af50-4901-8dda-9d315532f21f",
+    "validity": false,
+    "p_yes": 0.0006,
+    "abstract": "Some B are C. It is a fact that all D are C. Any E is C. Every F is C. Any G is C. There are no H that are also C. A portion of H are not G.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "95208d09-fdd0-4bb4-a847-10c949c62401",
+    "validity": false,
+    "p_yes": 0.0321,
+    "abstract": "Every A is a B. Every C is a B. Any D is a B. It is true that all E are B. Anything that is an F is a B. There exist F who are not C.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "916c151e-c286-4414-b43d-501c1ef0d2c6",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A is B. Every C is B. Any D is B. Every E is B. Every F is B. It follows that some F are not C.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "f5c43a45-704e-433b-85de-aa8c847e0505",
+    "validity": false,
+    "p_yes": 0.015,
+    "abstract": "There are no creatures that are both A and B. There are no C that are D. Every single E is a F. Any animal that G is a F. It is true that all H are I. Some creatures have J. The class of animals has members that are F. Consequently, some of the animals are not A.",
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "7edea914-950f-47e5-b191-bfa700fc79d3",
+    "validity": false,
+    "p_yes": 0.2393,
+    "abstract": "A is B. C is B. Some D are B. Every E is B. It is undeniable that all F are B. The set of G contains no B. It can be said that some G are not A.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "2f621250-c430-423e-8764-e85de5612ffe",
+    "validity": false,
+    "p_yes": 0.0331,
+    "abstract": "There are no A that are not B. It is a fact that all C are D. Every single E is F. Some G are B. Any H is I. Anything that is J is F. Therefore, an E is J.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "32409b79-c693-4333-aeb0-377c0e6e1e0b",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "Every A is B. It is true that all C are D. Some E is F. There are no G that are H. Some I are J. Any K with a L is likely M. There are M that are also N. This implies that all M are O.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "ad6152dc-6788-4929-a6b4-96baa888d234",
+    "validity": false,
+    "p_yes": 0.0045,
+    "abstract": "There are no A that are B. Every single C is made entirely of D. It is a fact that all E are smaller than F. Some G are H powered by I. Every single item which is a J is a K. This implies that all J are A.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "a0013abe-3c31-457d-a8d8-627b672b3a11",
+    "validity": true,
+    "p_yes": 0.9748,
+    "abstract": "Any A is a B. There are many C that are B. There is no D that is an E. It is a fact that all F are B. It is also true that no E is a G. It follows from this that no G is a D.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "5cc38609-ad0a-449a-9935-7de2b1766529",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "Some A are B. All C are B. All D are B. All E are B. Therefore, all E are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "79738e33-f191-49fa-b0fd-b932fa0b3aed",
+    "validity": false,
+    "p_yes": 0.0169,
+    "abstract": "Every single A is made of B. Some C are actually D. It is a fact that all E are made of F. There is no G that is not made of H. Every single thing made of H is a I. From this, it logically follows that a few I are G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "e0559073-ff50-4367-a142-bde2eed73f6f",
+    "validity": false,
+    "p_yes": 0.0042,
+    "abstract": "Some A are B. Some C can run very fast. Every D has a beating heart. There are no E that are not F. It is a fact that all G are H. Any I is a living J. A K is a L. Therefore, some L are A.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "bf8e2c3d-64e5-4654-9c62-63294e798edd",
+    "validity": false,
+    "p_yes": 0.0023,
+    "abstract": "There are no B that are not C. Every single D is a type of E. It is true that all F are G. There are some H who are I. Any J that K is an L. It is known that some M are N. It follows that some M are O.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "82c38676-a312-4f4d-8f72-31049cb2390d",
+    "validity": false,
+    "p_yes": 0.0876,
+    "abstract": "A are not B. All C are D. Some E are F. All G are H. All I that are J are also K. Some L, it is known, are not K. This necessarily implies that some L are not J.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "1f0f0bc2-182b-473a-b09e-8529c1493ce2",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "Every A is B. Every C is D. Some E is F. It is true that G is H. Every I is D. It follows that some I are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "975f4837-20c4-47cd-a4db-8aebfbe45a31",
+    "validity": false,
+    "p_yes": 0.0474,
+    "abstract": "There is no A that is a B. Any C with D is a E. Every single F lays G. There are no H with I. The set of J and the set of K are mutually exclusive. A portion of K are not L.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "443d1f44-4667-4e8f-99c7-7fbb61012db9",
+    "validity": false,
+    "p_yes": 0.0002,
+    "abstract": "Every A uses B. Every C has D. It is a known fact that all E fly. Some F run on G. All H also have D. Therefore, some H are not C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "fcf7ef11-b2a2-438c-9199-d698a216f76f",
+    "validity": false,
+    "p_yes": 0.0191,
+    "abstract": "All A are B. Every C is D. Some E are F and G. Nothing that is a H is also an I. Any J is a K. There are no L that are M. Among things classified as N, a number of them are O. From this, we can deduce that a portion of N are not I.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "cbf0eeae-f616-4e06-a883-6550889e5ecc",
+    "validity": true,
+    "p_yes": 0.8081,
+    "abstract": "Some B are C. It is true that all D is E. Any F you see is a G. Every single H is I. Anything and everything that is a J is made of J. There are no K that absorb L naturally. A number of J are M. Therefore, it is the case that some M are made of J.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "3945049f-dac7-47f3-8ad0-8561c10cb888",
+    "validity": true,
+    "p_yes": 0.8741,
+    "abstract": "Some A are B. Every C is D. It is true that some E that are F are not G. Any H is I. All E are J. It logically follows that there are some J that are not G.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b762e8f5-959c-44c9-bb16-3b6811435918",
+    "validity": false,
+    "p_yes": 0.0065,
+    "abstract": "A exists is B. All C are D. No E are not F. All G are H. All I are H. Therefore, there are I that are G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "39f475a0-0e0b-474d-9ae1-854ccee75d5c",
+    "validity": true,
+    "p_yes": 0.6002,
+    "abstract": "Some A have only two sides. It is a fact that all B are C. Any D is a type of E. Every single F is not a G. There are no H in a G. Every single I is a J. Of the items that are K, some are G. It must be the case that some K are not F.",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "21bb5107-f3f4-4139-999f-a86b47ca52a9",
+    "validity": false,
+    "p_yes": 0.0567,
+    "abstract": "Every A is B. Any C is D. There are no E who are F. It is true that all G are H. Anything that is I is not a J. Some K are actually L. The group of people known as M includes a few that are N. It follows that some M are not I.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "c9f8a934-7cfd-49a1-a8be-fd73c25c0cc2",
+    "validity": true,
+    "p_yes": 0.9716,
+    "abstract": "Some A are B. Every C is D. There are no E that are not F. It is true that all G are H. Every I is a J. Any K is an L. No M is a J. Consequently, no M is an I.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "fddb42a1-b0b4-4fa1-937f-e8b452fc5651",
+    "validity": false,
+    "p_yes": 0.0073,
+    "abstract": "A is B. All C are B. Every D is B. Some E are B. Some F are not B. Therefore, some F are not A.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "94946224-84ba-46d1-9a98-485fa76bd9b9",
+    "validity": false,
+    "p_yes": 0.1733,
+    "abstract": "There are no B that are not A. It is true that all C is A. No D are things that are E. Any F is a G. Every single H is a I. All of the J are D. This means that some J are not E.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "d945adae-55df-4eaa-8116-9921d9a4819e",
+    "validity": false,
+    "p_yes": 0.1192,
+    "abstract": "All A are B. No C are D. All E are F. No G are H. All I are J. Some K are L. Some M are N. Some O are not P.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "4d72d72b-a3c7-43da-a66c-51e94da2fecf",
+    "validity": false,
+    "p_yes": 0.1919,
+    "abstract": "All A are B. Some C are D. No E are F. The set of G does not intersect with the set of H. Any I is filled with J. All K are L. It is a logical consequence that some L are not G.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "65d9b1d7-e1c2-4bc2-b3b0-245c33be928e",
+    "validity": false,
+    "p_yes": 0.1968,
+    "abstract": "A is made of B. All C are D. All E are F. Some G are H. All E are I. Therefore, at least one I is F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "ad639add-6b0f-45db-83c7-b73f242a8ce5",
+    "validity": false,
+    "p_yes": 0.1824,
+    "abstract": "Some A are B. There are no C that are not B. Every D is E. Any F is G. Anything that is a D is an E. It is true that all H are I. No E are J. It can be logically inferred that some J are not D.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "d0b0f737-2bb8-424a-a77a-5cce245a9425",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A are B. All C are B. Some D are B. All E are B. Some F are B. All G are B. Therefore, all G are D.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "e7844c3e-533f-4c79-adcb-9e9ff7a2d658",
+    "validity": false,
+    "p_yes": 0.1225,
+    "abstract": "Any A that is a B is a C. Some D are E. There are no F that are G. Some H are I or J. Every single E is a K. Therefore, some K are D.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "85c60967-410c-4f5a-8905-398f14ae3117",
+    "validity": true,
+    "p_yes": 0.9992,
+    "abstract": "There are no A that are not B. Anything that is part of C is a D. Every single E is a F. Any G is a H. It is a fact that all I are made of J. A K is not a D. It follows from this that no K is part of C.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "1c306341-624a-42e9-900b-273ab27ad0ea",
+    "validity": false,
+    "p_yes": 0.0781,
+    "abstract": "Some A have B to C D. Any E requires F to G H. It is a fact that all I swim like J. Any K lives in L. Every K is an M. This means that all M live in L.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "75710dae-ffc2-42d9-9dd6-7a7c1613fec3",
+    "validity": false,
+    "p_yes": 0.0015,
+    "abstract": "A is B. Every C is B. Some D are B. There are many E that are B. Anything that is F is B. Therefore, F cannot be A.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "af29ebc7-9bdb-4bd3-8fac-22c7ab69d3a1",
+    "validity": false,
+    "p_yes": 0.1645,
+    "abstract": "All A are B. Some C are B. There are many D that are B. All E are B. Any F is B. Every G is B. There are no B that are H. This proves that no H is E.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "8242404a-eff1-4707-91cd-aed3de032957",
+    "validity": false,
+    "p_yes": 0.0759,
+    "abstract": "Some A are B. Every C that is D is E. There are no F that are not G. It is a known fact that all H write I. Every single J is K. Some L are D. This means that there are some E who are L.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "ca9acda9-4737-4fd4-88b7-14edf5702308",
+    "validity": false,
+    "p_yes": 0.0,
+    "abstract": "All A is B. Every C is D. Some E are F. It is a fact that every G is H. Likewise, it is true that all I are H. Therefore, it has been asserted that every I is G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "ee58f448-85b2-4fc6-be05-e24a5e7e818c",
+    "validity": false,
+    "p_yes": 0.0091,
+    "abstract": "Any A is a B. There are no C that are not B. Not a single D is a B. It is a fact that all E are B. Every single F that is a G is a B. This proves that a portion of G are not D.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "12765b4d-c030-4998-b96f-62b5893dd06f",
+    "validity": false,
+    "p_yes": 0.0005,
+    "abstract": "All A are B. Some C are D. Some E are F. All G are H. All I are J. No K are L. Some M are N. Therefore, some M are not O.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "449e791e-e126-4e77-a507-c3ae8530e9d7",
+    "validity": true,
+    "p_yes": 0.8963,
+    "abstract": "Some A are B. There are no C that are not D. Not a single E is a F. Any G is a H. Every single thing that is an I is an E. It can be concluded that some I are not F.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "81f3e580-217b-450c-ad63-ba8f2eba63d8",
+    "validity": false,
+    "p_yes": 0.363,
+    "abstract": "Any A is a B. Every single C is a D. There are no E that are not F. Some G are made of H. It is a fact that all I are made of J. Every single K is a L. Every K is a M.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "65fa0607-719c-4cf2-bdec-7a7f4c370ddd",
+    "validity": true,
+    "p_yes": 0.9998,
+    "abstract": "All A are B. No B is C. Some D are B. All E are B. All F are B. Therefore, no F are C.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "94d768b0-bda6-4038-89be-8e1686a88fa7",
+    "validity": false,
+    "p_yes": 0.0252,
+    "abstract": "Every A is B. All C is D. Some E is F. Any G is H. There are no I that are J. Any K is L. Every M is N. There exists at least one M that is H.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "9f7899bc-1f58-4586-a8e4-e55f63d085a2",
+    "validity": false,
+    "p_yes": 0.0039,
+    "abstract": "Every A is a B. Any C grows D. There are no E without F. Every single G is a H. Some I are B as well. Therefore, some I are not A.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4e2a8aa6-3244-4638-b52f-26f98f84a5b1",
+    "validity": false,
+    "p_yes": 0.1441,
+    "abstract": "Any A is actually a B. There are no C that are not D. It is true that all E are F. Some G are H. Some I are used to tighten J. A K of H is a type of L. As such, some L are G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "440e974e-02f5-453b-8f9b-98c6d26c65f9",
+    "validity": true,
+    "p_yes": 0.9999,
+    "abstract": "There are no B that are not made of C. It is a fact that all D is made of E. Some F are made of G. Any H is a collection of I. Anything that is a J is made of K. Every single L is a J. Consequently, there are no L which are not made of K.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "10bb3e13-ef4b-4ee9-9d26-f84df8b4eef7",
+    "validity": false,
+    "p_yes": 0.0081,
+    "abstract": "Some A are B. It is true that all C are D. Every single E is F. Anything that is a G is a H. There are I, and all of them are H. Based on this, it must be the case that every I is a G.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d2fbeddb-ad92-4df0-9782-a2cf057c00d7",
+    "validity": true,
+    "p_yes": 0.8706,
+    "abstract": "Every A is B. All of the things that are C are B. Any D is B. It is a fact that all E is B. Some F are B. There are many G that are B. It is the case that no B are H. Thus, no H is C.",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "74f5886c-08f6-4ee9-b97f-480ff3ca2007",
+    "validity": false,
+    "p_yes": 0.0191,
+    "abstract": "All A are B. All C are D. All E are F. No G are not H. Some I are J. No K are L. No L are M. Therefore, all M are K.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "3588e2e9-b582-4bf5-9c33-58283d42b60a",
+    "validity": true,
+    "p_yes": 0.9912,
+    "abstract": "Every A is a B. Some C are D. Anything that is a E is made of F. It is true that all G are H. Any I is actually J. There are no K that are not L. Every single M is an E. Consequently, some M are made of F.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  }
+]

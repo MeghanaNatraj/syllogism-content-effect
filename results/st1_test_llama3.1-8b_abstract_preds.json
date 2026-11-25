@@ -1,0 +1,1148 @@
+[
+  {
+    "id": "bff2af61-d4b0-4147-8a5b-ff4fe1892559",
+    "validity": false,
+    "p_yes": 0.4149,
+    "abstract": "There are no B that can be called C. It is also true that every B is a type of A. This has led to the conclusion that some A are B."
+  },
+  {
+    "id": "f36a4ca3-3b69-4869-a152-deaa7e0fdad4",
+    "validity": false,
+    "p_yes": 0.2568,
+    "abstract": "There exist some A that are B which are not C. Every single B is a D with E. Consequently, some D with E are C."
+  },
+  {
+    "id": "e773bd8c-fa53-4e9c-8ec6-7d978e0601ac",
+    "validity": false,
+    "p_yes": 0.3208,
+    "abstract": "A. Every single X can fly. It is known that some Y cannot fly. It follows that some Y are not Z."
+  },
+  {
+    "id": "a2fcf47a-5df0-405d-86ce-ed8629f387a9",
+    "validity": false,
+    "p_yes": 0.1422,
+    "abstract": "A. Every single A is a B. No C that is a D is a B. It follows from this that every C is a A."
+  },
+  {
+    "id": "6e5f055f-06e4-40f3-a45b-52b7d9292d60",
+    "validity": true,
+    "p_yes": 0.8129,
+    "abstract": "There are no individuals who are A that are also B enrolled in C. All D enrolled in C are B enrolled in C. It can be deduced that some D enrolled in C are not A."
+  },
+  {
+    "id": "80a62ff2-1bc5-48e6-bc9f-f877690852fc",
+    "validity": true,
+    "p_yes": 0.6584,
+    "abstract": "A is composed of round objects with a citrus peel. Some B is not a round object with a citrus peel. Every single C is a B."
+  },
+  {
+    "id": "b73d8e0e-782e-4e60-866b-595cf13a3421",
+    "validity": false,
+    "p_yes": 0.304,
+    "abstract": "No A is a B. Some B are C. Therefore, some A are C."
+  },
+  {
+    "id": "fd552276-66bf-45da-8cea-67192fe99fc3",
+    "validity": true,
+    "p_yes": 0.7635,
+    "abstract": "There is no A that can be called a B. Each and every C is a D. Consequently, no C is a B."
+  },
+  {
+    "id": "8041eb99-e73f-46ca-a2d7-9aefd2c6c0b1",
+    "validity": false,
+    "p_yes": 0.3346,
+    "abstract": "Every A can be considered a B. There are no C that are B. Therefore, no C is a D."
+  },
+  {
+    "id": "ad09c938-3d1d-4d5e-b75f-04fb0098ba43",
+    "validity": false,
+    "p_yes": 0.1711,
+    "abstract": "There exist some A that are B which do not have C. Every single B is a D. Consequently, some D have C."
+  },
+  {
+    "id": "af77d792-0970-4650-8ccf-4218f7685b37",
+    "validity": true,
+    "p_yes": 0.7249,
+    "abstract": "There are no A that are not B. It is the case that no C is B. At least some C are A."
+  },
+  {
+    "id": "9ee7aff6-1237-4e93-b3e4-08434de41ede",
+    "validity": false,
+    "p_yes": 0.4533,
+    "abstract": "There is no A that is a B. Everything that is an A is also a C. This makes it true that all C are D."
+  },
+  {
+    "id": "552b33b2-6a6a-4a10-8a76-5d0d7c3d35ff",
+    "validity": true,
+    "p_yes": 0.539,
+    "abstract": "There are no B that are A. Every A is, by definition, a C. Thus, some C are B."
+  },
+  {
+    "id": "41ee96a0-4400-4ba7-a4b3-54d49b5942cc",
+    "validity": true,
+    "p_yes": 0.8634,
+    "abstract": "It is the case that no A are B. Every single C is, by its nature, a B. C are not A."
+  },
+  {
+    "id": "f682283e-eb75-47d9-9e48-ca918d7c3737",
+    "validity": true,
+    "p_yes": 0.7905,
+    "abstract": "No A is a B. All B are C without exception. Some C are D."
+  },
+  {
+    "id": "5260247f-b290-4bae-8d0c-a6c988d3d610",
+    "validity": false,
+    "p_yes": 0.3702,
+    "abstract": "Every A is a B. There are some C which are D. Thus, some C are B."
+  },
+  {
+    "id": "f80a357f-3815-474b-b77a-9d1c6a3b9bd2",
+    "validity": false,
+    "p_yes": 0.2942,
+    "abstract": "It is the case that there are no A that are B. Some C with D are A. It follows that some C with D are B."
+  },
+  {
+    "id": "581fa853-f1e1-4450-8716-be9e17623a21",
+    "validity": false,
+    "p_yes": 0.1993,
+    "abstract": "There are no A that are B. All C that are D are E. Therefore, all D are B."
+  },
+  {
+    "id": "1d4bc4d0-df5b-4f46-9972-dd906f3c3754",
+    "validity": true,
+    "p_yes": 0.7827,
+    "abstract": "There are no A that do not live on the moon. It is the case that no B is an A. At least some B live on the moon."
+  },
+  {
+    "id": "cc8b1d14-79aa-445e-929c-ec3043229103",
+    "validity": false,
+    "p_yes": 0.4301,
+    "abstract": "Not a single object that is a V is a T. A number of Vs are Bs. The conclusion that some Bs are not T necessarily follows."
+  },
+  {
+    "id": "220a2d26-0db4-4e78-9143-2c9d1fbdac66",
+    "validity": false,
+    "p_yes": 0.3849,
+    "abstract": "A implies B. C is a subset of D. Therefore, some D implies A."
+  },
+  {
+    "id": "6a190af4-111a-4b3e-94bc-4a2efa1d8b8d",
+    "validity": false,
+    "p_yes": 0.2568,
+    "abstract": "Every single A is a B. All A are C. It follows from this that some C are not B."
+  },
+  {
+    "id": "d1da6110-d78a-4f0b-9499-5740d031bdf5",
+    "validity": true,
+    "p_yes": 0.6261,
+    "abstract": "A is B. A is C. Therefore, some C are B."
+  },
+  {
+    "id": "2d78480d-7948-48a1-8461-518121b355d2",
+    "validity": true,
+    "p_yes": 0.6077,
+    "abstract": "A B is never C. Everything that is D is E. Therefore, this implies that no D is C."
+  },
+  {
+    "id": "b479b2a2-7e13-4c4d-9269-fad1e3fd5220",
+    "validity": true,
+    "p_yes": 0.6792,
+    "abstract": "A and B do not overlap. Some B are C. Some C are not A."
+  },
+  {
+    "id": "597a91fd-1f07-45d9-9278-a8660622accc",
+    "validity": true,
+    "p_yes": 0.8634,
+    "abstract": "There are some A which are B. Every B is a C. It follows that some C are A."
+  },
+  {
+    "id": "ef762aac-30b4-4fb4-9ac6-012cdf463dc6",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "All A is B. No B is C. Therefore, no C is A."
+  },
+  {
+    "id": "1f38851f-b43f-42ee-a77a-dafeb7a3b29d",
+    "validity": false,
+    "p_yes": 0.304,
+    "abstract": "A all B. Some C are D. Therefore, some C are E."
+  },
+  {
+    "id": "e585282c-a9ed-4cc1-b9e0-52db572a0f07",
+    "validity": true,
+    "p_yes": 0.6723,
+    "abstract": "A all B. C is never B. Therefore, C is not A."
+  },
+  {
+    "id": "195b8204-13fb-460d-9b86-16a1cf946ffa",
+    "validity": false,
+    "p_yes": 0.4455,
+    "abstract": "It is the case that no A is a B. Among the C that are D, some are E. The logical consequence is that there are E that are not F."
+  },
+  {
+    "id": "370fc136-33be-4129-bf71-b557576fc5d2",
+    "validity": true,
+    "p_yes": 0.5234,
+    "abstract": "Every A grows from B. There are some C which are D. Therefore, it is the case that some C grow from B."
+  },
+  {
+    "id": "c690ad4e-b9a5-4410-80ac-5f97894dedff",
+    "validity": true,
+    "p_yes": 0.6926,
+    "abstract": "Not a single A is a B. Cs include every single B. It is logically follows that some Cs are not As."
+  },
+  {
+    "id": "fb637f9c-1c26-4302-9c01-94c061bd352c",
+    "validity": true,
+    "p_yes": 0.5851,
+    "abstract": "A and B do not overlap. C and D are mutually exclusive. Some D are not E."
+  },
+  {
+    "id": "e1b00475-03d2-4149-9ca3-2ab601f34aea",
+    "validity": true,
+    "p_yes": 0.8129,
+    "abstract": "Some A are B. Every single B is C. Therefore, some C are A."
+  },
+  {
+    "id": "ed73250f-c7ad-4976-8c45-d9bf6ece787b",
+    "validity": true,
+    "p_yes": 0.6584,
+    "abstract": "It is true that some A are B. A B is a type of C. Thus, some C are B."
+  },
+  {
+    "id": "6a9dff3f-07fb-4a68-9fe0-5f3b51d9ffeb",
+    "validity": false,
+    "p_yes": 0.2337,
+    "abstract": "There are no A that are B. Some B are C. Therefore, some A are C."
+  },
+  {
+    "id": "58670ea6-d7d3-439a-847a-0e77bf9d5c53",
+    "validity": false,
+    "p_yes": 0.3522,
+    "abstract": "A all B. It is the case that no C is D. Therefore, some C are B."
+  },
+  {
+    "id": "61549447-98e0-4960-b618-37958c570ba6",
+    "validity": false,
+    "p_yes": 0.3277,
+    "abstract": "A is B. C that is D is never E. F therefore G is never H."
+  },
+  {
+    "id": "5fc96a8e-c3a3-467e-bca1-dfbc18827de1",
+    "validity": true,
+    "p_yes": 0.7122,
+    "abstract": "Anything that is A is not B. The group of items known as C has members that are B. It follows that some C is not A."
+  },
+  {
+    "id": "8886fcb2-f5db-46e1-8cdb-2d698c838393",
+    "validity": false,
+    "p_yes": 0.2568,
+    "abstract": "Every single A is a B. All A are C. It follows from this that some C are not B."
+  },
+  {
+    "id": "4d23820c-5d2c-4eec-b345-2b86b1fb58b7",
+    "validity": true,
+    "p_yes": 0.7931,
+    "abstract": "A all B. B all C. C some D."
+  },
+  {
+    "id": "2c866578-204c-4f91-a6ef-faad0d188365",
+    "validity": false,
+    "p_yes": 0.3416,
+    "abstract": "There are some A that are B. Everything that is an A is a C. It follows that every C is a B."
+  },
+  {
+    "id": "5da917df-8760-476f-ae79-e20c20c61236",
+    "validity": true,
+    "p_yes": 0.7186,
+    "abstract": "Nothing that is an A can be said to be a C. Every B is a type of A. Therefore, there are no B that are C."
+  },
+  {
+    "id": "6480d136-bcb5-4aee-a91b-f1c0e828583e",
+    "validity": true,
+    "p_yes": 0.8634,
+    "abstract": "There is no overlap between A and B. It is the case that every single C is a B. C cannot be considered A."
+  },
+  {
+    "id": "2c0190c9-f98c-46ce-88d2-275ee83f3b48",
+    "validity": false,
+    "p_yes": 0.3998,
+    "abstract": "A is B. Some C are not D. Therefore, some C are not A."
+  },
+  {
+    "id": "828b05c2-09b0-4125-90db-ddb6707d6e05",
+    "validity": true,
+    "p_yes": 0.6758,
+    "abstract": "A are in no way B. All C is D. Some D are not B."
+  },
+  {
+    "id": "45fc2b0d-433e-407f-a574-cac2caa54b90",
+    "validity": true,
+    "p_yes": 0.7491,
+    "abstract": "A is B. C contains no B. Every D is A."
+  },
+  {
+    "id": "fc1a0164-31a4-48aa-ab9d-176a66b93bfe",
+    "validity": true,
+    "p_yes": 0.6584,
+    "abstract": "A is also B. No C is A. Therefore, no C is B."
+  },
+  {
+    "id": "c62f852d-16fd-4eda-b380-b85d9a17f9e2",
+    "validity": true,
+    "p_yes": 0.7663,
+    "abstract": "Every single A is a B. It is true that no B is a C. Therefore, it's the case that no C is an A."
+  },
+  {
+    "id": "eae77932-d7db-4ce8-b5b1-6c3c951ef553",
+    "validity": false,
+    "p_yes": 0.3346,
+    "abstract": "It is the case that some A are B. There are some C that are not B. This implies that some C are not A."
+  },
+  {
+    "id": "7f1f3231-3a3a-44fa-930f-ace6cf37147e",
+    "validity": false,
+    "p_yes": 0.4455,
+    "abstract": "No A that is a B with seven sides is a C. There are no D which are E with seven sides. Thus, some F are not G."
+  },
+  {
+    "id": "1426d859-baa5-484a-aa05-2615e8776499",
+    "validity": true,
+    "p_yes": 0.5622,
+    "abstract": "Some A is not a B. At least one C is a D. At least one C is not an E."
+  },
+  {
+    "id": "45d4df27-8269-4ecb-9ead-f6571561f3d5",
+    "validity": false,
+    "p_yes": 0.2227,
+    "abstract": "There is at least one A that is a B. Some of the C are D. Consequently, some of the C are E."
+  },
+  {
+    "id": "bff3e296-9b17-4fd6-9403-293ff999cfd6",
+    "validity": false,
+    "p_yes": 0.2394,
+    "abstract": "Every A that is a B is a C. Some D are E. Therefore, some D are F."
+  },
+  {
+    "id": "4ebc6f49-0176-42d3-9187-848df1dc6550",
+    "validity": true,
+    "p_yes": 0.7491,
+    "abstract": "No A is a B. All B are C. Some C are D."
+  },
+  {
+    "id": "414a3052-c533-4951-93ee-fdc29d633b0a",
+    "validity": false,
+    "p_yes": 0.1968,
+    "abstract": "There are some A that are B. There are no B that are C. Thus, it can be said that some C are A."
+  },
+  {
+    "id": "5ebfe44f-39a9-43eb-b8c0-17f997639cd2",
+    "validity": false,
+    "p_yes": 0.461,
+    "abstract": "A. Every single B has C. Any D that is E is F. Consequently, all E are D that have C."
+  },
+  {
+    "id": "8465dcda-98cb-4696-b8d5-9f04732f49ec",
+    "validity": false,
+    "p_yes": 0.2147,
+    "abstract": "There are no A that are B. C that is a D is an E. Therefore, every D is a B."
+  },
+  {
+    "id": "77a82465-48a9-406f-b4ac-19ec40f5e053",
+    "validity": false,
+    "p_yes": 0.1023,
+    "abstract": "All A is B. Some C is D. Therefore, all C is A."
+  },
+  {
+    "id": "c43abaf0-596e-4909-b2b1-03bd3327ac0d",
+    "validity": true,
+    "p_yes": 0.7432,
+    "abstract": "A. Everything that is B has C. \nThere are no D that are not B. \nAt least some D are things that have C."
+  },
+  {
+    "id": "6725d344-7c13-4d44-a97d-a4a1b89f858d",
+    "validity": true,
+    "p_yes": 0.686,
+    "abstract": "A and B are mutually exclusive. Not all B is C. Therefore, some C are not A."
+  },
+  {
+    "id": "730ad5ee-b19a-4d69-bad3-309f2f2ac775",
+    "validity": false,
+    "p_yes": 0.4225,
+    "abstract": "It is true that a portion of A are B. Among the A that are C, some are also A. This proves that not every C is B."
+  },
+  {
+    "id": "2df39c25-0b41-4a37-b760-c722aeea552f",
+    "validity": false,
+    "p_yes": 0.3702,
+    "abstract": "A implies B. C implies B. Therefore, some C are not A."
+  },
+  {
+    "id": "837c9501-97f6-4bbd-bd87-ca004225d437",
+    "validity": false,
+    "p_yes": 0.3141,
+    "abstract": "It is known that there are no A which are B. Every single thing that is C is a D. As such, some things on C are A."
+  },
+  {
+    "id": "67fb622a-222a-44d1-9996-6ed551f6a79e",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "A. Every single B is a C. \nB. Anything that is B is also a D with three sides. \nC. Some D with three sides are not E."
+  },
+  {
+    "id": "60d34241-6fa1-4b68-b747-73a5e2d5995d",
+    "validity": true,
+    "p_yes": 0.5545,
+    "abstract": "It is a given that every A is a B. No B are C. Therefore, it is a necessary conclusion that some C are not A."
+  },
+  {
+    "id": "edd9d95e-5279-446f-bfeb-5c6360139e89",
+    "validity": true,
+    "p_yes": 0.8355,
+    "abstract": "A is B. Every B is C. Consequently, some C are A."
+  },
+  {
+    "id": "57104ec7-4729-408b-938d-d37ee5d81de8",
+    "validity": false,
+    "p_yes": 0.272,
+    "abstract": "There are some A which are B. A B is a very tall C. One can therefore conclude that some tall C are D."
+  },
+  {
+    "id": "103e14a2-88ad-41b1-8d1f-7308698193ba",
+    "validity": true,
+    "p_yes": 0.6584,
+    "abstract": "There are no A that are not B. All B are C. From this, it can be derived that some C are A."
+  },
+  {
+    "id": "96d1a6d5-85d5-4446-9d55-7160847cd49d",
+    "validity": true,
+    "p_yes": 0.7311,
+    "abstract": "There is not a single A that is a B. A portion of A are C. It is the case that some C are B."
+  },
+  {
+    "id": "2324e141-9d60-425e-a797-224e19395db0",
+    "validity": false,
+    "p_yes": 0.3886,
+    "abstract": "A is B. A is C. Therefore, some C are D."
+  },
+  {
+    "id": "ad609a5a-b03c-4924-b217-680c76614f03",
+    "validity": true,
+    "p_yes": 0.6584,
+    "abstract": "A. Every B is a C. \nThe set of D contains no C. \nIt is the case that some A are not E."
+  },
+  {
+    "id": "989f0a8f-629c-40d6-a8ef-f31cc47d97ed",
+    "validity": false,
+    "p_yes": 0.3141,
+    "abstract": "It is the case that there are no A who are B. There are C who are D. Therefore, some C are B."
+  },
+  {
+    "id": "e6df12a9-03ea-4831-a9ea-2f7049e4daf9",
+    "validity": false,
+    "p_yes": 0.2227,
+    "abstract": "Every A is not a B. Some C are D. Therefore, some C are A."
+  },
+  {
+    "id": "bd01fc8a-394b-4833-9e2b-af5fa8d9e919",
+    "validity": false,
+    "p_yes": 0.0726,
+    "abstract": "No A that is a B is a C. Some D are not C. Therefore, every single D is a B."
+  },
+  {
+    "id": "026ddcfd-0279-455c-96fe-340672474b9f",
+    "validity": true,
+    "p_yes": 0.8129,
+    "abstract": "Every single A is composed of B. A certain amount of A is C. Consequently, it is the case that some C is made of B."
+  },
+  {
+    "id": "2becb2e2-09ad-4468-91ab-59cd84985759",
+    "validity": true,
+    "p_yes": 0.696,
+    "abstract": "A is not C. B is D. C is not B."
+  },
+  {
+    "id": "4b3008e8-0b0d-4ea6-8765-de94774551ae",
+    "validity": false,
+    "p_yes": 0.3208,
+    "abstract": "There are no A that are non-B that are also C. Everything that is a D is an E. Therefore, every D is a C."
+  },
+  {
+    "id": "9c320004-80e7-4842-8b4d-87867ae29d08",
+    "validity": true,
+    "p_yes": 0.6654,
+    "abstract": "Anything that is A is a B. There are no instances of D which are B. It is therefore established that no D is A."
+  },
+  {
+    "id": "e0f02ca3-46a2-4cad-9a4d-29c030e0e1e3",
+    "validity": true,
+    "p_yes": 0.7249,
+    "abstract": "Some A cannot move. It is also true that every A is a B. Consequently, some B cannot move."
+  },
+  {
+    "id": "85d441e2-8d3c-4574-a16f-f48a9cbad676",
+    "validity": true,
+    "p_yes": 0.5622,
+    "abstract": "A. Every single C is a D. The category of B does not contain D. Some B are not A."
+  },
+  {
+    "id": "7e250e86-12a5-441f-8a5c-bd65f2cc79bf",
+    "validity": true,
+    "p_yes": 0.8199,
+    "abstract": "Nothing that is A is also a B. Every single B is a C. Therefore, a subset of C is not composed of A."
+  },
+  {
+    "id": "60609ba7-37db-446f-a53c-e41568217236",
+    "validity": false,
+    "p_yes": 0.0496,
+    "abstract": "It is the case that some A are B. There are some C that are also B. This implies that all C are A."
+  },
+  {
+    "id": "2148d9fc-c7e3-45b6-8429-e59d083350fb",
+    "validity": true,
+    "p_yes": 0.6261,
+    "abstract": "A. Any B is C. There are no D which are E. It can be said that some D are not F."
+  },
+  {
+    "id": "b6368b66-a4e2-4b6c-bcc3-7a04a3c0d604",
+    "validity": true,
+    "p_yes": 0.7491,
+    "abstract": "All A are B. C is A. There exists some C that is B."
+  },
+  {
+    "id": "4787263f-def5-4639-a523-d3541a99fe8a",
+    "validity": false,
+    "p_yes": 0.1993,
+    "abstract": "There are some A that are B. Every single C is a D. It is therefore the case that every C is a B."
+  },
+  {
+    "id": "3864b331-e27b-45c0-9df1-2277f6c3bcf6",
+    "validity": true,
+    "p_yes": 0.5699,
+    "abstract": "All A are B. All A are C. Therefore, some C are B."
+  },
+  {
+    "id": "400d39a6-3666-4806-8143-03dacb844452",
+    "validity": false,
+    "p_yes": 0.1294,
+    "abstract": "There exist some individuals who are A who are not B. Every single person who is A is a C. One can thus conclude that all C are B."
+  },
+  {
+    "id": "78a473a3-d129-4c4d-8434-a0fce13d0024",
+    "validity": true,
+    "p_yes": 0.566,
+    "abstract": "A. Every single B is a C that flows towards the D. The E is a B. Some parts of the E are F."
+  },
+  {
+    "id": "372bfeea-11fd-47ad-b489-0616b8d2cd30",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "A all B. C some B are D."
+  },
+  {
+    "id": "4a405609-338a-4f3e-ba58-bc6690f121db",
+    "validity": false,
+    "p_yes": 0.2451,
+    "abstract": "All A are B. No B is C. This proves that no C is D."
+  },
+  {
+    "id": "267064a3-db1a-4c57-a571-ce5c0c8f141e",
+    "validity": false,
+    "p_yes": 0.2309,
+    "abstract": "A few A are B. There are no B that are C. Therefore, some C are A."
+  },
+  {
+    "id": "7757fbfa-2895-462b-8af0-5fe5118ed0ff",
+    "validity": true,
+    "p_yes": 0.6792,
+    "abstract": "A is B. C is not D. Therefore, it is not the case that all D are A."
+  },
+  {
+    "id": "3c944a90-a461-4136-99dc-8ed0cf1d04b0",
+    "validity": true,
+    "p_yes": 0.5851,
+    "abstract": "Every A who is a B is also a C. All C are D. We can logically conclude that some D are A."
+  },
+  {
+    "id": "8812a393-e0c1-40db-9b3f-9622636faf4c",
+    "validity": false,
+    "p_yes": 0.2173,
+    "abstract": "There are no A that are B. At least one C is a B. Therefore, there is at least one C which is an A."
+  },
+  {
+    "id": "84a1bda0-cd40-40ce-bff4-4dffcc19e6f0",
+    "validity": true,
+    "p_yes": 0.6298,
+    "abstract": "There are no A that are B. Every single item that is C is a D. This proves that some C are not A."
+  },
+  {
+    "id": "0cc0d0ae-390a-4f5d-9a86-b88d6cb22f91",
+    "validity": true,
+    "p_yes": 0.6298,
+    "abstract": "All A are not B. All C are B. Therefore, no C are A."
+  },
+  {
+    "id": "821cda62-dee6-452f-ad54-8efdc614af27",
+    "validity": false,
+    "p_yes": 0.1009,
+    "abstract": "Every A is a B. Some C are D. Consequently, every C is a B."
+  },
+  {
+    "id": "0b4b4991-85ef-45dd-981a-4ab75398a0e7",
+    "validity": false,
+    "p_yes": 0.4073,
+    "abstract": "No A are B. All C are D. It follows that some C are not B."
+  },
+  {
+    "id": "d2bc4045-c226-4f0b-9b3a-32b3d8910b95",
+    "validity": false,
+    "p_yes": 0.2337,
+    "abstract": "A. Every single D is an A. Nothing that is a F is an A. It follows from this that every single F is a D."
+  },
+  {
+    "id": "3a2acb10-9c38-4a52-a0a0-b2bf04e3759a",
+    "validity": true,
+    "p_yes": 0.7311,
+    "abstract": "It is not the case that every single A is a B. All A are C. One can logically conclude that some C are not B."
+  },
+  {
+    "id": "e4fb7540-5e00-4c53-9dfd-4e7050ae4dc6",
+    "validity": true,
+    "p_yes": 0.7432,
+    "abstract": "Not a single piece of A is a B. Every B is a C. It must be that some C are not A."
+  },
+  {
+    "id": "ea6c2bc1-713a-45ad-85a4-cee85fd16552",
+    "validity": true,
+    "p_yes": 0.5851,
+    "abstract": "There are no A which are B. Some C are D. Thus, some C are not B."
+  },
+  {
+    "id": "7bb6a410-346d-4f41-ba2a-349c3d9c3674",
+    "validity": true,
+    "p_yes": 0.7879,
+    "abstract": "No A is a B. All B are C without exception. Some C are D."
+  },
+  {
+    "id": "d15cb838-c7fd-4799-a715-f8fdb1572d56",
+    "validity": true,
+    "p_yes": 0.8311,
+    "abstract": "There are certain objects designated as official A that are not B. Every official A is a type of C. Consequently, some objects classified as C are not B."
+  },
+  {
+    "id": "c1c2bdfa-8151-4f68-ac0d-ad67118c1ea3",
+    "validity": true,
+    "p_yes": 0.6514,
+    "abstract": "There are no A who are also B. Some A are C. It is the case that some C are B."
+  },
+  {
+    "id": "4217eb31-60ef-4909-8bbd-aaf43dfd68db",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "There is no A that is B. Every C is a form of A. It must be concluded that some C are not B."
+  },
+  {
+    "id": "03cc2c62-68d9-4f7e-98ea-f3fae01cb2c1",
+    "validity": true,
+    "p_yes": 0.5467,
+    "abstract": "Every A is a B. There are a number of C that are B. It follows from this that there are some C that are A."
+  },
+  {
+    "id": "07920681-7c88-4bc7-8664-594779ff5ae4",
+    "validity": true,
+    "p_yes": 0.5312,
+    "abstract": "There are no A that are B. All C that is D is E. It's the case that some D are B."
+  },
+  {
+    "id": "92193f8e-bb29-4c19-b647-5050c518f786",
+    "validity": true,
+    "p_yes": 0.6298,
+    "abstract": "A all B. There are some B which are also C. Consequently, a portion of C are A."
+  },
+  {
+    "id": "3f18c212-16aa-4c72-bde9-d1bb4349ca50",
+    "validity": true,
+    "p_yes": 0.6723,
+    "abstract": "There are no A that are B and also C. A portion of the A that are D are also B. It must be the case that some D are not C."
+  },
+  {
+    "id": "589ace73-14ef-480f-b0e0-77df273129d5",
+    "validity": false,
+    "p_yes": 0.4378,
+    "abstract": "A. Every single B is a C that has D. Anything that is an E is a F. Consequently, all E are C with D."
+  },
+  {
+    "id": "c869ec62-ccfd-47ab-b7bc-2cb24c86b835",
+    "validity": false,
+    "p_yes": 0.2975,
+    "abstract": "There are no A that can be called B. It is also true that every A is a type of C. This has led to the conclusion that every C is a B."
+  },
+  {
+    "id": "331224ac-9f0e-4258-ab9d-8a3a73304e04",
+    "validity": true,
+    "p_yes": 0.8397,
+    "abstract": "Not a single A is a B. Anything that is a B is a C. It is necessarily true that no C are A."
+  },
+  {
+    "id": "56d2d008-769e-4361-be9a-70140b5796b3",
+    "validity": false,
+    "p_yes": 0.0706,
+    "abstract": "A. Every single A is a B. Every single C is a B. Therefore, every C is an A."
+  },
+  {
+    "id": "0b026bf4-126a-47df-b0de-b388bd27cfbf",
+    "validity": true,
+    "p_yes": 0.7311,
+    "abstract": "There exist some A which are B that are not C. It is true that all B are D. From this, it follows that there are some D that are not C."
+  },
+  {
+    "id": "6acd4cd7-9084-4650-be51-7486727c264e",
+    "validity": true,
+    "p_yes": 0.7372,
+    "abstract": "A is B. There are no B which are C. This logically implies that some C are not A."
+  },
+  {
+    "id": "9d675913-128b-4451-9c9d-a397adcfef77",
+    "validity": false,
+    "p_yes": 0.2689,
+    "abstract": "It is not the case that A is a B. Not a single A is a C. This makes it true that all C are B."
+  },
+  {
+    "id": "8e2e1ec3-ffad-4df7-a36e-686e0e81b7fe",
+    "validity": false,
+    "p_yes": 0.4922,
+    "abstract": "Some A are B. Some B is C. Therefore, some C are A."
+  },
+  {
+    "id": "483eaa32-5436-45f5-aa44-6c5633679ba1",
+    "validity": true,
+    "p_yes": 0.5927,
+    "abstract": "There is at least a number of type A that is of type B. A portion of the numbers of type C are numbers of type B. Consequently, some numbers of type C are numbers of type A."
+  },
+  {
+    "id": "fc53be1a-0b75-4995-bcb2-bc3a878a0cb2",
+    "validity": true,
+    "p_yes": 0.8222,
+    "abstract": "No A that is a B is a C. Not a single D is a B. This demonstrates that some D are not C."
+  },
+  {
+    "id": "6936ce4a-9e83-488a-947d-66bb574f1789",
+    "validity": true,
+    "p_yes": 0.6225,
+    "abstract": "It is true that no A is a B. It is also true that no C is a A. It is a logical necessity that no C is a B."
+  },
+  {
+    "id": "f86ad9f5-da96-48cf-8f1b-eecff4855720",
+    "validity": false,
+    "p_yes": 0.363,
+    "abstract": "A is B. C is not D. Therefore, C is not E."
+  },
+  {
+    "id": "711debd8-26fc-42bc-916e-a7144ce10c7c",
+    "validity": false,
+    "p_yes": 0.2422,
+    "abstract": "A implies B. Some C are not D. Therefore, some C are not A."
+  },
+  {
+    "id": "7b2cf5cc-01ef-4c55-bba5-14b8554c88e7",
+    "validity": false,
+    "p_yes": 0.461,
+    "abstract": "A. Every B is a C. \nThere exist some D which are not E. \nIt follows that some D are not F."
+  },
+  {
+    "id": "75606fbf-243c-4bf4-a2c9-b465e1dfc625",
+    "validity": false,
+    "p_yes": 0.2878,
+    "abstract": "Every A is a B. Any C that is a D is an A. Therefore, it is a certainty that every D is a B."
+  },
+  {
+    "id": "817cdc8f-77b7-40f0-b530-534ff43e8157",
+    "validity": true,
+    "p_yes": 0.7607,
+    "abstract": "All A is B. It is impossible for C to be B. Therefore, no C is A."
+  },
+  {
+    "id": "c91be219-5600-47fb-b1fc-f035dd21b630",
+    "validity": false,
+    "p_yes": 0.1582,
+    "abstract": "It is true that no A are B. A number of people are A. Consequently, some people are B."
+  },
+  {
+    "id": "197af586-bb35-4468-b95b-66f96fde54e8",
+    "validity": true,
+    "p_yes": 0.5429,
+    "abstract": "A are B. C that is D is E. It's the case that some E are F."
+  },
+  {
+    "id": "5da02e7d-f0ca-462a-9517-061b16eb5248",
+    "validity": true,
+    "p_yes": 0.7122,
+    "abstract": "It is impossible for a M to be an E. Some of the E's are B's. There are a few B's which are not M's."
+  },
+  {
+    "id": "ad259739-10fe-472e-87bb-6a8d488acfeb",
+    "validity": true,
+    "p_yes": 0.6077,
+    "abstract": "A is B. C that is B cannot be D. Therefore, D is not A."
+  },
+  {
+    "id": "5f9dc1fd-7296-4337-bd26-73b8b1734c54",
+    "validity": true,
+    "p_yes": 0.6225,
+    "abstract": "There exist some A which are B that are not C. It is true that all B are D. It follows that some D are E."
+  },
+  {
+    "id": "3b67d2a3-1245-4013-91d0-6463f2b41546",
+    "validity": true,
+    "p_yes": 0.5622,
+    "abstract": "It is impossible for an A to be a B. A portion of B's are C's. Some of the C's are not A's."
+  },
+  {
+    "id": "f6da63f4-4a1e-4d79-8767-b7b8761a3a2e",
+    "validity": false,
+    "p_yes": 0.3923,
+    "abstract": "No A possess B. There are some C which are D. This means that some C have B."
+  },
+  {
+    "id": "65729a20-e483-464d-873b-bdfb2041b484",
+    "validity": false,
+    "p_yes": 0.2942,
+    "abstract": "There are no A that are B. Every single piece of C is a D. It is therefore the case that all C is a B."
+  },
+  {
+    "id": "143a3ae4-83d7-4e39-9181-3de95956b6d1",
+    "validity": true,
+    "p_yes": 0.6077,
+    "abstract": "Not one single A is a B. All C are D. It follows from this that some C are not A."
+  },
+  {
+    "id": "8f2faef7-397b-4544-b9e1-9e2221572866",
+    "validity": false,
+    "p_yes": 0.3849,
+    "abstract": "Every A who is a B is a C. There are a number of D who are E who are also F. It follows from this that there are some D who are G."
+  },
+  {
+    "id": "8e100be7-956f-46e7-a431-a884cc30b28c",
+    "validity": false,
+    "p_yes": 0.3775,
+    "abstract": "There are no A that can be called B. It is also true that every A is a type of C. This has led to the conclusion that some C are A."
+  },
+  {
+    "id": "454ea1b7-bfb1-4a65-a000-c21cbe9b9ef4",
+    "validity": true,
+    "p_yes": 0.7432,
+    "abstract": "Nothing that is A can be considered a B. It is the case that some types of C are A. It follows that some Cs are not Bs."
+  },
+  {
+    "id": "efa6cac1-2f25-4499-a8c3-270cd761f39b",
+    "validity": false,
+    "p_yes": 0.1848,
+    "abstract": "Every single A has a B. It is not true that any A is a C. Therefore, some C have Bs."
+  },
+  {
+    "id": "38d24800-8f0e-443d-97ee-1893f3706ea3",
+    "validity": true,
+    "p_yes": 0.8176,
+    "abstract": "There are no A that are B. Every single A is a C. Some C fail to be B."
+  },
+  {
+    "id": "6094bd10-5daf-4a42-8eab-e2f321d0562c",
+    "validity": false,
+    "p_yes": 0.3702,
+    "abstract": "There are no A that can be called C. It is also true that every A is a type of B. This has led to the conclusion that all B are C."
+  },
+  {
+    "id": "7871929a-81a2-40c8-b515-2af727c44b13",
+    "validity": true,
+    "p_yes": 0.5699,
+    "abstract": "A. Every single A lives in B. Any A is a C. This means that all C live in B."
+  },
+  {
+    "id": "003e3990-3141-4a4f-bbb2-8d496df84710",
+    "validity": true,
+    "p_yes": 0.7186,
+    "abstract": "It is certain that no item categorized as A has B. A certain group of A are C. Based on this, it must be the case that some C do not have B."
+  },
+  {
+    "id": "362cdfd6-8602-406f-ac7a-bc837fa96545",
+    "validity": true,
+    "p_yes": 0.6002,
+    "abstract": "A are not B. It is the case that some C is D. No C are E."
+  },
+  {
+    "id": "a50d01a9-97f3-4c5d-a89a-b5f18f91c8b8",
+    "validity": true,
+    "p_yes": 0.8129,
+    "abstract": "There are no A that are B. Every single A is C. Some C fail to be B."
+  },
+  {
+    "id": "aba58977-4f05-4852-a433-720010a97208",
+    "validity": true,
+    "p_yes": 0.9173,
+    "abstract": "A is B. All B are C. Therefore, some C are A."
+  },
+  {
+    "id": "d7957921-d384-41d5-aec4-ae0fd8c458a4",
+    "validity": false,
+    "p_yes": 0.4073,
+    "abstract": "There is not one A that is a B. Some of the things that are C are D. It must be true that some C are B."
+  },
+  {
+    "id": "9f78a37a-81a8-426d-b524-d824fbeceab0",
+    "validity": false,
+    "p_yes": 0.1871,
+    "abstract": "A. Every single A is a B. No C that is a D is an E. It follows from this that every D is a B."
+  },
+  {
+    "id": "b531ac79-36f1-49eb-86bb-3f5ef506b585",
+    "validity": false,
+    "p_yes": 0.3208,
+    "abstract": "A few of the L are D. There are no D that are F. Therefore, some F are L."
+  },
+  {
+    "id": "d63b3aff-77cd-4c65-9417-be63ce1c733b",
+    "validity": false,
+    "p_yes": 0.4036,
+    "abstract": "A all B. C any D is B. Therefore, some D are not E."
+  },
+  {
+    "id": "3167dc72-56e1-47ad-8a27-e9883d7cb917",
+    "validity": false,
+    "p_yes": 0.3346,
+    "abstract": "There are no A which are B. Some C are D. It must be true that some C are B."
+  },
+  {
+    "id": "be9f522b-b67e-4107-a9b0-76ae2c1672bc",
+    "validity": true,
+    "p_yes": 0.7058,
+    "abstract": "Some A are known as B. Everything that is a B is also a C. Therefore, there are C that are A."
+  },
+  {
+    "id": "50b2444b-686f-487c-8e11-e76b4126b8ff",
+    "validity": true,
+    "p_yes": 0.6654,
+    "abstract": "There is not a single piece of P that can be eaten. A portion of all P is a B. It is the case that some B are edible."
+  },
+  {
+    "id": "e1a54f18-8d34-4a45-ae80-85de65382e9d",
+    "validity": true,
+    "p_yes": 0.8459,
+    "abstract": "Not a single A is B. Every single instance of B is C. It is necessary that some C are not D."
+  },
+  {
+    "id": "5f8d85f1-6ffc-47d1-bb8b-bcba0dca1a9d",
+    "validity": false,
+    "p_yes": 0.4301,
+    "abstract": "Anything that is A is also B. Some A are considered to be C. A certain number of C, therefore, are B."
+  },
+  {
+    "id": "eb316e9a-bfaa-484e-934b-26203731767c",
+    "validity": true,
+    "p_yes": 0.7982,
+    "abstract": "There are no A that are also B. Everything classified as a C named D is an E. This means some things that are D are not F."
+  },
+  {
+    "id": "245192ce-465d-4f70-8808-b8f3ed933095",
+    "validity": false,
+    "p_yes": 0.3775,
+    "abstract": "A is edible. B is C. Therefore, B is edible."
+  },
+  {
+    "id": "7595f31f-4f04-42c1-83e4-891c2aa9ddd4",
+    "validity": true,
+    "p_yes": 0.5927,
+    "abstract": "It is not true that all A are B. All A are, without exception, C. Therefore, it is suggested that some C are B."
+  },
+  {
+    "id": "7d736cba-aa56-4da6-af1c-a7a5a62a213c",
+    "validity": true,
+    "p_yes": 0.7432,
+    "abstract": "A are no B that are C. Among the B, some are D. Not all D are E."
+  },
+  {
+    "id": "3277e556-ec97-447f-8c23-97bdcf9a2b5d",
+    "validity": false,
+    "p_yes": 0.4455,
+    "abstract": "All A are not B. Some C that are D have no E that are F. Therefore, no C are B."
+  },
+  {
+    "id": "049d61bb-cd42-4142-a99a-154d048e2073",
+    "validity": true,
+    "p_yes": 0.728,
+    "abstract": "A few A are B. Every single B is C. Consequently, some C are A."
+  },
+  {
+    "id": "3628765c-fee6-4acf-8209-532629663003",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "There are no A that are B. All C are B. It follows from this that some C are not A."
+  },
+  {
+    "id": "fd7eed56-3886-40c5-b22d-627e7434e507",
+    "validity": true,
+    "p_yes": 0.637,
+    "abstract": "A are not B. All things that are C are D. It follows logically that some C are not B."
+  },
+  {
+    "id": "8dcec24c-8e0d-4c22-9ecc-5134f3c59fa8",
+    "validity": false,
+    "p_yes": 0.2814,
+    "abstract": "There are no A that are B. Every single C is a D. It is therefore the case that all C are B."
+  },
+  {
+    "id": "5c2f4196-2ce4-41dd-a456-8a5198ba465f",
+    "validity": true,
+    "p_yes": 0.686,
+    "abstract": "Every single item that is A is not a B. Of the items that are C, some are D. It is a correct deduction that some C are not E."
+  },
+  {
+    "id": "85dd382a-22e5-4c21-9218-33228012e4ad",
+    "validity": true,
+    "p_yes": 0.6654,
+    "abstract": "It is completely false that any A is a thing that grows on a B. A portion of As are Cs. We must conclude that some Cs do not grow on Bs."
+  },
+  {
+    "id": "48a96158-28f0-4e60-8802-3a7a9767cacb",
+    "validity": false,
+    "p_yes": 0.2337,
+    "abstract": "There are some A that are B. All C are D. Thus, all C are B."
+  },
+  {
+    "id": "c232d8c7-8f29-46bc-8f5c-bdfa3c52fcd5",
+    "validity": true,
+    "p_yes": 0.5078,
+    "abstract": "A is a B. C contains no D. E is a D."
+  },
+  {
+    "id": "3f88e8d0-dd4c-45d8-8a75-02835b5a0c49",
+    "validity": false,
+    "p_yes": 0.3558,
+    "abstract": "All A are B. It is also true that every single A is C. This proves that all C are B."
+  },
+  {
+    "id": "04996853-61fd-42a9-a624-55022231c633",
+    "validity": true,
+    "p_yes": 0.5851,
+    "abstract": "Every single A is a B. There are no B items that can be described as C. It is therefore true that some C items are not A."
+  },
+  {
+    "id": "7260bc88-c604-4113-a75e-939ae8166676",
+    "validity": true,
+    "p_yes": 0.5156,
+    "abstract": "All A is not B. Some C are D. This demonstrates that some C are not B."
+  },
+  {
+    "id": "10541e1f-8a1c-4e7b-8d84-fab0d65b94d8",
+    "validity": true,
+    "p_yes": 0.5775,
+    "abstract": "A is B. C is not D. Therefore, some D are not A."
+  },
+  {
+    "id": "7d9df7e7-eedb-44f5-8061-30b0a2a98db4",
+    "validity": false,
+    "p_yes": 0.2509,
+    "abstract": "There are no A that are also B. The set of C includes some creatures that are B. A consequence is that some C are A."
+  },
+  {
+    "id": "96909dbd-70b8-4360-8b69-b7e32471b429",
+    "validity": false,
+    "p_yes": 0.2121,
+    "abstract": "Some A that are B are C. All D that are E are F. Consequently, it follows that some G are H."
+  },
+  {
+    "id": "806e7a11-8342-4dbe-a927-d0e806a4b20b",
+    "validity": false,
+    "p_yes": 0.2942,
+    "abstract": "There are no A which are B. Some C are things that are D. It follows that some C are B."
+  },
+  {
+    "id": "1d818034-9835-4fad-8d0f-d5c83e7597df",
+    "validity": true,
+    "p_yes": 0.6225,
+    "abstract": "There are no A that are B. Every C that is D is an E. This logically proves that no D is F."
+  },
+  {
+    "id": "8718088f-3491-4a7e-a2ce-7152317990f5",
+    "validity": true,
+    "p_yes": 0.6792,
+    "abstract": "Nothing that is A is also B. The set of creatures that are C includes some that are D. E conclusion that can be drawn is that some C are not A."
+  },
+  {
+    "id": "129109ba-a60f-4fb7-a8d3-341580fffe0c",
+    "validity": true,
+    "p_yes": 0.539,
+    "abstract": "A is not B. Some C is D. It is the case that no E are F."
+  },
+  {
+    "id": "b1ee7c4f-fb73-4e19-a675-7577cb81bc0c",
+    "validity": false,
+    "p_yes": 0.2227,
+    "abstract": "A are B. There are some C that are D. It is therefore the case that every C is E."
+  },
+  {
+    "id": "652a6a0e-cef2-4cd8-8562-e4c78589d320",
+    "validity": true,
+    "p_yes": 0.6077,
+    "abstract": "A is a subset of B. Some C is not D. The entire group of C is not A."
+  },
+  {
+    "id": "5934014e-aec0-442f-8a04-abddc9379cfc",
+    "validity": true,
+    "p_yes": 0.6758,
+    "abstract": "A is B. There are no C that are D. Every E is B."
+  },
+  {
+    "id": "723a274a-a4ff-47f5-8a4f-0cf42e554a5a",
+    "validity": false,
+    "p_yes": 0.2539,
+    "abstract": "It is the case that no A is a B. Some C are D. It follows that some C are E."
+  },
+  {
+    "id": "49939bf4-a4ca-43c7-97c6-463a7ab2a653",
+    "validity": true,
+    "p_yes": 0.5156,
+    "abstract": "All A who are B are C. There are no D who are E. Therefore, no E is a B."
+  },
+  {
+    "id": "6d615c95-bbcf-4b0d-b41b-1763fa186ab8",
+    "validity": true,
+    "p_yes": 0.7122,
+    "abstract": "It is true that no A are B. Every single A is a C. This is why every C is not a B."
+  },
+  {
+    "id": "cada4d49-02a3-4dc0-b207-88f4b7b29596",
+    "validity": true,
+    "p_yes": 0.7491,
+    "abstract": "No A that is a B can be a C. There are some things known as D which are E. Consequently, not all D are F."
+  },
+  {
+    "id": "88cbe1ec-a2be-40ca-9f5f-db71a17fba20",
+    "validity": false,
+    "p_yes": 0.1023,
+    "abstract": "Nothing that is A is able to B. Every single A is a B. It is therefore true that every B can C."
+  },
+  {
+    "id": "03ac9985-ef97-4bab-974b-e75918cf6c05",
+    "validity": true,
+    "p_yes": 0.6002,
+    "abstract": "A is B. All of the things that are C are B. This means that there are no C that are A."
+  },
+  {
+    "id": "87c94990-9984-4e95-8bc2-6d04038fc550",
+    "validity": true,
+    "p_yes": 0.6298,
+    "abstract": "Some A are B. All C which are B are D. Therefore, some D are A."
+  },
+  {
+    "id": "a5992a44-d98f-46f0-831e-bddd22281a67",
+    "validity": true,
+    "p_yes": 0.5775,
+    "abstract": "Each and every A is a B. All A are C. Therefore, it is the case that some C are B."
+  },
+  {
+    "id": "79d80652-f46b-46f0-aa71-9d23c95901bf",
+    "validity": true,
+    "p_yes": 0.5851,
+    "abstract": "A portion of things that are P are B. Among the items known as N, some are P. This allows us to state that not all N are B."
+  }
+]

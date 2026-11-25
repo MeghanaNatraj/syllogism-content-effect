@@ -1,0 +1,14 @@
+{
+  "n": 160,
+  "accuracy": 68.12,
+  "acc_plausible_valid": 70.0,
+  "acc_implausible_valid": 42.5,
+  "acc_plausible_invalid": 70.0,
+  "acc_implausible_invalid": 90.0,
+  "tce_intra": 23.75,
+  "tce_cross": 23.75,
+  "tce": 23.75,
+  "cs": 16.19,
+  "share_pred_valid": 0.381,
+  "minutes": 8.6
+}

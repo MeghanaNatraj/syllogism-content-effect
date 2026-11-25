@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "34ccf2ca-3f48-4493-bd28-afa6da0c45ce",
+    "validity": true,
+    "p_yes": 0.9954,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some housecats enjoy chasing mice. (Premise)\n2. Any animal that is a cougar is a predator. (Premise)\n3. Everything that is a feline is an animal. (Premise)\n4. There are no mammals that lay eggs like reptiles. (Premise)\n5. It is a known fact that all lions roar loudly. (Premise)\n6. Every single lynx is a wild cat. (Premise)\n7. Any and all cats are also animals. (Premise)\n8. This implies that all cats are felines. (Conclusion)\n\nThe conclusion is supported by the premises, specifically premise 7, which states that all cats are animals, and premise 3, which states that everything that is a feline is an animal. This implies that all cats are felines.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "37190acf-8bb4-4c0b-995a-05937430dfad",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premises:\n   - Every pea is a vegetable.\n   - Some beans are vegetables.\n   - There are many beets that are vegetables.\n   - Any radish is a vegetable.\n   - It is a fact that all turnips are vegetables.\n   - It is a fact that every potato is a vegetable.\n   - It is also true that all carrots are vegetables.\n\n2. Conclusion: A few vegetables are carrots.\n\nThe conclusion does not logically follow from the premises. The premises state that various types of vegetables (peas, beans, beets, radishes, turnips, potatoes, and carrots) are vegetables, but they do not provide any information about the proportion of vegetables that are carrots. The conclusion assumes that the majority of the mentioned vegetables are carrots, which is not supported by the premises.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      6
+    ]
+  },
+  {
+    "id": "94ea0032-e8dd-47bf-9a0b-49359335c390",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the logical validity of the argument, let's analyze its structure:\n\n1. Some hounds are actually birds. (Premise)\n2. Any retriever is a type of fish. (Premise)\n3. Anything that is a poodle is also a canine. (Premise)\n4. There are no animals that bark. (Premise)\n5. It is a fact that all collies have scales. (Premise)\n6. Every single puppy is a kitten. (Premise)\n7. The entire set of poodles is contained within the set of dogs. (Premise)\n8. A portion of dogs are not canines. (Premise)\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be trying to lead to a conclusion that contradicts the premises, but it's not clear what the conclusion is supposed to be.\n\nHowever, we can analyze the premises to see if they lead to any logical contradictions or inconsistencies. \n\n- Premise 3 states that poodles are canines, but premise 7 states that the entire set of poodles is contained within the set of dogs, which is a broader category that includes canines. This is not a contradiction.\n- Premise 8 states that a portion of dogs are not canines, which contradicts premise 3.\n\nSince the premises contain a contradiction, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "b0508840-0a8f-4a1f-8931-2146e18b07db",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every single car has a steering wheel. (Premise)\n2. Some of the bicycles are vehicles. (Premise)\n3. Everything that can be classified as a vehicle has wheels. (Premise)\n4. Some tricycles are toys for children. (Premise)\n5. Any scooter is a mode of transport. (Premise)\n6. It is a known fact that all trucks transport goods. (Premise)\n7. Therefore, some things with wheels are bicycles. (Conclusion)\n\nThe conclusion does not necessarily follow from the premises. The premises do not provide a direct connection between the fact that some things have wheels and the fact that some of those things are bicycles. The argument is trying to establish a connection between two unrelated premises (some things have wheels and some bicycles are vehicles) and a conclusion that is not logically supported by the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "9ee4c131-6dbe-436b-a116-04010e3071d1",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Any animal that roars is a fish.\n2. Premise: Every single feline is a mammal.\n3. Premise: Anything that is a lion is also a mammal.\n4. Premise: Some lions fail to be felines.\n5. Conclusion: It is a fact that all jaguars are insects. Every single tiger is a reptile.\n\nThe conclusion does not follow logically from the premises. The premises do not provide any information about jaguars or tigers, and the conclusion contradicts the premises that all felines are mammals.\n\nTherefore, the argument is: No (invalid).",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "416857a7-75fa-47d3-919f-fd5a61602550",
+    "validity": true,
+    "p_yes": 0.9975,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Every single ocean is a large body of saltwater. (No direct relevance to the conclusion)\n2. Premise 2: Some mountains are high-altitude geographic features. (No direct relevance to the conclusion)\n3. Premise 3: Any stream that flows is a source of water. (No direct relevance to the conclusion)\n4. Premise 4: There are no valleys that are not landforms. (No direct relevance to the conclusion)\n5. Premise 5: It is a known fact that all lakes are inland bodies of water. (No direct relevance to the conclusion)\n6. Premise 6: Anything that is a river is a body of water. (Direct relevance to the conclusion)\n7. Premise 7: Anything that is a river is a geographic feature. (Direct relevance to the conclusion)\n8. Conclusion: Consequently, some geographic features are bodies of water.\n\nThe conclusion logically follows from Premises 6 and 7, which establish a direct connection between rivers (a type of geographic feature) and bodies of water. Therefore, the argument is logically valid.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "10fee120-c4d6-498a-8c42-0851d1984507",
+    "validity": true,
+    "p_yes": 0.9878,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: There are some things which are cats that are not felines.\n2. Premise 2: Anything that is a cat is a tiger.\n3. Conclusion: There are some tigers that are not felines.\n\nFrom Premise 2, we can infer that anything that is a cat is also a tiger. Combining this with Premise 1, we can conclude that there are some tigers that are not felines, since there are some cats that are not felines and all cats are tigers.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "a825c9f6-44fa-47dc-9e90-c3751b1b40c3",
+    "validity": false,
+    "p_yes": 0.0022,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. The premises provide information about various categories of animals (goldfish, parrots, rabbits, hamsters, cats, and dogs).\n2. The conclusion is about the relationship between cats and dogs.\n\nThe argument is trying to establish a conclusion about the relationship between two categories (cats and dogs) based on the information provided about various categories.\n\nHowever, there is no direct connection between the premises about the different animal categories and the conclusion about the relationship between cats and dogs. The premises do not provide any information about the intersection or overlap between the categories of cats and dogs.\n\nTherefore, the conclusion does not logically follow from the premises, and the argument is invalid.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "f760a398-4e5f-4269-9ae8-1208bdafd53e",
+    "validity": true,
+    "p_yes": 0.9923,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Every single orange is a juicy fruit. (This doesn't provide any information about the category of berries.)\n2. Premise 2: Some lemons are sour to taste. (This doesn't provide any information about the category of berries.)\n3. Premise 3: Nothing in the category of berries is a citrus fruit. (This provides a relationship between berries and citrus fruits.)\n4. Premise 4: Any fruit with a rind is a citrus. (This provides a characteristic of citrus fruits.)\n5. Premise 5: It is a known fact that all limes are green. (This doesn't provide any information about the category of berries.)\n6. Premise 6: Among the items that are fruits, some are citrus fruits. (This implies that there are non-citrus fruits as well.)\n7. Conclusion: It follows that there are some fruits which are not berries.\n\nThe conclusion follows logically from the premises, especially Premise 3 and Premise 6. If some fruits are citrus and not berries, then there must be some fruits that are not berries.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "03083605-e360-4009-92cb-01962a521a79",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: There are no husbands who are not married.\n2. Premise: Any human being is a member of society.\n3. Premise: Anyone who is a bachelor is also a human.\n4. Conclusion: This means that some bachelors are not married.\n\nThe conclusion is based on the premise that there are no husbands who are not married. However, the argument does not provide any direct connection between being a bachelor and being married. The conclusion is trying to establish a connection between being a bachelor and being married, but it's not logically supported by the premises.\n\nThe argument is trying to use the fact that there are no husbands who are not married to conclude that some bachelors are not married. However, the premises do not provide any information about the marital status of bachelors. The conclusion is trying to make an inference that is not logically justified by the premises.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "b6444591-91bd-4197-ad2c-9a51d202d1ed",
+    "validity": true,
+    "p_yes": 0.8706,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure. \n\nThe conclusion is \"It is necessarily true that no canine is a dog.\" \n\nThe premises include statements about horses, mice, pigs, cows, cats, and canines. However, none of these premises directly support the conclusion. \n\nThe conclusion is actually a tautology, as \"no canine is a dog\" is equivalent to \"all dogs are not canines\" or \"canines are not dogs.\" This conclusion is necessarily true by definition, regardless of the premises.\n\nSince the conclusion is a tautology and the premises do not provide any new information, the argument is logically valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "cb375b46-e5a9-438e-979f-e9fb13eba109",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Every single rock is a writing instrument.\n2. There are no clouds that are not writing instruments.\n3. It is a fact that all fingers are writing instruments.\n4. There is no overlap between pencils and writing instruments.\n5. Pens and writing instruments have no members in common.\n6. Pens and pencils are the same group.\n\nThe conclusion is not explicitly stated, but we can infer it by looking for a contradiction or a logical consequence. \n\nFrom premises 4 and 5, we can conclude that there is no overlap between pencils and writing instruments, and between pens and writing instruments. \n\nFrom premise 6, we know that pens and pencils are the same group. \n\nNow, if we combine premises 1, 3, and the inferred conclusion that there is no overlap between writing instruments and pens/pencils, we can conclude that all fingers, rocks, and clouds are writing instruments, but there is no overlap between writing instruments and pens/pencils.\n\nHowever, this conclusion contradicts premise 4, which states that there is no overlap between pencils and writing instruments. This contradiction indicates that the argument is invalid.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "46e32fc2-d62c-4a07-8475-9c8ccb546415",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Premise: Every eagle is a creature with feathers.\n2. Premise: There are many penguins that are creatures with feathers.\n3. Premise: Any robin is a creature with feathers.\n4. Premise: There are no fish that can be described as creatures with feathers.\n5. Premise: Some parrots are creatures with feathers.\n6. Premise: It is undeniable that all owls are creatures with feathers.\n7. Premise: All birds are defined as creatures with feathers.\n8. Conclusion: A portion of birds are not fish.\n\nThe conclusion is not logically connected to the premises. The premises discuss the characteristics of various birds and fish, but the conclusion is about the relationship between birds and fish, which is not explicitly stated in the premises. The premises do not provide any information about the classification of birds or the characteristics of fish that would lead to the conclusion.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "4fc99c76-6256-4bf2-b038-acb5bc92cde8",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Any comet has a tail of ice and dust. (Premise)\n2. Some moons orbit around planets. (Premise)\n3. A planet is never a star. (Premise)\n4. Every single sun is a hot ball of gas. (Premise)\n5. There are no galaxies without stars. (Premise)\n6. It is a fact that some planets are gas giants. (Premise)\n7. It must be true that some gas giants are not stars. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss comets, moons, planets, suns, galaxies, and gas giants, but the conclusion is about gas giants being or not being stars. There is no logical link between the premises and the conclusion.\n\nTherefore, the argument is: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "a0ab48c1-16d8-4f59-ba17-77ce528fa107",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some apartments are in high-rise blocks. (Premise)\n2. There is at least a skyscraper that is a building. (Premise)\n3. Every single cottage is a home. (Premise)\n4. It is a known fact that all sheds are small structures. (Premise)\n5. There are no palaces that are not grand. (Premise)\n6. Among the group of things that are houses, some are buildings. (Premise)\n7. It follows that there are houses which are not skyscrapers. (Conclusion)\n\nThe conclusion is not necessarily true based on the premises. The premises do not provide any information about the relationship between houses and skyscrapers. They only provide information about apartments, cottages, sheds, palaces, and buildings. The conclusion is an independent statement that does not logically follow from the premises.\n\nTherefore, the argument is: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "c0a6099e-c843-4681-a34d-6505513c182b",
+    "validity": true,
+    "p_yes": 0.8825,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure. \n\nThe argument consists of several premises and a conclusion. However, there is no explicit conclusion provided. \n\nAssuming the conclusion is \"Some mammals are not dogs,\" we can analyze the argument as follows:\n\nPremise 1: All cows eat grass (irrelevant to the conclusion)\nPremise 2: Every single cat is a pet (irrelevant to the conclusion)\nPremise 3: There are no bears that are tame (irrelevant to the conclusion)\nPremise 4: Any wolf is a wild animal (irrelevant to the conclusion)\nPremise 5: Some horses gallop in fields (irrelevant to the conclusion)\nPremise 6: Every terrier is a dog (relevant to the conclusion)\nPremise 7: All terriers are also mammals (relevant to the conclusion)\nPremise 8: It is the case that some mammals are not dogs (this premise is the same as the conclusion, making it redundant)\n\nSince the conclusion is the same as one of the premises, the argument is essentially stating the same thing twice. This does not necessarily make the argument invalid, but it does make it redundant.\n\nHowever, if we consider the argument as a whole, we can see that the conclusion is supported by the premises. Premise 6 and 7 establish that terriers are mammals and dogs, and premise 8 explicitly states that some mammals are not dogs. \n\nGiven the structure of the argument, it appears to be logically valid, but the conclusion is redundant.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "9d899c7b-cbe5-4afa-8d53-b255dfdfc420",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To evaluate the argument's validity, let's break it down step by step:\n\n1. There are no persians that are not golden retrievers. (Premise)\n2. Any animal that meows is a beagle. (Premise)\n3. Every dog is a mammal. (Premise)\n4. Every single feline barks at strangers. (Premise)\n5. A portion of lions are mammals. (Premise)\n6. It is the case that some lions are dogs. (Conclusion)\n\nFrom premise 5, we know some lions are mammals. From premise 3, we know every dog is a mammal. However, there's no direct connection between lions and dogs in the premises.\n\nThe conclusion \"some lions are dogs\" is not logically entailed by the premises. The premises do not provide a clear path to conclude that lions are dogs.",
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "7a45e6d1-8e5d-4bc2-8fe4-dab2e9d77722",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some pianos walk around on two legs. (Premise)\n2. It is true that all drums have beating hearts. (Premise)\n3. There are some musical instruments that are people. (Premise)\n4. Any violin is actually a living person. (Premise)\n5. All of those who are people are living creatures. (Premise)\n6. Therefore, it can be said that some living creatures are musical instruments. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between living creatures and musical instruments. They discuss pianos, drums, people, and violins, but there is no logical link between these concepts and the conclusion.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "d6d14b49-6576-48f8-be78-08c8b3595fdd",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some tablets are made of cheese. (Premise)\n2. It is a fact that all televisions are birds. (Premise)\n3. Every single phone is a banana. (Premise)\n4. Anything that is an item of furniture is an object. (Premise)\n5. Every single computer is an object. (Premise)\n6. It follows that every computer is a piece of furniture. (Conclusion)\n\nThe conclusion is based on premises 4 and 5, which state that all furniture is an object and all computers are an object. However, there is no logical connection between being an object and being a piece of furniture. The premises about tablets, televisions, and phones are irrelevant to the conclusion.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "97e7f113-cb74-4c7c-99d2-60112ca353dd",
+    "validity": true,
+    "p_yes": 0.9843,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: All dentists are ghosts.\n2. Premise 2: There are no patients who are not made of plastic.\n3. Premise 3: Some surgeons are aliens.\n4. Premise 4: Every single nurse is a robot.\n5. Premise 5: Any pharmacist is a hologram.\n6. Premise 6: There exist no humans who also have medical degrees.\n7. Premise 7: Everything that is a doctor is a person with a medical degree.\n8. Premise 8: Doctors and humans are mutually exclusive.\n\nFrom Premise 1, we can infer that dentists are not humans (since they are ghosts). \n\nFrom Premise 2, we can infer that patients are made of plastic, which implies they are not humans.\n\nFrom Premise 6, we can infer that doctors are not humans.\n\nFrom Premise 8, we can conclude that doctors are not humans.\n\nNow, combining the inferences from Premise 1, 2, and 6, we can conclude that dentists, patients, and doctors are not humans.\n\nHowever, Premise 3, 4, and 5 introduce aliens, robots, and holograms, which are not necessarily related to the conclusion. These premises do not affect the conclusion that doctors are not humans.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "65f9a20c-6380-45e2-b633-24c90d718e36",
+    "validity": false,
+    "p_yes": 0.0,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Every parent is a child. (Premise)\n2. There are no adults who are not newborns. (Premise)\n3. Every single grandparent is a baby. (Premise)\n4. Some teenagers are actually elderly. (Premise)\n5. It is a fact that all toddlers are giants. (Premise)\n6. None of the children are living things. (Premise)\n7. This means that no living thing is a parent. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss the characteristics of parents, children, grandparents, and toddlers, but they do not provide any information about living things or the relationship between living things and being a parent.\n\nThe conclusion is an unrelated statement that does not follow from the premises. Therefore, the argument is not logically valid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "b9da97df-d784-4ce8-ac02-5c3d45c7a36b",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single pet is a stone statue.\n2. Premise 2: There are no paws that touch the ground.\n3. Premise 3: Any tail is a metal rod.\n4. Premise 4: There are no animals that are cats.\n5. Premise 5: It is true that all bones are made of candy.\n6. Premise 6: Some leashes are made of clouds.\n7. Premise 7: Among the cats, a few are dogs.\n8. Premise 8: Not all dogs are animals.\n\nThe conclusion is not explicitly stated, but we can infer that the argument is trying to establish a connection between the premises and the conclusion. However, the premises do not logically lead to a specific conclusion. They appear to be a collection of unrelated statements.\n\nSince the premises do not provide a clear logical path to a conclusion, the argument is not valid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "f2781c09-004d-42bb-91c4-1a8a5bde2e10",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single fire is made of solid ice.\n2. Premise 2: Any candle flame is actually a block of ice.\n3. Premise 3: It is true that all deserts are covered in snow.\n4. Premise 4: Every single star is cold.\n5. Premise 5: A few suns are stars.\n6. Conclusion: Some suns are cold.\n\nThe conclusion is not directly related to the premises. The premises discuss fires, candle flames, deserts, stars, and suns, but they do not provide a logical connection between the premises and the conclusion.\n\nThe argument is trying to establish a connection between the premises and the conclusion through the intermediate statements, but it is not a valid logical connection. For example, the fact that all deserts are covered in snow does not logically connect to the conclusion that some suns are cold.\n\nTherefore, the argument is logically invalid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "345712f6-065c-4a46-9d2b-58721658a4af",
+    "validity": false,
+    "p_yes": 0.0308,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All tea is a liquid.\n2. Many beverages are liquid.\n3. Every single quantity of water is liquid.\n4. Every juice is a liquid.\n5. Anything that is soda is liquid.\n6. At least one quantity of soda is not water.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be leading towards the conclusion that \"there is a liquid that is not tea, water, juice, or soda.\"\n\nHowever, the argument is trying to establish a connection between the premises and the conclusion, but it doesn't provide a clear logical link between them. The conclusion is not a direct consequence of the premises.\n\nThe argument is trying to use the premises to establish that there is a liquid that is not one of the mentioned types, but it doesn't provide a clear logical connection between the premises and the conclusion.\n\nThe conclusion is not a direct consequence of the premises. The argument is trying to use the premises to establish that there is a liquid that is not one of the mentioned types, but it doesn't provide a clear logical connection between the premises and the conclusion.\n\nThe conclusion is not a direct consequence of the premises. The argument is trying to use the premises to establish that there is a liquid that is not one of the mentioned types, but it doesn't provide a clear logical connection between the premises and the conclusion.\n\nThe conclusion is not a direct consequence of the premises. The argument is trying to use the premises to establish that there is a liquid that is not one of the mentioned types, but it doesn't provide a clear logical connection between the premises and the conclusion.\n\nThe conclusion is not a direct consequence of the premises. The argument is trying to use the premises to establish that there is a liquid that is not one of the mentioned types, but it doesn't provide",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "0681c777-9c5a-413e-9215-73c46d34456c",
+    "validity": true,
+    "p_yes": 0.9834,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Anything that is a vehicle is a creature that is alive.\n2. Premise 2: Every single car is a vehicle.\n3. Conclusion: Every car is alive.\n\nThe conclusion logically follows from the premises. Since all cars are vehicles (Premise 2) and vehicles are alive (Premise 1), it can be necessarily concluded that every car is alive.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "2223cd9a-39b5-4cd8-aef9-ce81b21d2555",
+    "validity": false,
+    "p_yes": 0.0028,
+    "reasoning": "To evaluate the argument's validity, let's break it down:\n\n1. Every single person will eventually die. (Premise)\n2. It is a known fact that all Romans were ancient people. (Premise)\n3. Everything that is a human is mortal. (Premise)\n4. Any citizen of Sparta was a Greek. (Premise)\n5. A portion of Greeks are mortals. (Premise)\n6. It follows from this that some Greeks are humans. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss Romans, Greeks, and mortality, but the conclusion jumps to a different topic (humans). The argument is trying to establish a connection between Greeks and humans, but it's not a direct or logical one.\n\nThe conclusion doesn't follow from the premises, so the argument is invalid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b4d784e1-99f0-4ca5-b6c0-4a94b0ae5f42",
+    "validity": true,
+    "p_yes": 0.9923,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All consultants are professionals.\n2. Every teacher is a professional.\n3. Anything that is a doctor is a professional.\n4. Some nurses are professionals.\n5. Any manager is a professional.\n6. Everything that is a lawyer is a professional.\n7. There exist lawyers who are not doctors.\n\nThe conclusion to be drawn is not explicitly stated, but we can infer it as: There exist professionals who are not doctors.\n\nFrom premises 1-6, we can conclude that being a consultant, teacher, doctor, nurse, manager, or lawyer implies being a professional.\n\nSince there exist lawyers who are not doctors (premise 7), and being a lawyer implies being a professional (premise 6), we can conclude that there exist professionals who are not doctors.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "b238b4d0-c6db-4bdc-880c-7d2de8299118",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Any grass is a plant.\n2. Every flower is a plant.\n3. Every single tree is a plant.\n4. There are many herbs that are plants.\n5. It is true that all mosses are plants.\n6. All things which are oaks are also plants.\n7. It follows that every oak is a tree.\n\nThe conclusion \"every oak is a tree\" is not necessarily true based on the premises. The premises state that oaks are plants, but they do not imply that oaks are trees. Trees and plants are not the same category, as the premises also state that grass, flowers, and mosses are plants.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "4b3bfb6a-a206-4d72-88e2-ac865e66cf69",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All motorcycles are vehicles.\n2. Every truck is a vehicle.\n3. There are many trains that are vehicles.\n4. Every single car is a vehicle.\n5. Any bicycle is a vehicle.\n6. Some buses are vehicles.\n7. There are no vehicles that are animals.\n8. It therefore must be the case that some animals are not cars.\n\nThe conclusion is trying to make a statement about animals and cars, but the premises only talk about vehicles in general. The key statement is \"There are no vehicles that are animals\" (7), which implies that all vehicles are not animals.\n\nThe conclusion \"some animals are not cars\" is trying to make a distinction between animals and cars, but the premises don't provide any information about animals. They only talk about vehicles, which include cars.\n\nSince the premises don't provide any information about animals, the conclusion doesn't logically follow from the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "ed463032-9ed6-43a3-a0a2-87bb7e1ebc69",
+    "validity": false,
+    "p_yes": 0.0009,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Not one single liquid is a solid. (Premise)\n2. Every rock is a solid. (Premise)\n3. It is true that all ice is a solid. (Premise)\n4. Some woods are solids. (Premise)\n5. There are many crystals that are solids. (Premise)\n6. There are some items which are metal that are liquid. (Premise)\n7. This implies that some metals are solids. (Conclusion)\n\nThe argument is trying to conclude that some metals are solids based on the premises. However, the conclusion does not logically follow from the premises. The premises only provide information about the properties of rocks, ice, woods, crystals, and metals, but they do not provide any direct connection between the properties of metals and the fact that some metals are solids.\n\nThe conclusion is trying to make an implication based on the existence of liquid metals, but it does not follow logically. The premises do not provide any information about the relationship between the properties of metals and the fact that some metals are solids.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "baeb1173-94db-4cae-aeee-f63127a89008",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Any river is a living thing.\n2. Premise 2: There are no mountains that are not living things.\n3. Premise 3: Every single stone is a living thing.\n4. Premise 4: It is a fact that all clouds are living things.\n5. Premise 5: The group of animals is a not part of the group of living things.\n6. Premise 6: Every single thing that is a cat is a living thing.\n7. Conclusion: All living things are cats.\n\nThe conclusion is a universal statement, implying that every living thing is a cat. However, Premise 5 states that the group of animals is not part of the group of living things, which contradicts the conclusion.\n\nMoreover, Premise 1-4 imply that rivers, mountains, stones, and clouds are living things, which further contradicts the conclusion.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "283a4c72-c0ce-4eb2-adc9-61605461b885",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremises:\n1. Some violins are actually small cars.\n2. Any trumpet is a vegetable.\n3. There are no flutes that are not made of solid gold.\n4. Every single drum is made of jelly.\n5. It is a fact that all cellos are made of ice.\n6. Every piano is a musical instrument.\n7. It is the case that every single guitar is a musical instrument.\n\nConclusion: A few guitars are pianos.\n\nThe conclusion does not logically follow from the premises. The premises provide information about various musical instruments and unrelated objects, but they do not establish a connection between guitars and pianos. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "9863354b-3eaf-424e-a888-1b2dc93ae1c7",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremise 1: Every single flower has petals.\nPremise 2: There are many organisms that have petals.\nPremise 3: It is a fact that all daisies have petals.\nPremise 4: Every lily has petals.\nPremise 5: Any tulip has petals.\nPremise 6: Anything that is a rose has petals.\nConclusion: Every rose is a flower.\n\nThe conclusion is not logically derived from the premises. The premises only establish that flowers, daisies, lilies, tulips, and roses have petals, but they do not provide a logical connection between being a rose and being a flower.\n\nTherefore, the argument is: No (invalid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "6a02fe69-e502-46f5-afbe-9ae1f126f5ed",
+    "validity": true,
+    "p_yes": 0.9923,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Many terriers are dogs.\n2. Premise: Every poodle is a dog.\n3. Premise: Anything that is a dog is not a cat.\n4. Premise: All bulldogs are dogs.\n5. Premise: All Labradors are dogs.\n6. Conclusion: Some Labradors are not cats.\n\nThe conclusion logically follows from the premises. The premises establish that all Labradors are dogs, and since dogs are not cats, it can be inferred that some Labradors are not cats.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "9d5d0576-5e6d-4957-99f3-f0fb5878efe8",
+    "validity": true,
+    "p_yes": 0.9942,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All crocodiles are cold-blooded.\n2. Any animal that is an iguana is a lizard.\n3. Every reptile is an organism that is cold-blooded.\n4. There are no amphibians that are reptiles.\n5. Anything that is a lizard is a reptile.\n\nConclusion: All lizards are cold-blooded.\n\nThe argument is trying to establish a conclusion about lizards based on the properties of crocodiles, reptiles, and iguanas. \n\nFrom premises 3 and 5, we can infer that all lizards are cold-blooded because they are reptiles. \n\nHowever, we cannot directly infer this from premise 1, as it only applies to crocodiles. \n\nBut, we can use the information from premises 2 and 3 to infer that if all reptiles are cold-blooded, and all iguanas are lizards, then all lizards must be cold-blooded.\n\nTherefore, the conclusion logically follows from the premises, making the argument valid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "7e1a3e91-5093-4b62-997a-6c930dcb2f9f",
+    "validity": true,
+    "p_yes": 0.9566,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Everything that is a human is a mammal.\n2. Premise: Every cat is a human.\n3. Conclusion: Every cat is a mammal.\n\nSince the conclusion logically follows from the premises, we can conclude that:\n\nYes (valid)",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "ba29ca42-047d-43a1-8321-dd5deee3581d",
+    "validity": false,
+    "p_yes": 0.001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremise 1: Anything that is a vegetable is a fruit.\nPremise 2: There is no overlap between the category of plants and the category of vegetables.\nConclusion: Some fruits are not plants.\n\nFrom Premise 1, we know that vegetables are a subset of fruits. From Premise 2, we know that plants and vegetables are distinct categories. \n\nNow, if we assume that all fruits are plants, then it would contradict Premise 2, as plants and vegetables would overlap. However, Premise 1 does not necessarily imply that all fruits are plants; it only states that vegetables are a subset of fruits.\n\nTherefore, the conclusion \"Some fruits are not plants\" does not necessarily follow from the premises.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "b06bfd62-c8dd-4fd8-9b8a-0fdacd3fcf7e",
+    "validity": true,
+    "p_yes": 0.9935,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Every single sofa grows leaves in the spring. (This statement is irrelevant to the conclusion.)\n2. Premise 2: It is true that all stools have roots in the ground. (This statement is irrelevant to the conclusion.)\n3. Premise 3: There are no recliners that do not blossom flowers. (This statement is irrelevant to the conclusion.)\n4. Premise 4: Every plant is a living thing. (This statement is relevant to the conclusion.)\n5. Premise 5: A few chairs are living things. (This statement is relevant to the conclusion.)\n6. Conclusion: It is the case that some chairs are plants.\n\nThe conclusion follows logically from Premise 4 and Premise 5. If some chairs are living things and every plant is a living thing, then some chairs must be plants.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "b2e22a14-bb54-4ca0-9081-89d9471b088f",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremise 1: Every bat is an animal that can fly.\nPremise 2: There are many bees that are animals that can fly.\nPremise 3: Any dragonfly is an animal that can fly.\nPremise 4: There is at least one bird that is an animal that can fly.\nPremise 5: Some insects are animals that can fly.\nPremise 6: Anything that is an eagle is an animal that can fly.\nConclusion: For this reason, every eagle is a bird.\n\nThe conclusion does not follow logically from the premises. The premises only establish that various animals can fly, but they do not provide any information about the relationship between being an eagle and being a bird. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "2d6f10e9-83ef-4172-a81e-0c29cf0e441b",
+    "validity": false,
+    "p_yes": 0.0005,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every single lawyer is a toddler (L ⊆ T)\n2. Some engineers are babies (E ∩ B ≠ ∅)\n3. Every single professional is a child (P ⊆ C)\n4. It is a fact that all scientists are infants (S ⊆ I)\n5. The set of doctors contains no children (D ∩ C = ∅)\n6. Some professionals can be found that are not doctors (P ∩ D' ≠ ∅)\n\nFrom (3), we know P ⊆ C. From (5), we know D ∩ C = ∅. Combining these, we can conclude that P ∩ D = ∅, meaning no professionals are doctors.\n\nNow, let's examine the conclusion that can be drawn from the premises. The conclusion is not explicitly stated, but we can infer that the argument is trying to lead us to a conclusion about the professions or their relationships.\n\nHowever, the premises do not provide a clear logical path to a specific conclusion. They seem to be a collection of unrelated statements about different professions and their relationships to certain categories (toddler, baby, child, infant).\n\nGiven the lack of a clear logical connection between the premises and a specific conclusion, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "050728df-9afd-40ed-87de-5bd21ca03795",
+    "validity": true,
+    "p_yes": 0.9912,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Every single eagle soars in the sky. (Eagles are birds)\n2. Premise: Some animals which fly are birds. (If an animal flies, it's a bird)\n3. Premise: There are no penguins that can fly. (Penguins are not birds that fly)\n4. Premise: All insects have wings. (Irrelevant to the conclusion)\n5. Premise: Some mammals are capable of flight. (Some mammals are not birds)\n6. Premise: A certain number of bats are animals that fly. (Bats are animals that fly)\n7. Conclusion: Some bats are not birds.\n\nThe conclusion follows logically from the premises, especially from premise 2 and premise 5. If some mammals are not birds and some animals that fly are birds, then some animals that fly (like bats) cannot be birds. Therefore, the argument is logically valid.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "702427c3-0307-4d1b-b0ea-68b237307283",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure. The argument consists of several premises and a conclusion, but there is no explicit conclusion. However, we can infer that the conclusion is likely to be about the existence of insects that are not butterflies.\n\nThe premises do not provide any direct connection between the statements about butterflies, beetles, grasshoppers, spiders, ants, and bees. They seem to be unrelated to each other.\n\nSince there is no logical connection between the premises, we cannot conclude anything about the existence of insects that are not butterflies. Therefore, the argument is invalid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "e22846fe-111a-4c7a-b054-2560de0a1ccb",
+    "validity": true,
+    "p_yes": 0.9748,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Among the buildings, there are some that are dogs. (Premise)\n2. It is a fact that all cats are made of bricks. (Premise)\n3. There are no elephants that are not made of concrete. (Premise)\n4. Every single skyscraper has fur and a tail. (Premise)\n5. Any animal is actually a two-story cottage. (Premise)\n6. All dogs are mammals. (Premise)\n7. Therefore, it must be the case that some mammals are buildings. (Conclusion)\n\nThe conclusion is based on the premise that \"All dogs are mammals\" and the premise that \"Among the buildings, there are some that are dogs.\" This implies that some dogs are mammals, and since some dogs are buildings (from the first premise), it follows that some mammals are buildings.\n\nThe argument is logically valid because the conclusion logically follows from the premises.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "17de795f-fb84-4a8e-a28f-0298145a6bff",
+    "validity": true,
+    "p_yes": 0.9894,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: There are no plants which are minerals.\n2. Premise: All cacti are plants, all vines are plants, any moss is a plant, and some ferns are plants.\n3. Premise: All of the sunflowers in the world are plants.\n4. Conclusion: Some sunflowers are not minerals.\n\nThe conclusion logically follows from the premises. If all sunflowers are plants and there are no plants that are minerals, then it must be true that some sunflowers are not minerals.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "9bf8097e-67e3-449c-a7ce-dd9b94991d3d",
+    "validity": true,
+    "p_yes": 0.9817,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. A certain number of doctors are considered professionals. (Premise 1)\n2. Every single surgeon performs operations. (Premise 2)\n3. Everyone who is a professional is a person. (Premise 3)\n4. Every single surgeon is a professional (by Premise 2 and Premise 1).\n5. Every single surgeon is a person (by Premise 3 and Premise 4).\n6. Every single surgeon is a person who is a professional (by Premise 5).\n7. Some nurses work in hospitals. (Premise 5 is irrelevant to the conclusion)\n8. Some people are doctors (by Premise 1 and Premise 6).\n\nThe conclusion \"a portion of people are doctors\" logically follows from the premises.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "a1d86de3-2c3d-4cf1-89b6-eaeb2d120886",
+    "validity": true,
+    "p_yes": 0.9868,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Every single cat is an animal. (Premise 1)\n2. All cats are dogs. (Premise 2)\n3. Anything that can be called a dog is, without exception, an animal. (Premise 3)\n\nFrom Premise 3, we can conclude that all cats are animals (since they are dogs). This conclusion is supported by Premise 1, which states that every single cat is an animal.\n\nThe other premises (Every single bird is a rock, Any cow is a cloud, It is true that all horses are plants) do not affect the conclusion about cats being animals.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4cc1c47b-bda5-4334-b166-e378306fbbda",
+    "validity": false,
+    "p_yes": 0.001,
+    "reasoning": "To determine the logical validity of the argument, let's break it down:\n\n1. All degrees require study.\n2. Any scholar is involved in learning.\n3. Every single professor is an academic.\n4. Every single university has classrooms.\n5. Some lectures are given by teachers.\n6. There are no campuses without buildings.\n7. Anything that is a student is also an academic.\n8. It's the case that some students fail to be professors.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. \n\nFrom 7, we know that students are academics. \nFrom 8, we know that some students are not professors. \n\nNow, let's analyze the argument:\n\nIf all professors are academics (3), and some students are academics (7), then it follows that some students are professors. However, this conclusion contradicts 8, which states that some students fail to be professors.\n\nSince the argument leads to a contradiction, it is logically invalid.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "6fb7afae-d60c-4257-9316-e5a4f49c3795",
+    "validity": true,
+    "p_yes": 0.9777,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: There are a few drums that are played with sticks. (This premise is irrelevant to the conclusion.)\n2. Premise: Some flutes are instruments made of silver. (This premise is also irrelevant to the conclusion.)\n3. Premise: Anything which is a guitar is also a string instrument. (This premise is relevant.)\n4. Premise: Every single violin is a string instrument. (This premise is relevant.)\n5. Premise: Any musician who plays the cello is a string player. (This premise is relevant.)\n6. Premise: All string instruments are things considered musical instruments. (This premise is relevant.)\n7. Conclusion: We can infer that some musical instruments are guitars.\n\nThe conclusion follows logically from the premises, specifically from premise 3. Since guitars are string instruments (premise 3), and all string instruments are musical instruments (premise 6), it logically follows that some musical instruments are guitars.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "1178f61d-a224-4952-8907-cbae46aaecda",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some plumbers are construction workers.\n2. All electricians are tradespeople.\n3. Every single person who is a carpenter is a builder.\n4. There are a few roofers who are builders.\n5. Every mason is a builder.\n6. It is the case that every cabinet maker is a carpenter.\n7. A certain number of cabinet makers are builders.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. Since every cabinet maker is a carpenter (6) and every carpenter is a builder (3), it follows that some cabinet makers are builders (7). \n\nHowever, the argument is not logically valid because it does not necessarily follow that some plumbers are builders. The premises do not provide a direct connection between plumbers and builders.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "5779c3fd-14e4-476b-9268-362ccab68878",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Every single car has an engine.\n2. Premise: Some buses are public transport.\n3. Premise: It is the case that no bicycle is a tricycle.\n4. Premise: There are no planes that stay on the ground.\n5. Premise: It is true that all trucks are heavy.\n6. Premise: Any motorcycle has two wheels.\n7. Premise: There are no tricycles that are vehicles.\n8. Conclusion: It must be the case that a portion of vehicles are not bicycles.\n\nThe conclusion is not directly related to the premises. The premises discuss various characteristics of cars, buses, bicycles, planes, trucks, and motorcycles, but they do not provide any information about the proportion of vehicles that are not bicycles.\n\nThe conclusion is trying to establish a proportion of vehicles that are not bicycles, but the premises do not provide any information about the total number of vehicles or the number of bicycles. Therefore, the conclusion does not logically follow from the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "0648c97c-3b0f-4737-8af3-c07b9fcb637d",
+    "validity": true,
+    "p_yes": 0.9163,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Every single cat is an animal.\n2. Premise: Every single dog is an animal.\n3. Conclusion: All dogs are cats.\n\nThe conclusion logically follows from the premises. Since both cats and dogs are animals, and there's no information suggesting they are mutually exclusive, it's reasonable to infer that dogs are a subset of cats. However, this is a flawed argument due to the presence of irrelevant and contradictory premises (e.g., \"There are no pigs that are not made of glass,\" \"Any cow is a cloud,\" etc.). These premises do not contribute to the conclusion and are intended to mislead.\n\nDespite the presence of irrelevant premises, the conclusion logically follows from the two premises about cats and dogs being animals. Therefore, the argument is valid in a logical sense, but it's a flawed and misleading argument due to the irrelevant premises.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "e0350e22-a81a-4de9-8fc6-446c5495ef5f",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: There are no panthers that are not carnivores. (This premise is irrelevant to the conclusion.)\n2. Premise 2: Any animal that purrs is likely a feline. (This premise is also irrelevant.)\n3. Premise 3: It is true that all cheetahs are fast runners. (This premise is irrelevant.)\n4. Premise 4: Some leopards are spotted felines. (This premise is irrelevant.)\n5. Premise 5: All of the things that are tigers are felines. (This premise is relevant.)\n6. Premise 6: All of the things that are cats are felines. (This premise is relevant.)\n7. Conclusion: It can be deduced that there are cats that are tigers.\n\nThe conclusion is not logically supported by the premises. The premises only establish that tigers and cats are felines, but they do not provide any information about the relationship between cats and tigers. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "21850811-aeba-469a-9c44-7bc5abaf1cf7",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Every single reptile is a vertebrate.\n2. Premise: There are some fish that are vertebrates.\n3. Premise: A few vertebrates are creatures that live in the ocean.\n4. Premise: Any animal that is an amphibian is a vertebrate.\n5. Premise: It is a fact that all sharks are vertebrates.\n6. Premise: Every bird is a vertebrate.\n7. Premise: All mammals are vertebrates.\n8. Conclusion: It is logically concluded that some mammals are not birds.\n\nThe conclusion does not follow logically from the premises. The premises only provide information about the vertebrate status of different animal groups, but they do not provide any information about the relationship between mammals and birds. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "fe289ca8-c6d8-439a-be0a-4d2afbafb3ad",
+    "validity": true,
+    "p_yes": 0.9806,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All lilies are flowers.\n2. Every rose is a flower.\n3. Some daisies are flowers.\n4. There are many violets that are flowers.\n5. Every tulip is a flower.\n6. There is not a single fungus that is a flower.\n7. Conclusion: No fungus can be a rose.\n\nThe conclusion is based on the fact that all roses are flowers (premise 2) and there is not a single fungus that is a flower (premise 6). Since roses are flowers and fungi are not flowers, it logically follows that no fungus can be a rose.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "4fa47cee-4a33-4102-9efe-6672f74d577b",
+    "validity": true,
+    "p_yes": 0.994,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Any animal that is a falcon is a bird. (Premise)\n2. Every single hawk is a raptor. (Premise)\n3. Every creature that is an eagle is a bird of prey. (Premise)\n4. A few birds are creatures that cannot fly. (Premise)\n5. There are some owls that hunt at night. (Premise)\n6. Every bird of prey is a bird. (Premise)\n7. It is logically necessary that some birds are eagles. (Conclusion)\n\nThe conclusion is supported by the premises, specifically premise 6, which states that every bird of prey is a bird. Since eagles are birds of prey (premise 3), it logically follows that some birds are eagles.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "ed135793-1968-4cdf-80a7-b09c5bdf2a73",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: There are no octagons that do not have four sides.\n2. Premise: Every single triangle has four sides.\n3. Premise: It is true that all lines have four sides.\n4. Premise: Any point has four sides.\n5. Premise: Everything that is a square has four sides.\n6. Premise: Some circles have four sides.\n7. Premise: Every single rectangle has four sides.\n8. Premise: It's impossible for any rectangle not to be a square.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be leading towards the conclusion that \"all shapes have four sides.\"\n\nHowever, the argument is flawed because it contains a contradiction. Premise 7 states that every single rectangle has four sides, and premise 8 states that it's impossible for any rectangle not to be a square. This implies that all rectangles are squares, which contradicts the fact that some circles have four sides (premise 6). \n\nSince the argument contains a contradiction, it is not logically valid.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "1fbacc14-d08b-4bf4-b16a-7764760a7bc5",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single shark is a vertebrate.\n2. Premise 2: There are no fish that are not made of wood. (This premise is irrelevant to the conclusion.)\n3. Premise 3: It is true that all octopuses are birds. (This premise is irrelevant to the conclusion.)\n4. Premise 4: Every single tuna is a vertebrate. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Anything that is a dolphin is a vertebrate.\n6. Conclusion: Consequently, it is possible to conclude that some dolphins are sharks.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between dolphins and sharks. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "50ce5d53-d023-4d60-bf38-9d9c8ddca417",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Every single table is a living reptile. (Premise)\n2. Any furniture item is actually a type of fruit. (Premise)\n3. It is true that all lamps are breathing animals. (Premise)\n4. Anything that is a chair is a bird. (Premise)\n5. Anything that is a chair is a fish. (Premise)\n6. Consequently, some fish are birds. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises do not provide any information about the relationship between fish and birds. The conclusion is an unrelated statement.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d78523b8-c354-40a1-8833-bbc0e63c7339",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some mammals are creatures that nurse their young. (Premise)\n2. Any person who is an adult is a human being. (Premise)\n3. Every single chimpanzee is a primate. (Premise)\n4. There are no gorillas that are not animals. (Premise)\n5. Everything that is a human is a primate. (Premise)\n6. Everything that is a man is a primate. (Premise)\n7. This implies that some men are humans. (Conclusion)\n\nThe conclusion is not directly supported by the premises. The premises establish relationships between humans, primates, and animals, but they do not explicitly state that some men are humans. The conclusion seems to be an inference based on the premises, but it is not a direct logical consequence.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "046e38a6-5b7e-4087-b1f7-b50d104f53aa",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single cat is a truck. (This premise is irrelevant to the conclusion.)\n2. Premise 2: There are no mammals that are not made of wood. (This premise is irrelevant to the conclusion.)\n3. Premise 3: It is a fact that all fish are made of paper. (This premise is irrelevant to the conclusion.)\n4. Premise 4: Every single creature that is a poodle is a dog. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Any insect is a giant monster. (This premise is irrelevant to the conclusion.)\n6. Premise 6: Every creature that is a golden retriever is a dog. (This premise is relevant to the conclusion.)\n7. Conclusion: All golden retrievers are poodles.\n\nThe conclusion does not logically follow from the premises. Premise 6 states that golden retrievers are dogs, but it does not provide any information about poodles. The argument is trying to establish a connection between golden retrievers and poodles, but it lacks a crucial link.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "7065c3a6-25ba-4d5b-bad8-5693b350bb8d",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure.\n\nThe conclusion is \"all whales are fish.\" \n\nThe premises include unrelated statements about seals, sharks, dolphins, octopuses, birds, fish, and whales. None of these premises provide a direct connection between whales and fish.\n\nHowever, the argument is attempting to make a conclusion about whales based on the premise \"Every single fish can swim\" and \"Every single whale can swim.\" \n\nThe argument is trying to use the fact that whales can swim (like fish) to conclude that whales are fish. This is a flawed assumption, as swimming is a characteristic shared by many aquatic animals, not a defining feature of the fish category.\n\nThe argument is attempting to make a conclusion about whales based on the premise \"Every single fish can swim\" and \"Every single whale can swim.\" \n\nThe argument is trying to use the fact that whales can swim (like fish) to conclude that whales are fish. This is a flawed assumption, as swimming is a characteristic shared by many aquatic animals, not a defining feature of the fish category.\n\nThe argument is invalid because it relies on a flawed assumption about the relationship between swimming and the fish category.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "4041417c-a54c-455b-a7ca-193d65f22598",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Some students are aliens from Mars. (Premise)\n2. There is no teacher who is an educator. (Premise)\n3. Any lesson taught is a lie. (Premise)\n4. There are no classrooms with desks. (Premise)\n5. Among the people that are teachers, a certain amount are professors. (Premise)\n6. It must be true that some professors are not educators. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between professors and educators. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "a26621c5-459c-486c-9259-3fb7ff9272ca",
+    "validity": true,
+    "p_yes": 0.987,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. \"Of the creatures that are felines, some of them are pets.\" This premise establishes a subset of felines that are pets.\n2. \"The group of mammals includes some creatures that are pets.\" This premise connects the subset of pet felines to the broader category of mammals.\n3. \"Any creature with fur needs grooming.\" This premise provides a characteristic (fur) that is not exclusive to felines.\n4. \"Some animals live in houses.\" This premise is unrelated to the conclusion and can be ignored.\n5. \"Every single dog is a loyal companion.\" This premise is also unrelated to the conclusion and can be ignored.\n6. \"There are no collars made for fish.\" This premise is unrelated to the conclusion and can be ignored.\n\nThe conclusion \"The result of this is that some mammals are not felines\" follows logically from the premises, as it is established that some mammals are pets (which are not necessarily felines) and that some creatures with fur (which are not exclusive to felines) need grooming.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "eee75091-95f2-4c95-a894-401df567d4b3",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Any cow is a river.\n2. Premise 2: Every fish is an animal.\n3. Premise 3: There are no pigs that are not made of fire.\n4. Premise 4: Every single dog is a plant.\n5. Premise 5: Some cats are made of stone.\n6. Premise 6: Every single bird is an animal.\n7. Conclusion: All birds are fish.\n\nThe conclusion does not logically follow from the premises. The premises do not establish any connection between birds and fish. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "34cb920c-43c0-4d95-a5b4-8fdcbb68a062",
+    "validity": false,
+    "p_yes": 0.0015,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All libraries are underwater. (Premise)\n2. Every single book is made of water. (Premise)\n3. Some novels are not made of water. (Premise)\n4. This implies that some novels are not books. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss libraries, books, and materials, but the conclusion jumps to a different topic (novels and books). The argument is trying to force a connection between unrelated concepts.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "dbe4a7bc-a59b-496b-8ae1-c389d6e1e484",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. All rivers are animals.\n2. Any mountain is an animal.\n3. Some stones are animals.\n4. Every single tree is an animal.\n5. Anything that is a reptile is an animal.\n6. Every single thing that is a bird is an animal.\n7. This means some birds are reptiles.\n\nThe conclusion \"some birds are reptiles\" is not logically supported by the premises. The premises only provide information about the classification of rivers, mountains, stones, trees, reptiles, and birds as animals, but they do not provide any information about the relationship between birds and reptiles.\n\nThe conclusion seems to be an attempt to create a connection between birds and reptiles, but it is not justified by the premises. Therefore, the argument is not logically valid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "cb51d42c-9b7e-461c-8b85-1199dec34bff",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: There is no such thing as a dog that is a fish.\n2. Premise 2: There are no giraffes that are not made of paper.\n3. Premise 3: Every single bird is a rock.\n4. Premise 4: It is true that all monkeys are robots.\n5. Premise 5: It is true that every single fish is a cat.\n6. Conclusion: This proves that all cats are dogs.\n\nThe conclusion does not logically follow from the premises. The premises contain unrelated statements, and there is no logical connection between them and the conclusion. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "15ef7186-4830-4273-9481-2d79a111f644",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Any trapezoid is a four-sided shape. (Premise)\n2. It is the case that no triangle is a four-sided shape. (Premise)\n3. Some parallelograms are four-sided shapes. (Premise)\n4. Every rectangle is a four-sided shape. (Premise)\n5. Every shape that is a square is also a four-sided shape. (Premise)\n6. No squares are triangles. (Premise)\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be leading towards a conclusion that all four-sided shapes are either trapezoids, parallelograms, rectangles, or squares.\n\nHowever, the argument is missing a crucial link between the premises and the conclusion. There is no explicit statement that connects the different types of four-sided shapes (trapezoids, parallelograms, rectangles, squares) to form a conclusion about all four-sided shapes.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "4d5e76ad-6390-425b-b0bf-c4da3f999cf1",
+    "validity": true,
+    "p_yes": 0.9948,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: There are many plants that are a species.\n2. Premise: Some fish are a species.\n3. Premise: It is true that all reptiles are a species.\n4. Premise: Any insect is a species.\n5. Premise: Anything that is a mammal is a species.\n6. Premise: Every single human is a species.\n7. Premise: At least one human is a mammal.\n\nConclusion: Every single human is a species.\n\nThe argument is essentially saying that since humans are mammals and all mammals are species, humans must be species. This is a straightforward syllogism:\n\nAll mammals are species (5)\nHumans are mammals (7)\n∴ Humans are species (6)\n\nSince the conclusion logically follows from the premises, the argument is valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "a9b244da-9304-44f3-a111-45a06269dd62",
+    "validity": true,
+    "p_yes": 0.9823,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some keyboards are made entirely of frozen sound. (Premise)\n2. There are no organic beings that are not made of music. (Premise)\n3. Every single computer is an organic being. (Premise)\n4. Therefore, some computers are made of music. (Conclusion)\n\nFrom premises 1 and 2, we can infer that some keyboards (which are organic beings) are made of music. Since all computers are organic beings (premise 3), it follows that some computers are made of music.\n\nNow, the original argument concludes that some things made of music are computers. This conclusion is logically equivalent to the conclusion we derived: some computers are made of music. Therefore, the original argument is logically valid.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "45776160-7294-4841-8a24-e1a6e04ed094",
+    "validity": true,
+    "p_yes": 0.9882,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All girls are humans.\n2. Every single man is a human.\n3. Every single woman is a human.\n4. Some children are humans.\n5. Anything that is a boy is a human.\n6. It is necessarily concluded that every boy is a man.\n\nThe conclusion \"every boy is a man\" can be logically derived from the premises. Since \"all girls are humans\" and \"every single woman is a human,\" it implies that girls and women are the same category of humans. Given that \"every single man is a human,\" it suggests that men, women, and girls are all humans. Since \"anything that is a boy is a human,\" and boys are a subset of humans, it logically follows that boys are also a subset of men, women, or both. Therefore, the conclusion \"every boy is a man\" is a valid inference from the premises.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "f3b19acd-2753-49cc-9a13-57bde562b941",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some ponds are actually solid gold.\n2. Any stream is a solid rock.\n3. Every lake is made of fire.\n4. Every single river is a body of water.\n5. Anything that is an ocean is a body of water.\n6. It is necessarily concluded that every ocean is a river.\n\nThe conclusion is not logically connected to the premises. The premises discuss ponds, streams, lakes, rivers, and oceans, but they don't provide any information about the relationship between oceans and rivers. The conclusion is not a necessary consequence of the premises.\n\nTherefore, the argument is: No (invalid).",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "4ac5d77c-5ccc-4798-9b28-2eb04d8c76a1",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure.\n\n1. The premises do not provide any direct connection between the concepts of \"skyscrapers,\" \"tall structures,\" and the other statements.\n2. The conclusion attempts to link \"skyscrapers\" and \"tall structures\" based on the premises, but there is no logical pathway to establish this connection.\n\nGiven the lack of a logical connection between the premises and the conclusion, the argument is not valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "4aa07758-d614-4fef-b297-fe9e06d37de3",
+    "validity": false,
+    "p_yes": 0.0,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremises:\n1. Many journals are books.\n2. Some encyclopedias are books.\n3. Every textbook is a book.\n4. All biographies are books.\n5. Every single novel is a book.\n6. Any comic is a book.\n7. Everything that is a magazine is a book.\n\nConclusion: Nothing that is a magazine is a novel.\n\nThe conclusion does not logically follow from the premises. The premises only establish that magazines are books, but they do not provide any information about the relationship between magazines and novels. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "b0e587d0-c3cb-470b-982d-0aa726812ade",
+    "validity": true,
+    "p_yes": 0.9585,
+    "reasoning": "To evaluate the argument's validity, let's break it down:\n\n1. Premise: There are no sheep that have four legs.\n2. Premise: It is true that all cows have no legs. (This statement is contradictory and likely a mistake, but we'll ignore it for the sake of argument.)\n3. Premise: It is not true that any animal has four legs.\n4. Premise: Any pig walks on its hands. (This statement is irrelevant to the conclusion.)\n5. Premise: Every single cat has two wings. (This statement is irrelevant to the conclusion.)\n6. Premise: Every dog is a type of animal.\n7. Conclusion: No dog can be said to have four legs.\n\nThe conclusion follows from premise 3, which states that it is not true that any animal has four legs. This premise directly supports the conclusion. Therefore, the argument is logically valid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "dfe58145-f4d3-43be-b422-d06c91b3ee80",
+    "validity": true,
+    "p_yes": 0.9906,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every single carrot is a root vegetable. (Premise)\n2. Any item that is a vegetable is also a plant. (Premise)\n3. Any food that grows in a garden is a plant. (Premise)\n4. There are no broccoli stalks that are not edible. (Premise)\n5. Some fruits are healthy foods. (Premise)\n6. There are some foods that are green and are also vegetables. (Premise)\n7. Consequently, some green foods are plants. (Conclusion)\n\nFrom premise 1, we can infer that carrots are vegetables (step 1 -> carrots are vegetables).\nFrom premise 2, we can infer that carrots are plants (carrots are vegetables -> carrots are plants).\nFrom premise 3, we can infer that carrots grow in a garden (carrots are plants -> carrots grow in a garden).\nFrom premise 6, we can infer that some green foods are vegetables (some green foods are vegetables).\nFrom premise 2, we can infer that some green foods are plants (some green foods are vegetables -> some green foods are plants).\n\nThe conclusion follows logically from the premises, so the argument is valid.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "3289db62-657e-42f9-bfc1-c4565021af81",
+    "validity": true,
+    "p_yes": 0.9887,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: There are no creatures that are both cold-blooded and animals.\n2. Premise 2: No mammal is a cold-blooded creature.\n3. Conclusion: A portion of mammals are not animals.\n\nThe conclusion follows logically from the premises. Since premise 2 states that no mammal is a cold-blooded creature, and premise 1 states that there are no creatures that are both cold-blooded and animals, it implies that mammals cannot be animals if they are not cold-blooded. Therefore, the argument is valid.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "f9b55f8e-7db4-4097-b8af-17f9ef829243",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some beetles have hard outer shells. (Premise)\n2. All bees have wings. (Premise)\n3. Any creature that is a fly is an insect. (Premise)\n4. Anything and everything that is an ant possesses six legs. (Premise)\n5. Some ants are insects. (Premise)\n6. Therefore, it is the case that a number of insects have six legs. (Conclusion)\n\nThe conclusion is not directly related to the premises. The premises talk about beetles, bees, flies, and ants, but the conclusion is about insects having six legs. There is no logical connection between the premises and the conclusion.\n\nHowever, we can infer that ants are insects (from premise 5) and ants have six legs (from premise 4). This means that some insects have six legs. But the conclusion states \"a number of insects have six legs,\" which is a more general statement than the inference.\n\nThe argument is not logically valid because the conclusion does not necessarily follow from the premises. The premises do not provide enough information to guarantee that a number of insects have six legs.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "a6edf3a3-a107-432d-9cc0-79f151a9d1d2",
+    "validity": true,
+    "p_yes": 0.9741,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Any object that is a marker is a writing utensil.\n2. Premise: Some pens are writing utensils.\n3. Premise: There are a few brushes that are not writing utensils.\n4. Premise: It is true that all crayons are writing utensils.\n5. Premise: Any chalk is a writing utensil.\n6. Premise: There are some erasers that are not writing utensils.\n7. Conclusion: It must follow that some erasers are not markers.\n\nThe conclusion follows logically from the premises. If some erasers are not writing utensils (premise 6) and any object that is a marker is a writing utensil (premise 1), then it logically follows that some erasers are not markers.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "ee148adc-e7a2-4bae-90a3-0572ef4833d0",
+    "validity": true,
+    "p_yes": 0.9593,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some Earths are made of gas like Neptune. (Premise)\n2. Every single Mars is actually Saturn. (Premise)\n3. Anything that is Jupiter is a planet. (Premise)\n4. There are no Uranuses that are not suns. (Premise)\n5. Every single thing that is Venus is a planet. (Premise)\n6. It is therefore true that every single thing that is Venus is a Jupiter. (Conclusion)\n\nThe conclusion is derived from the premise \"Every single thing that is Venus is a planet\" (5) and the premise \"Anything that is Jupiter is a planet\" (3). Since being a planet is a common characteristic of both Venus and Jupiter, the conclusion logically follows from the premises.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "0f897c7f-ae9c-46e2-86ac-aa1ff570c76f",
+    "validity": false,
+    "p_yes": 0.0012,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Some horses are animals with four legs.\n2. There are no sheep that are not animals with four legs.\n3. It is true that all cows are animals with four legs.\n4. There are no canines that are animals with four legs.\n5. All dogs are animals with four legs.\n6. Consequently, it can be said that some dogs are not canines.\n\nThe conclusion \"some dogs are not canines\" seems to be a contradiction, as \"canine\" means a dog. However, let's analyze the argument logically:\n\nPremise 4 states that there are no canines that are animals with four legs. Premise 5 states that all dogs are animals with four legs. This implies that dogs are canines, which contradicts the conclusion.\n\nThe argument is trying to force a contradiction, which is not logically valid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "629a9065-98ec-4465-8457-549829947797",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Any soda is a piece of wood. (Premise)\n2. It is a fact that all milk is blue gas. (Premise)\n3. There are no drinks that are wet. (Premise)\n4. Some oil is dry sand. (Premise)\n5. All water is a type of fluid. (Premise)\n6. All liquids are also fluids. (Premise)\n7. Therefore, all liquids must be water. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between liquids and water. They introduce unrelated statements about soda, milk, oil, and water, which do not support the conclusion.\n\nThe conclusion is an unwarranted assumption that all liquids must be water, which is not supported by the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "ba75f995-6ab0-4abc-83f7-718ee86d60bb",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premises:\n   - Every monarchy is a governing system.\n   - Any oligarchy is a governing system.\n   - There are many federations that are governing systems.\n   - Every form of democracy is a governing system.\n   - It is undeniable that all dictatorships are governing systems.\n   - Some republics are governing systems.\n   - Anarchy is in no way a governing system.\n\n2. Conclusion: Anarchy is not a democracy.\n\nThe argument is trying to establish a connection between anarchy and democracy. However, the conclusion does not logically follow from the premises. The premises only establish that various forms of government (monarchy, oligarchy, federation, democracy, dictatorship, republic) are governing systems, but they do not provide any information about the relationship between anarchy and democracy.\n\nThe conclusion that anarchy is not a democracy is not necessarily true based on the premises. Anarchy could be a distinct form of government that is not a democracy, but the premises do not provide any evidence for this claim.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "8a1a7f10-2c47-48f0-9e26-41303b895a6e",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Nothing that is an asteroid is an automobile. (Premise)\n2. Every single bus is a banana. (Premise)\n3. It is true that all motorcycles are fish. (Premise)\n4. Any bicycle is a cloud. (Premise)\n5. Every single car is an automobile. (Premise)\n6. The set of cars and the set of asteroids have no members in common. (Conclusion)\n\nThe conclusion is about the relationship between the set of cars and the set of asteroids. The premises do not provide any information about the relationship between these two sets. They introduce unrelated concepts (buses, bananas, motorcycles, fish, bicycles, clouds) that do not affect the conclusion.\n\nSince the premises do not provide any logical connection between the set of cars and the set of asteroids, the conclusion does not follow logically from the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "f80e3732-269a-40f4-b6cc-107d8d3d66a6",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze the logical structure:\n\n1. Premise 1: Some trains are made of cheese. (Irrelevant to the conclusion)\n2. Premise 2: Any scooter is a cloud. (Irrelevant to the conclusion)\n3. Premise 3: There are no trucks that are not made of liquid. (Irrelevant to the conclusion)\n4. Premise 4: Every single boat is a hat. (Irrelevant to the conclusion)\n5. Premise 5: Every single car is a vehicle. (Irrelevant to the conclusion)\n6. Premise 6: Anything that is an airplane is a vehicle. (This premise is relevant)\n7. Conclusion: Every airplane is a car.\n\nThe conclusion follows logically from Premise 6, which states that anything that is an airplane is a vehicle, and Premise 5, which states that every car is a vehicle. However, there is no direct connection between airplanes and cars in the premises. \n\nThe conclusion is not necessarily true because it is not explicitly stated that airplanes are cars. The premises only state that airplanes are vehicles and cars are vehicles, but it does not follow that airplanes are cars.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "24f0682f-6b31-4adb-976f-6029410c6715",
+    "validity": false,
+    "p_yes": 0.001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All wolves are canines (premise)\n2. There are no fish that have lungs (premise)\n3. Some reptiles lay eggs on land (premise)\n4. Every mammal is an animal (premise)\n5. All elephants are animals (premise)\n6. It therefore follows that some elephants are mammals (conclusion)\n\nThe conclusion is not directly supported by the premises. The premises do not provide any information about elephants or mammals. They seem to be unrelated to the conclusion.\n\nHowever, we can see that the premises do not contradict the conclusion. The conclusion is a simple statement that some elephants are mammals, which is a possible truth.\n\nThe key issue is that the premises do not provide any logical connection to the conclusion. The conclusion is not a necessary consequence of the premises.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "8dbac007-0dcf-4ecd-ad9b-e4acb659c655",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Every single newspaper is a nutritious meal.\n2. Premise 2: Anything that is a magazine is also something that can be eaten.\n3. Premise 3: Some novels taste like chocolate cake.\n4. Premise 4: There are no ink cartridges that are poisonous.\n5. Premise 5: A few magazines are also books.\n6. Conclusion: A certain number of books are edible.\n\nFrom Premise 1 and 2, we can infer that newspapers are edible. \nFrom Premise 3, we know some novels are edible. \nFrom Premise 5, we know some magazines are also books. \nSince magazines are edible (Premise 2), and some magazines are also books, it follows that some books are edible.\n\nHowever, the conclusion states \"a certain number of books are edible,\" which is a vague statement. It does not necessarily follow that the number of books that are edible is the same as the number of books that are magazines. The conclusion could be true even if only one book is edible, as long as that book is also a magazine.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "56c26e55-e93d-4faa-8e39-f045c4f3aaab",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All cabinets are furniture.\n2. Many beds are furniture.\n3. Some tables are not coffee tables.\n4. Some sofas are furniture.\n5. Every table is furniture.\nConclusion: Some items of furniture are not coffee tables.\n\nThe conclusion does not logically follow from the premises. The premises only establish that tables, cabinets, beds, and sofas are furniture, but they do not provide any information about coffee tables. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "03b0cd8d-5983-41c5-8821-d182a899eb41",
+    "validity": true,
+    "p_yes": 0.9922,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Every single painter uses a brush. (This premise is irrelevant to the conclusion.)\n2. Premise: Some novels are written by authors. (This premise is also irrelevant.)\n3. Premise: Among people, some are artists. (This premise is relevant.)\n4. Premise: Any creative work is made by a person. (This premise is relevant.)\n5. Premise: It is true that all sculptors create statues. (This premise is irrelevant.)\n6. Premise: There are no musicians who do not play instruments. (This premise is irrelevant.)\n7. Premise: There exist some people who are writers. (This premise is relevant.)\n8. Conclusion: It is suggested that some writers are artists.\n\nThe conclusion follows logically from the premises, specifically from premises 3, 4, and 7. Since some people are artists (3), any creative work is made by a person (4), and there exist some people who are writers (7), it logically follows that some writers could be artists.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "6d7b1256-a518-47f2-9bcd-3714dd9632c6",
+    "validity": true,
+    "p_yes": 0.989,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some verses are written in iambic pentameter. (Premise)\n2. Anything that is a sonnet is also a poem. (Premise)\n3. It is the case that some sonnets are about love. (Premise)\n4. It must follow that some poems are about love. (Conclusion)\n\nThe conclusion follows logically from the premises. Since some sonnets are about love and sonnets are poems, it logically follows that some poems are about love.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "4957177b-62d0-49a3-8c47-f5e00154bb9c",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Some clouds are made of solid steel. (Irrelevant to the conclusion)\n2. Premise: Any creature that has wings is a submarine. (Contradicts the concept of wings and submarines)\n3. Premise: Every single airplane is a living organism. (Contradicts the concept of airplanes and living organisms)\n4. Premise: There is no animal that is a bird. (Contradicts the concept of birds and animals)\n5. Premise: It is true that all feathers are heavy as lead. (Contradicts the concept of feathers and lead)\n6. Premise: There are no bats that are capable of flight. (Contradicts the concept of bats and flight)\n7. Premise: There are no creatures that fly that are birds. (Contradicts the concept of birds and flight)\n8. Conclusion: It can be deduced that there are no creatures that fly that are animals.\n\nThe argument is based on a series of contradictory premises, which makes it invalid. The conclusion does not logically follow from the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "9f9646cf-fd04-4199-a0b9-dc98ce41e054",
+    "validity": true,
+    "p_yes": 0.9918,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Some flowers have teeth and bite people.\n2. Premise 2: Every single bush eats meat for dinner.\n3. Premise 3: Any plant that grows is a dangerous beast.\n4. Premise 4: Anything which is a tree is a carnivorous plant.\n5. Premise 5: There are some oaks which are trees.\n6. Conclusion: A portion of oaks are carnivorous plants.\n\nThe conclusion follows logically from the premises. If some oaks are trees (Premise 5), and anything that is a tree is a carnivorous plant (Premise 4), then some oaks must be carnivorous plants.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "307a4763-885c-4fbf-b65a-210cf45826b9",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some rivers flow into the ocean. (Premise)\n2. Any coastline borders a large body of water. (Premise)\n3. Nothing that is an ocean is a lake. (Premise)\n4. It is true that all ponds are smaller than lakes. (Premise)\n5. There are no fish that can live without water. (Premise)\n6. A few things named large bodies of water are oceans. (Premise)\n7. It is therefore the case that some large bodies of water are not lakes. (Conclusion)\n\nThe conclusion is not directly related to the premises. The premises discuss rivers, coastlines, oceans, lakes, ponds, and fish, but they don't provide a clear connection to the conclusion about large bodies of water and lakes.\n\nThe argument is trying to establish a connection between the premises and the conclusion, but it's not a logical one. The conclusion doesn't follow necessarily from the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "0d774391-b91a-497b-9e7d-8235af362146",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no tables which are living things.\n2. Any rug is a plant.\n3. Some desks are made of clouds.\n4. It is true that all lamps are animals.\n5. Every single living thing is an organism.\n6. This means that all organisms are tables.\n\nThe conclusion \"all organisms are tables\" is based on the premise \"every single living thing is an organism.\" However, the argument does not provide a logical connection between living things and tables. The premises do not establish a relationship between organisms and tables.\n\nThe conclusion does not follow logically from the premises. The argument is based on unrelated statements, making it invalid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "47e2b96a-1104-49d6-9d11-9966ab53f012",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some peppers are hot and spicy. (Premise)\n2. Any garden has soil for growing. (Premise)\n3. It is true that all cucumbers are green. (Premise)\n4. There are no salads without ingredients. (Premise)\n5. Anything that is a vegetable is a plant. (Premise)\n6. There are tomatoes, and all of them are plants. (Premise)\n7. Every tomato is a vegetable. (Conclusion)\n\nThe conclusion is not directly supported by the premises. The premises provide information about peppers, gardens, cucumbers, salads, and plants, but they do not provide a logical connection between tomatoes and vegetables. The conclusion is an unwarranted inference.\n\nTherefore, the argument is: No (invalid)",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "f6ef80af-ed8d-4d48-926a-973e275667c4",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All crocodiles are reptiles (premise)\n2. There are no frogs that are mammals (premise)\n3. Any salamander is an amphibian (premise)\n4. A creature that is a snake is never a fish (premise)\n5. Some turtles live in the ocean (premise)\n6. Every single lizard has scales (premise)\n7. A subset of snakes are reptiles (premise)\n8. It follows directly that at least some reptiles are not fish (conclusion)\n\nThe conclusion is not directly supported by the premises. The premises provide information about various groups of animals (crocodiles, frogs, salamanders, snakes, turtles, and lizards), but they do not provide a direct link between reptiles and fish. The conclusion is not a logical consequence of the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "2ad7dc35-74d6-4793-b723-26846cf691ee",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no bees that make honey. (Premise)\n2. Anything that is a bird is an animal. (Premise)\n3. Every single spider has wings. (Premise)\n4. Any fly is a type of eagle. (Premise)\n5. Some ants are larger than elephants. (Premise)\n6. It is a fact that all beetles chirp songs. (Premise)\n7. There are insects, and all of them are animals. (Premise)\n8. Every insect is a bird. (Conclusion)\n\nThe conclusion does not follow logically from the premises. The premises do not provide any connection between being an animal and being a bird, nor do they establish a relationship between insects and birds. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "8393ac24-24ad-4394-ae8e-8cbc8c61f96b",
+    "validity": false,
+    "p_yes": 0.0005,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Fiction books are in no way true stories. (Premise)\n2. Every single novel is a written book. (Premise)\n3. It is a known fact that all libraries contain books. (Premise)\n4. Some biographies are factual accounts. (Premise)\n5. Every single fiction book is a work of literature. (Premise)\n6. There are works of literature that are not true stories. (Conclusion)\n\nThe conclusion is not directly supported by the premises. The premises do not provide a logical connection between fiction books and works of literature that are not true stories. The argument is trying to make a leap from fiction books being works of literature to the existence of works of literature that are not true stories, but it does not provide a clear logical link.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "8cd03e24-ef06-4f1b-b735-d94e05d1eb1c",
+    "validity": false,
+    "p_yes": 0.0015,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some buses are clouds in the sky. (Premise)\n2. It is true that all motorcycles are rivers. (Premise)\n3. Every single vehicle is an object. (Premise)\n4. Every single truck is a vegetable. (Premise)\n5. Anything that is a car is also an object. (Premise)\n6. Some cars fail to be vehicles. (Conclusion)\n\nThe conclusion is \"Some cars fail to be vehicles.\" However, premise 3 states that every vehicle is an object, and premise 5 states that anything that is a car is also an object. This creates a contradiction with the conclusion, which implies that some cars are not objects.\n\nSince the premises lead to a contradiction with the conclusion, the argument is invalid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "61c9d8f8-07b6-4ec1-9f1b-835dea2a10fe",
+    "validity": true,
+    "p_yes": 0.9929,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All servers are hardware components. (Premise)\n2. Some calculators are tools for mathematics. (Premise)\n3. Everything classified as a computer is an electronic device. (Premise)\n4. Any laptop that functions is a portable computer. (Premise)\n5. Every single smartphone is a handheld device. (Premise)\n6. There are no microchips that are not made of silicon. (Premise)\n7. Everything classified as a computer is a machine that processes data. (Premise)\n8. Therefore, at least one machine that processes data is an electronic device. (Conclusion)\n\nThe conclusion follows logically from the premises, specifically from premise 3 and premise 7. Since everything classified as a computer is both an electronic device and a machine that processes data, it logically follows that at least one machine that processes data is an electronic device.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "d890d599-1a8f-473b-9c38-0fb186678aef",
+    "validity": false,
+    "p_yes": 0.0009,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure. \n\nThe conclusion is \"At least one cat is a dog.\" \n\nThe premises include statements about pigs, sheep, cows, dogs, horses, rabbits, and cats. However, none of these premises directly support the conclusion. \n\nThe conclusion is actually a contradiction, as cats and dogs are distinct categories. The argument is trying to force a conclusion that is logically inconsistent with the premises.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "a716d470-e44c-421b-a35e-91d8f3ca8aae",
+    "validity": true,
+    "p_yes": 0.9967,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every scientist is a researcher. (Premise)\n2. Anything that's an engineer is a problem-solver. (Premise)\n3. Civil engineers are, without exception, engineers. (Premise)\n4. At least one civil engineer is a problem-solver. (Conclusion)\n\nFrom premises 1 and 3, we can infer that at least one civil engineer is a researcher (since civil engineers are engineers and every scientist is a researcher). \n\nFrom premise 2, we know that any engineer is a problem-solver. \n\nCombining these two inferences, we can conclude that at least one civil engineer is a problem-solver, which matches the conclusion.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d987cc99-1b33-4afa-aae1-fbbe56c6476d",
+    "validity": true,
+    "p_yes": 0.9959,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Any jeep has four wheels. (Premise)\n2. A vehicle possessing four wheels is not a bicycle. (Premise)\n3. Every car is, by definition, a vehicle with four wheels. (Premise)\n4. It is therefore true that a car is not a bicycle. (Conclusion)\n\nThe argument is logically valid if the conclusion follows necessarily from the premises. \n\nFrom premises 1 and 2, we can infer that a jeep is not a bicycle. \nFrom premise 3, we can infer that a car is a vehicle with four wheels. \nSince a jeep is not a bicycle and a car is a vehicle with four wheels, it logically follows that a car is not a bicycle.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "769f1a2c-ebed-44a0-814e-9c198804261c",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. All bulldogs are vegetables (premise)\n2. Any husky is a type of car (premise)\n3. There is no canine that is a cat (premise)\n4. Every single puppy is a bird (premise)\n5. Some of the cats are dogs (premise)\n6. Some dogs are not canines (conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between dogs and canines. The conclusion is unrelated to the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "d0b8b914-a230-44d4-b696-e2106bd3f063",
+    "validity": false,
+    "p_yes": 0.0005,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All trucks drive on roads (premise)\n2. There are no submarines that fly in the air (premise)\n3. There are no cars which are boats (premise)\n4. Some jets fly at high altitudes (premise)\n5. Not a single thing that is an airplane is a car (premise)\n6. Not all airplanes are boats (conclusion)\n\nThe conclusion is not directly related to the premises. The premises discuss trucks, submarines, cars, and jets, but they don't provide any information about airplanes being boats. The conclusion is an independent statement that is not logically derived from the premises.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "63220c9d-68b9-4c91-b13a-944dc5786b3a",
+    "validity": true,
+    "p_yes": 0.9957,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All buses carry passengers. (Premise)\n2. Every single car travels on roads. (Premise)\n3. There are no trains that fly in the air. (Premise)\n4. Everything that is a vehicle is a thing with wheels. (Premise)\n5. Some tires are made of rubber. (Premise)\n6. A few bicycles are things with wheels. (Premise)\n7. It is the case that some bicycles are vehicles. (Conclusion)\n\nThe conclusion is supported by the premises, specifically premise 4, which states that everything that is a vehicle is a thing with wheels. Since some bicycles have wheels (premise 6), and everything with wheels is a vehicle (premise 4), it logically follows that some bicycles are vehicles (conclusion 7).\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "39583f48-9dae-4d73-815c-468168859509",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Every journalist is a writer. (Premise 1)\n2. Any person who writes a biography is a writer. (Premise 2)\n3. There are a few screenwriters who are writers. (Premise 3)\n4. Every single poet is a writer. (Premise 4)\n5. It is true that all playwrights are writers. (Premise 5)\n6. Anything that is a novelist is a writer. (Premise 6)\n7. Some novelists are poets. (Conclusion)\n\nThe argument is trying to establish a connection between novelists and poets. However, the premises only provide information about the relationships between different professions (journalists, screenwriters, poets, playwrights, and novelists) and writers. There is no direct connection between novelists and poets.\n\nThe conclusion \"Some novelists are poets\" is not logically necessary based on the premises. The premises do not provide any information about the intersection of novelists and poets. Therefore, the argument is not logically valid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "6c546b15-947e-4209-b54d-1dab3dcfb147",
+    "validity": true,
+    "p_yes": 0.9848,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: There are no circles that are also three-sided figures.\n2. Premise: Some isosceles triangles are three-sided figures.\n3. Premise: It is a fact that all scalene triangles are three-sided figures.\n4. Premise: Every equilateral triangle is a three-sided figure.\n5. Premise: All figures that are triangles are, of course, three-sided figures.\n6. Premise: Circles are not triangles.\n\nConclusion: There are no circles that are three-sided figures.\n\nThe conclusion directly follows from the premises, especially the last one, which explicitly states that circles are not triangles. Since the premises logically lead to the conclusion, the argument is valid.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4905adeb-9120-46bf-8878-da647116bf0d",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure. \n\nThe argument does not have a clear conclusion or a set of premises that logically lead to a conclusion. It appears to be a collection of unrelated statements. \n\nThere is no logical connection between the statements, and none of them directly support a conclusion. \n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "46271fc1-e60a-4a89-b4b2-a7547b26cc6c",
+    "validity": true,
+    "p_yes": 0.9957,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. All rhythms are chaotic.\n2. Any tune is a scream.\n3. Nothing that is a song can be considered musical.\n4. Every single melody is noise.\n5. There are no operas that are musical.\n6. Every symphony is a song.\n7. No symphony is musical.\n\nThe conclusion \"No symphony is musical\" is derived from the premises. \n\nPremise 6 states that every symphony is a song. Premise 3 states that nothing that is a song can be considered musical. \n\nIf every symphony is a song and nothing that is a song can be considered musical, then it logically follows that no symphony can be considered musical.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "7588387a-645b-46e3-84e9-8038670b8d9d",
+    "validity": false,
+    "p_yes": 0.0022,
+    "reasoning": "To evaluate the argument's validity, let's break it down:\n\n1. Premise: Some tusks are actually floppy dog ears. (This premise is irrelevant to the conclusion.)\n2. Premise: Every single thing that is a dog is a mammal. (This premise is also irrelevant.)\n3. Premise: Every single elephant is a type of chihuahua. (This premise is irrelevant and contradictory.)\n4. Premise: Any creature weighing five tons is a puppy. (This premise is irrelevant.)\n5. Premise: Any and all elephants are also mammals. (This premise is relevant, but it's already implied by the fact that elephants are mammals.)\n6. Conclusion: This implies that all elephants are dogs.\n\nThe argument's conclusion does not logically follow from the premises. The premises are either irrelevant or contradictory, and the conclusion does not follow from the relevant premise about elephants being mammals. Therefore, the argument is invalid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "3f02b060-8993-42aa-964d-6c2be3b89266",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Any spinach is a vegetable.\n2. Premise: Every broccoli is a vegetable.\n3. Premise: Every single thing which is a carrot is a vegetable.\n4. Premise: Some peppers are vegetables.\n5. Premise: It is true that all onions are vegetables.\n6. Premise: There are many beans that are vegetables.\n7. Premise: It is also the case that every tomato is a vegetable.\n8. Conclusion: No tomatoes are carrots.\n\nThe argument is trying to establish a relationship between tomatoes and carrots. However, the premises only provide information about the classification of various vegetables, but they do not provide any information about the relationship between tomatoes and carrots.\n\nThe conclusion \"No tomatoes are carrots\" is not logically entailed by the premises. The premises do not provide any information about the classification of carrots, and the conclusion is not a necessary consequence of the premises.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a9ea6af8-921f-46ee-b844-b64aac19b160",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All comets are celestial bodies.\n2. Every star is a celestial body.\n3. Anything that is a planet is also a celestial body.\n4. There are many moons that are celestial bodies.\n5. No celestial bodies are plants.\n6. Therefore, some plants are not planets.\n\nThe conclusion \"some plants are not planets\" is actually the negation of the statement \"all plants are planets.\" However, the premises do not provide any information about plants being planets. They only discuss comets, stars, planets, and moons, and their relationship to being celestial bodies.\n\nSince the premises do not provide any information about the relationship between plants and being planets, the conclusion does not logically follow from the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "a599804f-3f16-4459-a572-3c34058e05e7",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Every single stone is a refreshing drink. (Premise)\n2. Of the items that are liquids, some are beverages. (Premise)\n3. There are no ice cubes that melt. (Premise)\n4. Any wooden plank is a bottle of soda. (Premise)\n5. There are some solids that are beverages. (Premise)\n6. It must be the case that some solids are liquids. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between solids and liquids, and the conclusion is not a necessary inference from the given statements.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "da2de9fe-09a9-4356-86ac-6ecc909ddf79",
+    "validity": true,
+    "p_yes": 0.9033,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single train is a banana. (This statement is irrelevant to the conclusion.)\n2. Premise 2: Every single thing that is a car is a vehicle. (This statement is relevant.)\n3. Premise 3: Some boats are made of cotton candy. (This statement is irrelevant to the conclusion.)\n4. Premise 4: It is a fact that all planes are fish. (This statement is irrelevant to the conclusion.)\n5. Premise 5: Any scooter is a cloud. (This statement is irrelevant to the conclusion.)\n6. Premise 6: It is also the case that every bicycle is a vehicle. (This statement is relevant and supports the conclusion.)\n7. Conclusion: All bicycles are cars.\n\nThe conclusion follows logically from Premise 2 and Premise 6, which state that cars are vehicles and bicycles are vehicles, respectively. Therefore, the argument is logically valid.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "6fe5e92f-6e10-4b10-81a7-252f25b059a9",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no owls that fly in the sky. (Premise)\n2. Everything that is a fish is an animal. (Premise)\n3. Any sparrow can swim across the Atlantic Ocean. (Premise)\n4. It is a fact that all parrots have scales and fins. (Premise)\n5. Any and all birds are also animals. (Premise)\n6. This implies that all birds are fish. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between being a bird and being a fish. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "1d41bd45-1f67-4aa5-9f7c-049ff2ffdc59",
+    "validity": true,
+    "p_yes": 0.8439,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some leopards are birds with wings. (Premise)\n2. There are no lions that are felines. (Premise)\n3. There are no cheetahs that are animals. (Premise)\n4. Every single tiger is a type of vegetable. (Premise)\n5. Every single lion is a big cat. (Premise)\n6. Some big cats fail to be felines. (Conclusion)\n\nThe conclusion is \"Some big cats fail to be felines.\" The premises do not provide any direct information about big cats failing to be felines. However, premise 5 states that every single lion is a big cat, and premise 2 states that there are no lions that are felines. This creates a contradiction, as lions cannot be both big cats and felines.\n\nThe argument is trying to lead to the conclusion that some big cats fail to be felines, but the premises actually imply that all lions fail to be felines, which is a stronger statement than the conclusion. Therefore, the argument is logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "9086173e-68ed-4a6e-a7a6-c1520f002c9e",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Some toddlers are humans who are learning to walk. (Premise)\n2. There are no babies that are fully grown. (Premise)\n3. There are some adults who are not children. (Premise)\n4. Every single teenager is a young person. (Premise)\n5. Any person who is five years old is a child. (Premise)\n6. A number of people are adults. (Premise)\n7. This means that some people are children. (Conclusion)\n\nThe conclusion is not necessarily true based on the premises. The premises only provide information about toddlers, babies, adults, teenagers, and children, but they do not provide any direct information about the relationship between adults and children. The conclusion is an inference that is not logically supported by the premises.\n\nTherefore, the argument is: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "ad8147bf-ced8-424f-91d7-faad66b510ca",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some lentils are used in soups. (Premise)\n2. Every single bean is a type of seed. (Premise)\n3. Any and all peas are vegetables. (Premise)\n4. There are no fruits that are not plants. (Premise)\n5. There are some peas which are legumes. (Premise)\n6. Consequently, some legumes are vegetables. (Conclusion)\n\nThe conclusion is not directly linked to the premises. The premises discuss lentils, beans, peas, and fruits, but they don't provide a clear connection to the conclusion about legumes being vegetables. The conclusion seems to be an inference based on the fact that peas are both legumes and vegetables, but this inference is not explicitly supported by the premises.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "88a5de98-bf10-4fdb-a20f-a9b45cee699b",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some trains are made of cheese.\n2. All buses are tiny insects.\n3. Any scooter is a cloud.\n4. Every car is a vehicle.\n5. All bicycles are vehicles.\n6. Therefore, every car is a bicycle.\n\nThe conclusion does not logically follow from the premises. The premises provide information about trains, buses, scooters, cars, and bicycles, but they do not establish a connection between cars and bicycles. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "93337dcc-6bc5-4a63-a96e-61d304affa9c",
+    "validity": true,
+    "p_yes": 0.993,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All spiders have exoskeletons.\n2. Anything that is an insect has an exoskeleton.\n3. Any bee is an insect that produces honey.\n4. Every beetle is an insect.\n5. Some insects are creatures with wings.\n6. Any creature that is an ant is an insect.\n\nFrom steps 2 and 6, we can conclude that all ants have exoskeletons, since being an ant implies being an insect, and insects have exoskeletons.\n\nThe conclusion logically follows from the premises, making the argument valid.",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "16946699-e10d-47a5-9b36-613f655c1a90",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All pears are fruits.\n2. Any peach is a fruit.\n3. Every banana is a fruit.\n4. There are apples that are fruits.\n5. There are many berries that are fruits.\n6. Every single orange is a fruit.\n7. Some oranges are not apples.\n\nThe conclusion \"Some oranges are not apples\" is not necessarily implied by the premises. The premises only state that various types of fruits exist, but they do not provide any information about the relationship between oranges and apples. \n\nThe argument is trying to make a conclusion about apples and oranges based on the fact that many types of fruits exist, but this is a non sequitur. The conclusion does not logically follow from the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "6a64ecf4-3ea4-4606-8f40-49e2f1ea1f4b",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: There are a few squashes that are vegetables.\n2. Premise: It is true that all cabbages are vegetables.\n3. Premise: Every single thing which is a tomato is a vegetable.\n4. Premise: Every potato is a vegetable.\n5. Premise: It is also the case that some things which are fruits are vegetables.\n6. Conclusion: All fruits are tomatoes.\n\nThe conclusion does not logically follow from the premises. The premises only establish that some fruits are vegetables, but they do not provide any information about the relationship between fruits and tomatoes. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "c21b8df2-75bf-4fa1-bc23-cdd41dbef0df",
+    "validity": true,
+    "p_yes": 0.9844,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Some minerals are found underground.\n2. Premise: Every single granite slab is a stone.\n3. Premise: Anything that is a rock is also a hard substance.\n4. Premise: There are no boulders that are light as feathers.\n5. Premise: Any pebble found on the beach is a rock.\n6. Conclusion: There exist hard substances that are not soft objects.\n\nThe conclusion is supported by the premises, specifically by the connection between rocks and hard substances (premise 3). The premises also establish a relationship between rocks and stones (premise 2), and between rocks and pebbles (premise 5). \n\nSince the conclusion logically follows from the premises, the argument is valid.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "a79ac151-6d38-472a-ae67-c084c6f7577f",
+    "validity": true,
+    "p_yes": 0.923,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. A portion of shapes are rectangles.\n2. There are no lines in a square.\n3. Every single circle has three corners.\n4. Any cube is a two-dimensional object.\n5. A few of the things that are squares are also shapes.\n6. Some squares are not rectangles.\n\nThe conclusion \"Some squares are not rectangles\" can be derived from the premise \"A few of the things that are squares are also shapes\" and the premise \"There are no lines in a square\" (implying that squares are not rectangles). \n\nThe argument is logically valid because the conclusion follows necessarily from the premises, regardless of their truth in the real world.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "995cbc73-39fd-4cfe-8e1c-d8bdd1e6adab",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Any garage is a castle. (Premise)\n2. There are no huts that are small. (Premise)\n3. Every single shed is a palace. (Premise)\n4. All houses are a type of structure. (Premise)\n5. All buildings are also structures. (Premise)\n6. Therefore, all buildings must be houses. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises only establish relationships between specific types of structures (garages, castles, sheds, palaces, houses) but do not provide a basis to conclude that all buildings are houses. The argument is based on irrelevant information and lacks a clear logical connection between the premises and the conclusion.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "09c2a594-6f95-43ef-9cc7-694c7a0bc54e",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All tennis players use rackets. (Premise)\n2. Every single swimmer is an athlete. (Premise)\n3. There are no Olympic games without sports. (Premise)\n4. Any gymnast is a flexible person. (Premise)\n5. Some footballers play in stadiums. (Premise)\n6. The set of runners does not intersect with the set of basketball players. (Premise)\n7. All individuals who play basketball are athletes. (Premise)\n8. A portion of the group of athletes consists of individuals who are not runners. (Conclusion)\n\nThe conclusion is not directly related to the premises. The premises discuss various sports, athletes, and characteristics, but they do not provide a logical connection to the conclusion about athletes who are not runners.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "612f04e8-f1e4-47a1-96e7-f5ebbfd53d29",
+    "validity": true,
+    "p_yes": 0.9901,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some hinges are bones of a skeleton. (Premise 1)\n2. All of the things that are doors are planets. (Premise 2)\n3. There are no frames that are not made of flesh. (Premise 3)\n4. It is true that all knobs are eyes of a beast. (Premise 4)\n5. Any house that is built is actually a zoo. (Premise 5)\n6. All of the things that are windows are planets. (Premise 6)\n7. It can be deduced that there are windows that are planets. (Conclusion)\n\nThe conclusion is directly supported by Premise 6, which explicitly states that all windows are planets. This premise logically leads to the conclusion that there are windows that are planets.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "4569d355-f05e-4b78-b0f2-e60bf59c5db8",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Any triangle has four sides like a box. (Premise)\n2. It is true that no square is a triangle. (Premise)\n3. It is true that all cubes are round balls. (Premise)\n4. There are no corners on any square object. (Premise)\n5. A few shapes are not triangles. (Premise)\n6. This leads to the conclusion that all squares are circles. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any connection between squares and circles. The argument is based on unrelated statements and does not establish a valid logical link between the premises and the conclusion.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "5d54d5d6-084b-479c-b56e-057e10aed387",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All branches grow on trees.\n2. Every leaf, fruit, blossom, and nut grows on a tree.\n3. Every banana grows on a tree.\n\nThe conclusion is: All bananas are fruits.\n\nThe argument is trying to establish a relationship between bananas and fruits. However, the premises only establish that bananas grow on trees, and that fruits grow on trees. There is no direct connection made between bananas and fruits.\n\nSince the premises do not provide a logical link between bananas and fruits, the conclusion does not necessarily follow from the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "eb3441c7-818a-4cd3-9718-8f1147d580ff",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All dolphins are butterflies (premise)\n2. Any creature that is a fish is an insect (premise)\n3. Every single shark is a bee (premise)\n4. There are no octopuses that are not beetles (premise)\n5. Some whales are ants (premise)\n6. It is impossible for something to be a trout and an insect at the same time (premise)\n7. Some trout are not fish (conclusion)\n\nThe conclusion \"Some trout are not fish\" seems to contradict the premise \"Any creature that is a fish is an insect.\" However, the argument is trying to lead us to this conclusion.\n\nLet's analyze the premises:\n\n- Premise 1: All dolphins are butterflies (this is irrelevant to the conclusion)\n- Premise 2: Any creature that is a fish is an insect (this implies that fish are insects)\n- Premise 3: Every single shark is a bee (this implies that sharks are insects)\n- Premise 4: There are no octopuses that are not beetles (this implies that octopuses are insects)\n- Premise 5: Some whales are ants (this implies that whales are insects)\n- Premise 6: It is impossible for something to be a trout and an insect at the same time (this implies that trout are not insects)\n\nThe conclusion \"Some trout are not fish\" seems to be a non-sequitur, as it doesn't follow logically from the premises. The premises are trying to lead us to the conclusion that all fish are insects, but the conclusion is about trout being or not being fish, which is unrelated to the premises.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      5
+    ]
+  },
+  {
+    "id": "945054aa-0df3-49fd-bb30-f64fd683e3cd",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no lions that are animals. (Premise)\n2. Every single kitten is a reptile. (Premise)\n3. Some purring animals are insects. (Premise)\n4. No single thing that is a feline is a mammal. (Premise)\n5. There are some cats that are also felines. (Premise)\n6. This proves that some cats are not mammals. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises contain contradictory statements (e.g., kittens are reptiles, but cats are felines and not mammals), which makes the argument invalid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "437735e3-2c12-43a2-807d-831ba994ebb8",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no mammals that are cold-blooded reptiles. (Premise)\n2. Every single eagle is a bird of prey. (Premise)\n3. It is a known fact that all ants are insects. (Premise)\n4. There is no bird that is a tree. (Premise)\n5. There are no wasps that are trees. (Premise)\n6. It can be deduced that there are no wasps that are birds. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss mammals, eagles, ants, birds, and wasps, but there is no logical link between these topics and the conclusion about wasps being birds. The conclusion seems to be unrelated to the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "63554179-36e4-47cf-819e-6cadd9817e87",
+    "validity": true,
+    "p_yes": 0.9944,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Any gravel path is made of stones.\n2. Premise: Some pebbles are smooth and round.\n3. Premise: There are no sapphires that are not jewels.\n4. Premise: There are some diamonds which are stones.\n5. Premise: Every single gem is a precious object.\n6. Premise: It is true that all minerals are natural substances.\n7. Premise: Anything that is a rock is also a stone.\n8. Premise: It's the case that some rocks fail to be diamonds.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. \n\nFrom premise 7, we know that any rock is a stone. \nFrom premise 8, we know that some rocks are not diamonds. \nFrom premise 4, we know that some diamonds are stones. \nFrom premise 7, we can conclude that some stones are diamonds.\n\nNow, let's analyze the conclusion: \"Some stones are diamonds.\"\n\nThis conclusion follows logically from the premises, as we can derive it step by step.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "b1a1eae3-a52c-49d3-8d0b-a1d48d67e98e",
+    "validity": true,
+    "p_yes": 0.9868,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: Things that are animals are never photosynthetic organisms.\n2. Premise: There are many ferns that are photosynthetic organisms. (This premise is irrelevant to the conclusion)\n3. Premise: It is a fact that all mosses are photosynthetic organisms. (This premise is irrelevant to the conclusion)\n4. Premise: Some algae are photosynthetic organisms. (This premise is irrelevant to the conclusion)\n5. Premise: Every tree is a photosynthetic organism. (This premise is irrelevant to the conclusion)\n6. Premise: All flowers are photosynthetic organisms. (This premise is relevant to the conclusion)\n7. Conclusion: It follows from this that some flowers are not animals.\n\nThe conclusion logically follows from the premise \"All flowers are photosynthetic organisms\" and the premise \"Things that are animals are never photosynthetic organisms.\" Since animals cannot be photosynthetic, and all flowers are photosynthetic, it logically follows that some flowers are not animals.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "91b7af6b-c5d4-4d6e-b60a-8e21a76fccd2",
+    "validity": true,
+    "p_yes": 0.9759,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Any pentagon is a type of vegetable. (This premise is irrelevant to the conclusion.)\n2. Premise 2: Not a single thing that is a three-dimensional object is a shape. (This premise is irrelevant to the conclusion.)\n3. Premise 3: Some triangles are made of loud noises. (This premise is irrelevant to the conclusion.)\n4. Premise 4: It is a fact that all rectangles are emotions. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Every single square is a liquid gas. (This premise is irrelevant to the conclusion.)\n6. Premise 6: There are no lines that are straight. (This premise is irrelevant to the conclusion.)\n7. Premise 7: Some things that are circles are considered three-dimensional objects. (This premise is relevant to the conclusion.)\n8. Conclusion: Thus, some circles are not shapes.\n\nThe conclusion follows from Premise 7, which states that some circles are three-dimensional objects. If some circles are three-dimensional objects, and Premise 2 states that not a single thing that is a three-dimensional object is a shape, then it logically follows that some circles are not shapes.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "1475cc9d-8754-463d-9243-bc3e967ea214",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Any mammal is an animal with feathers.\n2. All reptiles are animals with feathers.\n3. Every single fish is an animal with feathers.\n4. Nothing that is a flying creature is an animal with feathers.\n5. Some insects are animals with feathers.\n6. There exists no bird that is also an animal with feathers.\n7. The group of birds and the group of flying creatures are the same.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. \n\nFrom premises 4 and 7, we can conclude that birds are not animals with feathers, since they are flying creatures.\n\nFrom premises 1, 2, 3, and 5, we can conclude that animals with feathers are not birds, since they are not flying creatures.\n\nCombining these conclusions, we can infer that there are no animals with feathers.\n\nHowever, this conclusion contradicts premises 1, 2, 3, and 5, which state that some animals (mammals, reptiles, fish, and insects) are animals with feathers.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "91df55b5-dbf0-48b9-90a5-c81c400aa335",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. There are many nebulae that are celestial bodies.\n2. Any galaxy is a collection of celestial bodies.\n3. Every star is a celestial body.\n4. There are some things known as planets which do not possess the qualities of moons.\n5. It is true that all comets are celestial bodies.\n6. Every single planet is a celestial body.\n\nThe conclusion is: Some celestial bodies are not moons.\n\nThe argument is trying to establish a connection between the premises and the conclusion. However, the premises only provide information about the types of celestial bodies (nebulae, galaxies, stars, planets, comets) but do not provide any information about the relationship between these types and the concept of \"moon.\"\n\nThe argument is trying to conclude that some celestial bodies are not moons, but it does not provide any evidence or reasoning that would support this conclusion. The premises do not establish a connection between the types of celestial bodies and the concept of \"moon.\"\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "ee0b38f6-82ac-4257-8922-21ea50eb0273",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, we need to examine the conclusion and see if it logically follows from the premises.\n\nThe conclusion is: Some shapes fail to be objects.\n\nThe premises include statements about circles, triangles, polygons, rectangles, squares, and geometry textbooks. However, none of these premises directly relate to the conclusion about shapes and objects.\n\nThe only premise that seems to be related to the conclusion is: Every single square is a shape. This premise is a necessary condition for the conclusion, but it is not sufficient on its own.\n\nHowever, the conclusion is not logically entailed by the premises. The premises do not provide any information about the relationship between shapes and objects, and the conclusion is not a necessary consequence of the premises.\n\nTherefore, the argument is: No (invalid).",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "77e383b5-af50-4901-8dda-9d315532f21f",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some cellos are string instruments.\n2. All harps are string instruments.\n3. Any banjo is a string instrument.\n4. Every violin is a string instrument.\n5. Any object that is a guitar is a string instrument.\n6. There are no drums that are also string instruments.\n7. A portion of drums are not guitars.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be leading towards a conclusion that all cellos are string instruments.\n\nHowever, the conclusion is not directly supported by the premises. Premise 6 states that there are no drums that are also string instruments, but it does not provide any information about cellos. Premise 7 suggests that some drums are not guitars, but it does not imply anything about cellos.\n\nSince the conclusion is not logically entailed by the premises, the argument is invalid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "95208d09-fdd0-4bb4-a847-10c949c62401",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Every accountant is a professional. (Premise 1)\n2. Every doctor is a professional. (Premise 2)\n3. Any dentist is a professional. (Premise 3)\n4. It is true that all engineers are professionals. (Premise 4)\n5. Anything that is a lawyer is a professional. (Premise 5)\n6. There exist lawyers who are not doctors. (Premise 6)\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. The argument seems to be leading towards a conclusion that all professionals are either doctors, accountants, dentists, engineers, or lawyers.\n\nHowever, the argument is trying to establish a connection between the existence of lawyers who are not doctors and the conclusion that all professionals are either doctors, accountants, dentists, engineers, or lawyers.\n\nThe problem lies in the fact that the premises do not provide any information about the relationship between the professions mentioned (accountants, doctors, dentists, engineers, lawyers) and the professions not mentioned. The argument is trying to make a generalization about all professionals based on a specific subset of professions.\n\nTherefore, the argument is not logically valid because it does not follow necessarily from the premises that all professionals are either doctors, accountants, dentists, engineers, or lawyers.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "916c151e-c286-4414-b43d-501c1ef0d2c6",
+    "validity": true,
+    "p_yes": 0.9774,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All grass is a plant.\n2. Every tree is a plant.\n3. Any fern is a plant.\n4. Every bush is a plant.\n5. Every carrot is a plant.\n6. It follows that some carrots are not trees.\n\nThe conclusion \"some carrots are not trees\" can be logically derived from the premises. Since all trees are plants (2), and carrots are also plants (5), the only way to conclude that some carrots are not trees is if the category of \"trees\" is distinct from the category of \"carrots.\" This is a valid logical structure.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      0,
+      1,
+      4
+    ]
+  },
+  {
+    "id": "f5c43a45-704e-433b-85de-aa8c847e0505",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: There are no creatures that are both reptiles and mammals.\n2. Premise 2: There are no whales that are fish.\n3. Premise 3: Every single bear is a mammal.\n4. Premise 4: Any animal that nurses its young is a mammal.\n5. Premise 5: It is true that all monkeys are primates.\n6. Premise 6: Some creatures have warm blood.\n7. Premise 7: The class of animals has members that are mammals.\n8. Conclusion: Consequently, some of the animals are not reptiles.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the existence of reptiles among animals, so the conclusion cannot be inferred. \n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "7edea914-950f-47e5-b191-bfa700fc79d3",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the logical validity of the argument, let's break it down:\n\n1. Premise 1: Anything that is a human is a primate.\n2. Premise 2: Any chimpanzee is a primate.\n3. Premise 3: There are many gorillas that are primates.\n4. Premise 4: Every ape is a primate.\n5. Premise 5: It is undeniable that all lemurs are primates.\n6. Premise 6: The set of reptiles contains no primates.\n7. Conclusion: It can be said that some reptiles are not human beings.\n\nThe conclusion does not follow logically from the premises. The premises only discuss the relationship between humans, primates, and other animals, but they do not provide any information about reptiles. The conclusion is unrelated to the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "2f621250-c430-423e-8764-e85de5612ffe",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no pigs that are not made of glass. (Premise)\n2. It is a fact that all horses are plants. (Premise)\n3. Every single dog is an animal. (Premise)\n4. Some fish are made of wood. (Premise)\n5. Any cow is a cloud. (Premise)\n6. Anything that is a cat is an animal. (Premise)\n7. Therefore, a dog is a cat. (Conclusion)\n\nThe conclusion \"a dog is a cat\" is not logically connected to the premises. The premises provide information about pigs, horses, dogs, fish, cows, and cats, but none of them directly support the conclusion that a dog is a cat. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "32409b79-c693-4333-aeb0-377c0e6e1e0b",
+    "validity": true,
+    "p_yes": 0.9914,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Every single whale is a large mammal. (This implies that whales are mammals.)\n2. Premise: Some animal is a mammal. (This implies that there exists at least one mammal.)\n3. Premise: There are no bears that are insects. (This is irrelevant to the conclusion.)\n4. Premise: Some creatures in the zoo are elephants. (This implies that elephants exist.)\n5. Premise: Any creature with a trunk is likely an elephant. (This implies that elephants have trunks.)\n6. Premise: There are elephants that are also mammals. (This implies that elephants are mammals.)\n7. Conclusion: This implies that all elephants are animals.\n\nThe conclusion follows logically from the premises. The premises establish that elephants are mammals and have trunks, and since the conclusion states that all elephants are animals, it is a logical consequence of the premises.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "ad6152dc-6788-4929-a6b4-96baa888d234",
+    "validity": false,
+    "p_yes": 0.0013,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There are no bicycles that are vehicles. (Premise)\n2. Every single item which is a car is a vehicle. (Premise)\n3. This implies that all cars are bicycles. (Conclusion)\n\nThe conclusion directly follows from the premises. If all cars are vehicles (premise 2) and there are no bicycles that are vehicles (premise 1), it logically follows that all cars cannot be bicycles, as they would be vehicles. However, the conclusion states the opposite, implying a contradiction.\n\nThe argument is attempting to lead to a false conclusion, which indicates it is invalid.",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "a0013abe-3c31-457d-a8d8-627b672b3a11",
+    "validity": false,
+    "p_yes": 0.0003,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Any spider is an animal.\n2. There are many worms that are animals.\n3. There is no bird that is an insect.\n4. It is a fact that all fish are animals.\n5. It is also true that no insect is a mammal.\n6. It follows from this that no mammal is a bird.\n\nThe conclusion \"no mammal is a bird\" is not logically connected to the premises. The premises discuss animals, insects, worms, fish, and spiders, but there is no direct link to mammals or birds. The argument is trying to establish a connection between mammals and birds, but the premises do not provide any information about this relationship.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "5cc38609-ad0a-449a-9935-7de2b1766529",
+    "validity": false,
+    "p_yes": 0.0005,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some rocks are foods. (Premise)\n2. Anything that is a cheese is a food. (Premise)\n3. Every single car is a food. (Premise)\n4. Any chair is a food. (Premise)\n5. Every single fruit is a food. (Premise)\n6. This means every fruit is a cheese. (Conclusion)\n\nThe conclusion is based on the premise that anything that is a cheese is a food (step 2). However, the premises also state that every single car and every single chair are foods (steps 3 and 4), which does not logically follow that every fruit is a cheese.\n\nThe argument is trying to force a conclusion by listing unrelated premises, but it does not provide a logical connection between the premises and the conclusion. Therefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "79738e33-f191-49fa-b0fd-b932fa0b3aed",
+    "validity": true,
+    "p_yes": 0.9669,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Every single moon is made of solid butter.\n2. Premise 2: Some stars are actually giant marshmallows.\n3. Premise 3: It is a fact that all galaxies are made of yogurt.\n4. Premise 4: There is no planet that is not made of cheese.\n5. Premise 5: Every single thing made of cheese is a tiny insect.\n\nFrom these premises, the conclusion is: a few tiny insects are planets.\n\nNow, let's analyze the logical structure:\n\n- Premise 4 implies that all planets are made of cheese.\n- Premise 5 implies that all things made of cheese are tiny insects.\n- Therefore, all planets are tiny insects (by transitive property).\n\nThe conclusion \"a few tiny insects are planets\" is a direct consequence of the premises. It is a valid inference.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "e0559073-ff50-4367-a142-bde2eed73f6f",
+    "validity": false,
+    "p_yes": 0.001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premises:\n   - Some animals are carrots.\n   - Some onions can run very fast.\n   - Every single potato has a beating heart.\n   - There are no radishes that are not reptiles.\n   - It is a fact that all celery stalks are mammals.\n   - Any lettuce leaf is a living bird.\n   - A carrot is a vegetable.\n\n2. Conclusion:\n   - Some vegetables are animals.\n\nThe conclusion is that some vegetables are animals. However, the premises do not provide any direct connection between the characteristics of vegetables and animals. They introduce unrelated statements about carrots, onions, potatoes, radishes, celery, lettuce, and the fact that a carrot is a vegetable. \n\nThere is no logical link between the premises and the conclusion. The conclusion does not necessarily follow from the premises. \n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "bf8e2c3d-64e5-4654-9c62-63294e798edd",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: There are no bulldogs that are not siamese cats. (This premise is irrelevant to the conclusion.)\n2. Premise 2: Every single poodle is a type of tiger. (This premise is irrelevant to the conclusion.)\n3. Premise 3: It is true that all golden retrievers are lions. (This premise is irrelevant to the conclusion.)\n4. Premise 4: There are some cats who are mammals. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Any animal that barks is a housecat. (This premise is irrelevant to the conclusion.)\n6. Premise 6: It is known that some dogs are mammals. (This premise is relevant to the conclusion.)\n7. Conclusion: It follows that some dogs are cats.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any direct connection between dogs and cats. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "82c38676-a312-4f4d-8f72-31049cb2390d",
+    "validity": false,
+    "p_yes": 0.015,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. There are no gloves that are not made of water. (Premise)\n2. Every coat is a puddle. (Premise)\n3. Some pants are made of gas. (Premise)\n4. Any hat is a cloud. (Premise)\n5. Any article of clothing that is a jacket is also a liquid. (Premise)\n6. Some shirts, it is known, are not liquids. (Premise)\n7. This necessarily implies that some shirts are not jackets. (Conclusion)\n\nThe conclusion is not directly related to the premises. The premises discuss various types of clothing and their properties, but they do not provide any information about the relationship between shirts and jackets. The conclusion seems to be an unrelated statement.\n\nHowever, let's examine the structure more closely. The conclusion is not necessarily implied by the premises. The premises discuss various clothing items and their properties, but they do not provide any information about the relationship between shirts and jackets.\n\nThe conclusion seems to be an unrelated statement.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "1f0f0bc2-182b-473a-b09e-8529c1493ce2",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single cloud is made of iron.\n2. Premise 2: Every part of the sky is a thing that is blue.\n3. Premise 3: Some raindrops are actually solid lead.\n4. Premise 4: It is true that the sun is made of cold ice.\n5. Premise 5: Every car is a thing that is blue.\n6. Conclusion: A few cars are the sky.\n\nThe conclusion does not logically follow from the premises. The premises do not establish any connection between cars and the sky. The conclusion is unrelated to the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "975f4837-20c4-47cd-a4db-8aebfbe45a31",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. There is no mammal that is an insect. (Premise)\n2. Any animal with four legs is a spider. (Premise)\n3. Every single spaniel lays eggs. (Premise)\n4. There are no canines with fur. (Premise)\n5. The set of insects and the set of dogs are mutually exclusive. (Premise)\n6. A portion of dogs are not mammals. (Conclusion)\n\nThe conclusion is not necessarily implied by the premises. The premises do not provide a logical connection between the fact that a portion of dogs are not mammals and the conclusion that every single spaniel lays eggs. The argument is trying to establish a connection between the fact that a portion of dogs are not mammals and the conclusion that every single spaniel lays eggs, but the premises do not provide a logical basis for this connection.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "443d1f44-4667-4e8f-99c7-7fbb61012db9",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Every single motorcycle uses fuel.\n2. Premise 2: Every car has an engine.\n3. Premise 3: It is a known fact that all planes fly.\n4. Premise 4: Some trains run on tracks.\n5. Premise 5: All boats also have engines.\n6. Conclusion: Therefore, some boats are not cars.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between boats and cars, so the conclusion is not supported by the given premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "fcf7ef11-b2a2-438c-9199-d698a216f76f",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Premise: All streams flow downhill.\n2. Premise: Every single lake is filled with water.\n3. Premise: Some seas are very deep and salty.\n4. Premise: Nothing that is a river is also an ocean.\n5. Premise: Any pond is a small body of water.\n6. Premise: There are no deserts that are covered in water.\n7. Premise: Among things classified as bodies of water, a number of them are rivers.\n\nConclusion: A portion of bodies of water are not oceans.\n\nThe conclusion is not necessarily true based on the premises. The premises only provide information about the characteristics of rivers, lakes, seas, and ponds, but they do not provide any direct information about the relationship between bodies of water and oceans. The conclusion is an inference that is not logically guaranteed by the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "cbf0eeae-f616-4e06-a883-6550889e5ecc",
+    "validity": true,
+    "p_yes": 0.9949,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Some flowers are moulded from synthetic polymers.\n2. Premise 2: A number of plastic items are plants.\n\nThe conclusion is: Some plants are made of plastic.\n\nThe argument is logically valid because it uses a valid form of reasoning: \n\nIf some A are B, and some B are C, then some A are C.\n\nIn this case, some flowers (A) are moulded from synthetic polymers (B), and some plastic items (B) are plants (C). Therefore, some flowers (A) are plants (C), which implies that some plants (C) are made of plastic (B).\n\nSo, the argument is logically valid.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "3945049f-dac7-47f3-8ad0-8561c10cb888",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure:\n\n1. Some walls are made of air.\n2. Every single roof is made of clouds.\n3. It is true that some things that are sheds are not structures.\n4. Any window is a hole in the fabric of reality.\n5. All sheds are houses.\n\nThe conclusion is: It logically follows that there are some houses that are not structures.\n\nThe argument is trying to connect the premises to the conclusion through the following steps:\n\n- Walls made of air and roofs made of clouds are irrelevant to the conclusion.\n- The statement about sheds and structures is also unrelated.\n- The statement about windows is irrelevant.\n- The statement about all sheds being houses is the crucial link.\n\nHowever, the conclusion does not logically follow from the premises. The statement \"All sheds are houses\" does not imply that there are some houses that are not structures. The conclusion is a non-sequitur.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b762e8f5-959c-44c9-bb16-3b6811435918",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Any building that exists is a biological organism. (Premise)\n2. It is a fact that all floors can speak English. (Premise)\n3. There are no stairs that are not musical instruments. (Premise)\n4. All of the things that are windows are animals. (Premise)\n5. All of the things that are doors are animals. (Premise)\n6. It can be deduced that there are doors that are windows. (Conclusion)\n\nThe conclusion is not necessarily true based on the premises. The premises do not provide any information about the relationship between doors and windows, or the fact that they are animals. The conclusion is an independent statement that does not logically follow from the premises.\n\nTherefore, the argument is: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "39f475a0-0e0b-474d-9ae1-854ccee75d5c",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise: Some octagons have only two sides. (This premise is irrelevant to the conclusion.)\n2. Premise: It is a fact that all lines are curved. (This premise is irrelevant to the conclusion.)\n3. Premise: Any hexagon is a type of liquid. (This premise is irrelevant to the conclusion.)\n4. Premise: Every single shape is not a triangle. (This premise is irrelevant to the conclusion.)\n5. Premise: There are no angles in a triangle. (This premise is irrelevant to the conclusion.)\n6. Premise: Every single circle is a square. (This premise is irrelevant to the conclusion.)\n7. Premise: Of the items that are polygons, some are triangles. (This premise is relevant to the conclusion.)\n8. Conclusion: It must be the case that some polygons are not shapes.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between polygons and shapes. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "21bb5107-f3f4-4139-999f-a86b47ca52a9",
+    "validity": true,
+    "p_yes": 0.9632,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Every single singer is a robot.\n2. Premise: Some guitarists are actually statues.\n3. Premise: Anything that is a human is not a non-living thing.\n4. Conclusion: Some musicians are not humans.\n\nThe conclusion is not directly supported by the premises. The premises only talk about singers, guitarists, and humans, but the conclusion is about musicians in general. The argument does not provide a clear connection between the premises and the conclusion.\n\nHowever, there is a premise that states \"The group of people known as musicians includes a few that are non-living things.\" This premise directly supports the conclusion.\n\nTherefore, the argument is valid because the conclusion follows logically from one of the premises.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "c9f8a934-7cfd-49a1-a8be-fd73c25c0cc2",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Some sofas are made of water.\n2. Premise 2: Every single table is a cloud.\n3. Premise 3: There are no rugs that are not made of fire.\n4. Premise 4: It is true that all beds are invisible.\n5. Premise 5: Every piece of furniture is a household item.\n6. Premise 6: Any lamp is a wild animal.\n7. Premise 7: No chair is a household item.\n8. Conclusion: No chair is a furniture.\n\nThe conclusion is not necessarily related to the premises. The premises contain unrelated statements about furniture, tables, clouds, rugs, beds, lamps, and chairs. The conclusion does not logically follow from the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "fddb42a1-b0b4-4fa1-937f-e8b452fc5651",
+    "validity": true,
+    "p_yes": 0.9708,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Any piece of furniture that is a bed is also a piece of furniture. (Premise)\n2. It is undeniable that all chairs are furniture. (Premise)\n3. Every sofa is a piece of furniture. (Premise)\n4. Some tables are pieces of furniture. (Premise)\n5. Some metals are not pieces of furniture. (Premise)\n6. Therefore, some metals are not beds. (Conclusion)\n\nThe conclusion follows logically from the premises. Since some metals are not pieces of furniture (Premise 5), and any piece of furniture that is a bed is also a piece of furniture (Premise 1), it can be inferred that some metals are not beds.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "94946224-84ba-46d1-9a98-485fa76bd9b9",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: All oaks are trees.\n2. Premise: No trees are things that are plants.\n3. Conclusion: Some oaks are not plants.\n\nFrom the premises, we can infer that since all oaks are trees and no trees are plants, then no oaks are plants. However, the conclusion states \"some oaks are not plants,\" which is a contradiction to the logical conclusion that can be drawn from the premises.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "d945adae-55df-4eaa-8116-9921d9a4819e",
+    "validity": false,
+    "p_yes": 0.0006,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. All crocodiles are cold-blooded. (Premise)\n2. Mammals are never snakes. (Premise)\n3. Any python is a large snake. (Premise)\n4. Some turtles have hard shells. (Premise)\n5. Some of the snakes are reptiles. (Premise)\n6. There exist reptiles that are not mammals. (Conclusion)\n\nThe conclusion is not directly related to the premises. The premises discuss crocodiles, mammals, snakes, turtles, and reptiles, but they do not provide a clear connection to the conclusion. The conclusion seems to be a non-sequitur.\n\nHowever, let's examine the premises more closely:\n\n- Premise 5 states that some snakes are reptiles.\n- Premise 6 states that there exist reptiles that are not mammals.\n\nFrom these premises, we can infer that some reptiles are not mammals, which is a statement about reptiles. But this inference does not necessarily lead to the conclusion that there exist reptiles that are not mammals.\n\nThe conclusion is actually a repetition of premise 6, which is a separate statement. The argument does not provide a logical connection between the premises and the conclusion.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "4d72d72b-a3c7-43da-a66c-51e94da2fecf",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. All drills are silent (premise)\n2. Some screwdrivers are made of jelly (premise)\n3. There are no saws that can cut wood (premise)\n4. The set of tools does not intersect with the set of cars (premise)\n5. Any toolbox is filled with clouds (premise)\n6. All automobiles are hammers (premise)\n7. It is a logical consequence that some hammers are not tools (conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between hammers and tools, making the conclusion unjustified.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "65d9b1d7-e1c2-4bc2-b3b0-245c33be928e",
+    "validity": false,
+    "p_yes": 0.0011,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Any concept that exists is made of wood.\n2. Everything classified as a thought is a liquid.\n3. Everything classified as a thought is made of glass.\n4. Some dreams are made of solid concrete.\n\nThe conclusion is: at least one thing made of glass is a liquid.\n\nThe argument is trying to establish a connection between being made of glass and being a liquid. However, the premises do not provide any direct link between these two properties. Premise 3 states that thoughts are made of glass, but premise 2 states that thoughts are liquids. This creates a contradiction.\n\nSince the premises contradict each other, the conclusion cannot be logically derived from them. Therefore, the argument is invalid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "ad639add-6b0f-45db-83c7-b73f242a8ce5",
+    "validity": true,
+    "p_yes": 0.9019,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise: Some clouds are made of iron. (This premise is irrelevant to the conclusion.)\n2. Premise: There are no rivers that are not made of concrete. (This premise is irrelevant to the conclusion.)\n3. Premise: Every single gas is a solid. (This premise is irrelevant to the conclusion.)\n4. Premise: Any steam is a brick. (This premise is irrelevant to the conclusion.)\n5. Premise: Anything that is a liquid is a solid. (This premise is the key to the argument's validity.)\n6. Premise: It is true that all rain is made of rock. (This premise is irrelevant to the conclusion.)\n7. Premise: No solids are water. (This premise is the second key to the argument's validity.)\n8. Conclusion: It can be logically inferred that some water is not a liquid.\n\nThe argument is valid because it uses the premises \"Anything that is a liquid is a solid\" and \"No solids are water\" to logically infer the conclusion. The conclusion follows necessarily from the premises, making the argument valid.",
+    "relevant_premises": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "d0b0f737-2bb8-424a-a77a-5cce245a9425",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All vines have leaves.\n2. Any herb has leaves.\n3. There are trees that have leaves.\n4. Every bush has leaves.\n5. There are many plants that have leaves.\n6. Some flowers have leaves.\n7. Every single oak has leaves.\n8. This means every oak is a tree.\n\nThe conclusion \"every oak is a tree\" is not logically connected to the premises. The premises only establish that various types of plants have leaves, but they do not provide any information about the relationship between oaks and trees.\n\nThe argument is trying to make a categorical conclusion about oaks being trees based on the fact that oaks have leaves, but it does not provide any evidence that oaks are a subset of trees. The premises could be true, and yet oaks could be a distinct category of plants that have leaves.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "e7844c3e-533f-4c79-adcb-9e9ff7a2d658",
+    "validity": true,
+    "p_yes": 0.9905,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: Any food that is a kale leaf is nutritious. (This premise is irrelevant to the conclusion.)\n2. Premise 2: Some green things are cabbages. (This premise is relevant, but we don't know if cabbages are green or not.)\n3. Premise 3: There are no carrots that are blue. (This premise is irrelevant to the conclusion.)\n4. Premise 4: Some peppers are red or yellow. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Every single cabbage is a vegetable. (This premise is relevant and supports the conclusion.)\n\nThe conclusion is \"Some vegetables are green.\" We can infer this conclusion from Premise 5, which states that every single cabbage is a vegetable, and Premise 2, which states that some green things are cabbages. Therefore, if some green things are cabbages and all cabbages are vegetables, then some vegetables must be green.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "85c60967-410c-4f5a-8905-398f14ae3117",
+    "validity": false,
+    "p_yes": 0.0082,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: There are no hard drives that are not made of cheese. (Irrelevant to the conclusion)\n2. Premise 2: Anything that is part of a computer is an electronic device. (This premise is relevant)\n3. Premise 3: A keyboard is not an electronic device. (This premise contradicts premise 2)\n4. Conclusion: No keyboard is part of a computer.\n\nThe conclusion follows logically from premise 3, which directly contradicts premise 2. However, the argument's conclusion is not supported by the premises. The conclusion should be \"A keyboard is not part of a computer\" (which is logically equivalent to \"No keyboard is part of a computer\"), but it is not explicitly stated that a keyboard is part of a computer. \n\nHowever, the argument is trying to trick us by including irrelevant premises. The conclusion does not logically follow from the premises because the premises do not provide any information about keyboards being part of a computer. \n\nThe argument is trying to distract us with irrelevant information, but the conclusion does not logically follow from the premises.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "1c306341-624a-42e9-900b-273ab27ad0ea",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To evaluate the argument's validity, let's break it down:\n\n1. Premise 1: Some giraffes have gills to breathe underwater. (Irrelevant to the conclusion)\n2. Premise 2: Any desert creature requires water to drown in. (Irrelevant to the conclusion)\n3. Premise 3: It is a fact that all lions swim like dolphins. (Irrelevant to the conclusion)\n4. Premise 4: Any fish lives in water. (Irrelevant to the conclusion)\n5. Premise 5: Every fish is an animal. (Irrelevant to the conclusion)\n6. Conclusion: All animals live in water.\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about animals in general, only about specific groups (giraffes, lions, fish). There is no logical connection between the premises and the conclusion.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "75710dae-ffc2-42d9-9dd6-7a7c1613fec3",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Premise 1: Anything that is a dog is a mammal.\n2. Premise 2: Every horse is a mammal.\n3. Premise 3: Some cows are mammals.\n4. Premise 4: There are many rabbits that are mammals.\n5. Premise 5: Anything that is a cat is a mammal.\n6. Conclusion: A cat cannot be a dog.\n\nThe conclusion does not logically follow from the premises. The premises establish that dogs, horses, cows, rabbits, and cats are mammals, but they do not provide any information about the relationship between being a cat and being a dog. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "af29ebc7-9bdb-4bd3-8fac-22c7ab69d3a1",
+    "validity": false,
+    "p_yes": 0.0007,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All bacteria are living things.\n2. Some organisms are living things.\n3. There are many creatures that are living things.\n4. All things that are plants are living things.\n5. Any fungus is a living thing.\n6. Every animal is a living thing.\n7. There are no living things that are stones.\n8. This proves that no stone is a plant.\n\nThe conclusion is not directly supported by the premises. The premises establish that all living things are either bacteria, organisms, creatures, plants, fungi, or animals. However, they do not provide any information about the relationship between stones and plants. The conclusion is an unjustified leap.\n\nFinal answer: No (invalid).",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "8242404a-eff1-4707-91cd-aed3de032957",
+    "validity": false,
+    "p_yes": 0.0012,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some sculptures are works of art. (Premise 1)\n2. Every person who is a musician is an artist. (Premise 2)\n3. There are no symphonies that are not musical compositions. (Premise 3)\n4. It is a known fact that all composers write music. (Premise 4)\n5. Every single painter is a creative individual. (Premise 5)\n6. Some humans are musicians. (Premise 6)\n7. This means that there are some artists who are humans. (Conclusion)\n\nThe conclusion is not directly supported by the premises. The premises do not provide a clear connection between the concepts of \"sculptures,\" \"musicians,\" \"painters,\" and \"artists\" to conclude that there are some artists who are humans.\n\nThe argument is trying to establish a connection between the premises and the conclusion using the fact that some humans are musicians, but it does not provide a logical link between the premises and the conclusion.\n\nTherefore, the argument is not logically valid.",
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "ca9acda9-4737-4fd4-88b7-14edf5702308",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremises:\n1. All grass is a type of bird.\n2. Every single fern is a car.\n3. Some mosses are made of plastic.\n4. Every single tree is a plant.\n5. All roses are plants.\n\nConclusion:\nEvery rose is a tree.\n\nThe conclusion does not logically follow from the premises. The premises provide information about grass, ferns, mosses, trees, and roses, but they do not establish a connection between roses and trees. The conclusion is unrelated to the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "ee58f448-85b2-4fc6-be05-e24a5e7e818c",
+    "validity": true,
+    "p_yes": 0.9748,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Any recliner is an item to sit on. (Premise)\n2. There are no beanbags that are not items to sit on. (Premise)\n3. Not a single piece of furniture is an item to sit on. (Premise)\n4. It is a fact that all sofas are items to sit on. (Premise)\n5. Every single item that is a chair is an item to sit on. (Premise)\n6. This proves that a portion of chairs are not furniture. (Conclusion)\n\nThe conclusion is based on the premises that all chairs are items to sit on and not a single piece of furniture is an item to sit on. If all chairs are items to sit on, and not a single piece of furniture is an item to sit on, then it logically follows that some chairs are not furniture.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "12765b4d-c030-4998-b96f-62b5893dd06f",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremises:\n1. All pentagons have two sides.\n2. Some triangles are perfectly round.\n3. There are some rectangles that are squares.\n4. Every single circle has four corners.\n5. Any line is a three-dimensional cube.\n6. There are no shapes that are flat.\n7. A portion of the items that are quadrilaterals are squares.\n\nConclusion: Some quadrilaterals are not rectangles.\n\nThe conclusion does not follow logically from the premises. The premises do not provide any information about the relationship between quadrilaterals and rectangles. They introduce irrelevant information about pentagons, triangles, circles, lines, and flat shapes.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "449e791e-e126-4e77-a507-c3ae8530e9d7",
+    "validity": false,
+    "p_yes": 0.0008,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\n1. Some leopards are fish. (Premise)\n2. There are no panthers that are not made of wood. (Premise)\n3. Not a single cat is a feline. (Premise)\n4. Any jaguar is a reptile. (Premise)\n5. Every single thing that is a tiger is a cat. (Premise)\n6. It can be concluded that some tigers are not felines. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about tigers being felines or not. They introduce unrelated concepts (leopards, panthers, cats, jaguars, and reptiles) that do not affect the conclusion.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      4
+    ]
+  },
+  {
+    "id": "81f3e580-217b-450c-ad63-ba8f2eba63d8",
+    "validity": false,
+    "p_yes": 0.0004,
+    "reasoning": "To determine the validity of the argument, let's analyze its logical structure.\n\nThe conclusion is not explicitly stated, but we can infer it from the premises. \n\nPremise 1: Every cat is a human.\nPremise 2: Every single cat is a mammal.\n\nFrom these premises, we can logically conclude that every human is a mammal.\n\nHowever, the argument does not provide a direct conclusion. We can infer another conclusion from the premises:\n\nPremise 3: Every single human is a mammal.\nPremise 4: Every single rabbit is a car.\n\nFrom these premises, we cannot logically conclude anything about humans or rabbits being cars, as the premises are unrelated.\n\nThe argument is a collection of unrelated statements, and we cannot derive a logical conclusion from them. Therefore, the argument is not logically valid.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      6
+    ]
+  },
+  {
+    "id": "65fa0607-719c-4cf2-bdec-7a7f4c370ddd",
+    "validity": true,
+    "p_yes": 0.9885,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. All whales are mammals (premise)\n2. No mammal is an insect (premise)\n3. Some bears are mammals (premise)\n4. Every tiger is a mammal (premise)\n5. All elephants are categorized as mammals (premise)\n6. Therefore, no elephants are insects (conclusion)\n\nThe argument is essentially saying: \"Since all these animals are mammals, and no mammals are insects, then no elephants are insects.\"\n\nThe conclusion follows logically from the premises, as the premises establish a common category (mammals) and a characteristic (not being an insect) that applies to all the animals mentioned, including elephants.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "94d768b0-bda6-4038-89be-8e1686a88fa7",
+    "validity": true,
+    "p_yes": 0.9876,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every single fire is made of ice. (Premise)\n2. It is a fact that all deserts are covered in snow. (Premise)\n3. Some lava is freezing cold. (Premise)\n4. Anything that is a star is cold. (Premise)\n5. There are no flames that are hot. (Premise)\n6. Any oven is a refrigerator. (Premise)\n7. Every single sun is a star. (Premise)\n8. There exists at least one sun that is cold. (Conclusion)\n\nThe conclusion is supported by the premises, specifically premises 4 and 7. Since every sun is a star and stars are cold, it logically follows that there exists at least one sun that is cold.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "9f7899bc-1f58-4586-a8e4-e55f63d085a2",
+    "validity": false,
+    "p_yes": 0.0001,
+    "reasoning": "To determine the validity of the argument, let's break it down:\n\n1. Every carrot is a plant. (Premise 1)\n2. Any farmer grows crops. (Premise 2)\n3. There are no gardens without soil. (Premise 3)\n4. Every single onion is a bulb. (Premise 4)\n5. Some vegetables are plants as well. (Premise 5)\n6. Therefore, some vegetables are not carrots. (Conclusion)\n\nThe conclusion does not logically follow from the premises. The premises do not provide any information about the relationship between the set of all vegetables and the set of all carrots. The conclusion is not a necessary consequence of the premises.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "4e2a8aa6-3244-4638-b52f-26f98f84a5b1",
+    "validity": true,
+    "p_yes": 0.9942,
+    "reasoning": "To evaluate the argument's validity, let's break it down:\n\n1. Premise 1: Any salad you eat is actually a saw. (This premise is irrelevant to the conclusion.)\n2. Premise 2: There are no tacos that are not screwdrivers. (This premise is irrelevant to the conclusion.)\n3. Premise 3: It is true that all pasta dishes are wrenches. (This premise is irrelevant to the conclusion.)\n4. Premise 4: Some tools are pizza. (This premise is irrelevant to the conclusion.)\n5. Premise 5: Some sandwiches are used to tighten screws. (This premise is irrelevant to the conclusion.)\n6. Premise 6: A slice of pizza is a type of food. (This premise is relevant to the conclusion.)\n7. Conclusion: As such, some food are tools.\n\nThe conclusion follows from Premise 6, which states that a slice of pizza is a type of food. Since some tools are pizza (Premise 4), and a slice of pizza is a type of food, it logically follows that some food are tools.\n\nTherefore, the argument is logically valid.",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "440e974e-02f5-453b-8f9b-98c6d26c65f9",
+    "validity": true,
+    "p_yes": 0.9846,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Premise 1: There are no branches that are not made of glass.\n2. Premise 2: It is a fact that all soil is made of candy.\n3. Premise 3: Some roots are made of pure gold.\n4. Premise 4: Any forest is a collection of cardboard boxes.\n5. Premise 5: Anything that is a tree is made of paper.\n6. Premise 6: Every single oak is a tree.\n7. Conclusion: There are no oaks which are not made of paper.\n\nThe conclusion follows logically from the premises, specifically from Premise 6 and Premise 5. Since every oak is a tree and anything that is a tree is made of paper, it logically follows that every oak is made of paper. Therefore, there are no oaks which are not made of paper.\n\nFinal answer: Yes (valid).",
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "10bb3e13-ef4b-4ee9-9d26-f84df8b4eef7",
+    "validity": false,
+    "p_yes": 0.0002,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Some office blocks are made of straw. (Premise)\n2. It is true that all cathedrals are small huts. (Premise)\n3. Every single tower is a bungalow. (Premise)\n4. Anything that is a house is a building. (Premise)\n5. There are skyscrapers, and all of them are buildings. (Premise)\n6. Therefore, every skyscraper is a house. (Conclusion)\n\nThe conclusion is not logically connected to the premises. The premises discuss office blocks, cathedrals, towers, and buildings, but there is no direct link to skyscrapers being houses. The argument is trying to force a connection that is not present.\n\nFinal answer: No (invalid)",
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d2fbeddb-ad92-4df0-9782-a2cf057c00d7",
+    "validity": true,
+    "p_yes": 0.9818,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every flower is a plant. (Premise)\n2. All of the things that are trees are plants. (Premise)\n3. Any vine is a plant. (Premise)\n4. It is a fact that all moss is a plant. (Premise)\n5. Some bushes are plants. (Premise)\n6. There are many herbs that are plants. (Premise)\n7. It is the case that no plants are planets. (Premise)\n8. Thus, no planet is a tree. (Conclusion)\n\nThe conclusion is derived from the premises, specifically from the relationship between plants and trees. The argument is logically valid because it uses the premises to establish a connection between the categories of plants and trees, and then applies that connection to the conclusion.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "74f5886c-08f6-4ee9-b97f-480ff3ca2007",
+    "validity": false,
+    "p_yes": 0.0005,
+    "reasoning": "To determine the validity of the argument, let's analyze its structure:\n\nPremise 1: All televisions are birds.\nPremise 2: No electronic device is a phone.\nConclusion: Every phone is a book.\n\nThe conclusion does not follow from the premises. The premises do not provide any information about the relationship between phones and books. They introduce unrelated statements about televisions, cameras, computers, radios, tablets, and books.\n\nTherefore, the argument is invalid.",
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "3588e2e9-b582-4bf5-9c33-58283d42b60a",
+    "validity": true,
+    "p_yes": 0.9806,
+    "reasoning": "To determine the validity of the argument, let's break it down step by step:\n\n1. Every single page is a puddle of water. (Premise)\n2. Every single novel is a book. (Premise)\n3. Anything that is a book is made of liquid. (Premise)\n4. Every single novel is a book. (Repeated premise)\n5. Consequently, some novels are made of liquid. (Conclusion)\n\nThe conclusion follows logically from the premises. If every page of a novel is a puddle of water and every novel is a book, then it follows that novels are made of liquid, since books are made of liquid.\n\nFinal answer: Yes (valid)",
+    "relevant_premises": [
+      2,
+      6
+    ]
+  }
+]

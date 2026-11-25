@@ -29,7 +29,7 @@
 
 \begin{center}
 {\large\bfseries Content Effects in LLM Syllogistic Reasoning:\\ The Right Prompting Fix Depends on the Model (SemEval-2026 Task 11)}\\[3pt]
-Meghana Nataraju \quad University of Illinois Chicago \quad CS 421 \quad 679846107
+Meghana Nataraju \quad University of Illinois Chicago \quad CS 421 
 \end{center}
 
 \section{Task and Setup}
@@ -155,7 +155,7 @@ Qwen3 8B & Zero-shot & 66.5 & 74.7 & 23.3 & 11.0 & 22.83 \\
 
 \textbf{Failure: the rewrite itself is wrong.} ``\emph{Every single object can fly. It is known that some boats cannot fly. It follows that some boats are not objects.}'' is valid but absurd. Llama~3.1 8B rewrote it as ``\emph{A. Every single X can fly. It is known that some Y cannot fly. It follows that some Y are not Z.}'': ``objects'' received two letters (X and Z), breaking the link between premise and conclusion, so the judge correctly found the \emph{rewrite} invalid. Since a Subtask~1 syllogism has exactly three terms, I counted rewrites using exactly three letters (a heuristic). Only 44.0\% of Llama~3.1 8B's rewrites were clean (Llama~3.2 3B: 77.0\%, Qwen3: 83.8\%), and its accuracy is 77.4\% on clean rewrites vs.\ 65.4\% otherwise. Abstraction quality, not the idea itself, limits it. With Subtask~2's longer arguments there are more terms to map, matching the drop in Qwen3's abstraction accuracy.
 
-\textbf{Why abstraction does nothing for Qwen3.} Qwen3 rewrites cleanly, but its judge leans toward ``invalid'' on abstract forms (it says valid to only 34\% of items). Most of its remaining TCE is the cross part (33.1 on test, vs.\ 14.8 for the intra part; on dev the intra part is only 2.5): a general lean towards ``invalid'' rather than a plausibility effect. The metric folds both into one number, so a method can reduce the plausibility effect without lowering TCE.
+\textbf{Why abstraction does nothing for Qwen3.} Qwen3 rewrites cleanly, but its judge leans toward ``invalid'' on abstract forms (it says valid to only 34\% of items). Most of its remaining TCE is the intra-plausibility part (33.1 on test): within each plausibility group, valid and invalid arguments get very different accuracy, which reflects a general lean towards ``invalid''. The cross-plausibility part, the actual plausibility effect, is smaller (14.8 on test, 2.5 on dev). The metric folds both into one number, so a method can reduce the plausibility effect without lowering TCE.
 
 \textbf{Failure: CoT invents premises.} For the same flying-objects item, Llama~3.1 8B's reasoning said the argument ``is based on the assumption that `object' and `can fly' are equivalent'' and answered invalid. It added a requirement that is not part of the logic instead of applying the rule. Explicit appeals to real-world truth (``in reality'', ``real world'') appear in under 4\% of CoT texts, so the bias acts implicitly rather than through stated beliefs. For Qwen3, CoT is the most effective method, consistent with its training for step-by-step reasoning; Llama~3.2 3B with CoT instead calls 76\% of items valid, shifting its bias rather than removing it. Valid arguments with absurd conclusions are the hardest items for every method.
 
@@ -164,7 +164,7 @@ Qwen3 8B & Zero-shot & 66.5 & 74.7 & 23.3 & 11.0 & 22.83 \\
 
 \textbf{Limitations.} I would not claim that any method is generally best: the effect depends on the model. Test sets have only about 190 items, so differences under roughly 10 TCE points are often not significant. Prompts were not tuned, Qwen3 was run with thinking mode off only, the abstraction and CoT checks are keyword heuristics, and Subtask~1 and~2 use different items. With another month I would (1) make abstraction reliable with a structured output that maps each term to one letter, then check validity with a small rule-based solver, the approach of the top systems; (2) test several prompt wordings on dev; (3) run Qwen3 with thinking on; (4) fine-tune with LoRA on the 798 training items with plausibility-flipping augmentation; and (5) extend to the multilingual subtasks.
 
-\section{Results}
+\section{Conclusion}
 This project investigated content effects in small open-weight language models through SemEval-2026 Task 11. The results demonstrate that prompting-based mitigation is model-dependent: abstraction substantially reduces content effects in Llama models, whereas chain-of-thought reasoning is more effective for Qwen3. Evaluation on Subtask 2 further shows that performance differences associated with distracting premises vary across model-method configurations. Although the proposed methods do not match the strongest neuro-symbolic systems, they demonstrate that computationally inexpensive prompting strategies can meaningfully improve reasoning robustness without fine-tuning. These findings highlight the importance of model-specific evaluation when designing content-independent reasoning systems.
 
 \subsection*{Use of Generative AI}

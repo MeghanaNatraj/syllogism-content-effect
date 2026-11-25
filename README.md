@@ -11,7 +11,7 @@ The task: decide whether a syllogism is **logically valid**, regardless of wheth
 | Qwen3 8B + chain-of-thought | 1 | 84.3 | 6.3 | 28.28 |
 | Llama 3.1 8B + abstraction | 2 | 61.1 (premise F1 92.1) | 3.5 | 30.58 |
 
-Full write-up: [`report/report.pdf`](report/report.pdf).
+Full write-up: [`report/report.pdf`](report/CS421Task11.pdf).
 
 ## Repository layout
 
